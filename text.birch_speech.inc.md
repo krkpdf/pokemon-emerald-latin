@@ -30,7 +30,7 @@
 43: .string "So it's {PLAYER}{KUN}?$" - "Sic, est {PLAYER}{KUN}?$"
 46: .string "Ah, okay!\p" - "Ah, bene!\p"
 47: .string "You're {PLAYER}{KUN} who's moving to my\n" - "Es {PLAYER}{KUN} ille, qui veniat ad\n"
-48: .string "hometown of LITTLEROOT.\l" - "carum urbem PARVI RADICIS.\I"
+48: .string "hometown of LITTLEROOT.\l" - "carum urbem PARVAE RADICIS.\I"
 49: .string "I get it now!\p" - "Nunc agnosco!\p
 50: .string "$"
 53: .string "All right, are you ready?\p" - "Recte, esne paratus?"
