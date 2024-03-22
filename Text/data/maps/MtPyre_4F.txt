@@ -1,0 +1,6 @@
+12: .string "Teacher…\n"
+13: .string "Please watch over my progress!$"
+16: .string "Teacher…\n"
+17: .string "Please forgive me!$"
+20: .string "Until I improve, my teacher, who rests\n"
+21: .string "here, will never find true peace…$"

@@ -1,0 +1,2 @@
+115: .string "It's bright and shiny!\n"
+116: .string "But it's just trash…$"

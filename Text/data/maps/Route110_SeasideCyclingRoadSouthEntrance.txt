@@ -1,0 +1,7 @@
+56: .string "On CYCLING ROAD, you can go all out\n"
+57: .string "and cycle as fast as you'd like.\p"
+58: .string "It feels great to go that fast, but try\n"
+59: .string "not to crash into anyone!$"
+62: .string "Sorry, you can't walk on CYCLING\n"
+63: .string "ROAD. It's too dangerous.\p"
+64: .string "Please come back with a BIKE.$"

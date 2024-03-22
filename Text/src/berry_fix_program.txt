@@ -1,0 +1,23 @@
+18: WIN_TITLE,          // "Berry Program Update" header on the first screen
+21: WIN_TURN_OFF_TITLE, // "Ruby/Sapphire" at the top of the "turn off the power" screen
+37: static const u8 sText_BerryProgramUpdate[] = _("Berry Program Update");
+38: static const u8 sText_RubySapphire[] = _("Ruby/Sapphire");
+39: static const u8 sText_Emerald[] = _("Emerald");
+40: static const u8 sText_BerryProgramWillBeUpdatedPressA[] = _("The Berry Program on your POKéMON\n"
+41: "Ruby/Sapphire Game Pak will be updated.\n"
+42: "{COLOR RED}{SHADOW LIGHT_RED}Press the A Button.");
+43: static const u8 sText_EnsureGBAConnectionMatches[] = _("Please ensure the connection of your\n"
+44: "Game Boy Advance system matches this.\n"
+45: "{COLOR RED}{SHADOW LIGHT_RED}YES: Press the A Button.\n"
+46: "NO: Turn off the power and try again.");
+47: static const u8 sText_TurnOffPowerHoldingStartSelect[] = _("Please turn on the power of POKéMON\n"
+48: "Ruby/Sapphire while holding START and\n"
+49: "SELECT simultaneously. Then, ensure\n"
+50: "the picture above appears.");
+51: static const u8 sText_TransmittingPleaseWait[] = _("Transmitting. Please wait.\n"
+52: "{COLOR RED}{SHADOW LIGHT_RED}Please do not turn off the power or\n"
+53: "unplug the Game Boy Advance Game\nLink Cable.");
+54: static const u8 sText_PleaseFollowInstructionsOnScreen[] = _("Please follow the instructions on your\n"
+55: "POKéMON Ruby/Sapphire screen.");
+56: static const u8 sText_TransmissionFailureTryAgain[] = _("Transmission failure.\n"
+57: "{COLOR RED}{SHADOW LIGHT_RED}Please try again.");

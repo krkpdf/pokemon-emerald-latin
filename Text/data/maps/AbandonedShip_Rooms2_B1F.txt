@@ -1,0 +1,4 @@
+9: .string "This is a perfect place to go exploring!\n"
+10: .string "It's exciting here!\p"
+11: .string "I bet there're amazing treasures on\n"
+12: .string "board.$"

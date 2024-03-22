@@ -1,0 +1,1 @@
+642: gTasks[taskId].tDelay = 235; //set this to 215 to actually show "THE END" in time to the last song beat

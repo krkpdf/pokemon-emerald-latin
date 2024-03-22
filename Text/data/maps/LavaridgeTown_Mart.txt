@@ -1,0 +1,7 @@
+38: .string "Use X SPEED to add to a POKéMON's\n"
+39: .string "SPEED in battle.\p"
+40: .string "That will help it get in the first\n"
+41: .string "strike--a decided advantage!$"
+44: .string "On MT. CHIMNEY's peak, there's a local\n"
+45: .string "specialty that you can buy only there.\p"
+46: .string "Give it to a POKéMON--it will be elated.$"

@@ -1,0 +1,8 @@
+60: .string "The clerk says they're all sold out.\n"
+61: .string "I can't buy any POKé BALLS.$"
+64: .string "I'm going to buy a bunch of POKé BALLS\n"
+65: .string "and catch a bunch of POKéMON!$"
+68: .string "If a POKéMON gets hurt and loses its HP\n"
+69: .string "and faints, it won't be able to battle.\p"
+70: .string "To prevent your POKéMON from fainting,\n"
+71: .string "restore its HP with a POTION.$"

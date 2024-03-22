@@ -1,0 +1,13 @@
+198: static const u8 sText_AlphabetUpperLower[] = _("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!");
+282: __("abcdef ."),
+283: __("ghijkl ,"),
+284: __("mnopqrs "),
+285: __("tuvwxyz "),
+288: __("ABCDEF ."),
+289: __("GHIJKL ,"),
+290: __("MNOPQRS "),
+291: __("TUVWXYZ "),
+294: __("01234   "),
+295: __("56789   "),
+296: __("!?♂♀/-  "),
+297: __("…“”‘'   "),

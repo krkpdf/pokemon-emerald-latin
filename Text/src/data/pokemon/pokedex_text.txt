@@ -1,0 +1,1548 @@
+2: "This is a newly discovered POKéMON.\n"
+3: "It is currently under investigation.\n"
+4: "No detailed information is available\n"
+5: "at this time.");
+8: "BULBASAUR can be seen napping in bright\n"
+9: "sunlight. There is a seed on its back.\n"
+10: "By soaking up the sun's rays, the seed\n"
+11: "grows progressively larger.");
+14: "To support its bulb, IVYSAUR's legs\n"
+15: "grow sturdy. If it spends more time lying in\n"
+16: "the sunlight, the bud will soon bloom into\n"
+17: "a large flower.");
+20: "VENUSAUR's flower is said to take on vivid\n"
+21: "colors if it gets plenty of nutrition and\n"
+22: "sunlight. The flower's aroma soothes the\n"
+23: "emotions of people.");
+26: "The flame that burns at the tip of its\n"
+27: "tail is an indication of its emotions.\n"
+28: "The flame wavers when CHARMANDER is\n"
+29: "happy, and blazes when it is enraged.");
+32: "Without pity, its sharp claws destroy foes.\n"
+33: "If it encounters a strong enemy, it\n"
+34: "becomes agitated, and the flame on its\n"
+35: "tail flares with a bluish white color.");
+38: "A CHARIZARD flies about in search of\n"
+39: "strong opponents. It breathes intense\n"
+40: "flames that can melt any material. However,\n"
+41: "it will never torch a weaker foe.");
+44: "Its shell is not just for protection.\n"
+45: "Its rounded shape and the grooves on its\n"
+46: "surface minimize resistance in water,\n"
+47: "enabling SQUIRTLE to swim at high speeds.");
+50: "Its large tail is covered with rich, thick\n"
+51: "fur that deepens in color with age.\n"
+52: "The scratches on its shell are evidence\n"
+53: "of this POKéMON's toughness in battle.");
+56: "The waterspouts that protrude from its\n"
+57: "shell are highly accurate. Their bullets of\n"
+58: "water can precisely nail tin cans from\n"
+59: "a distance of over 160 feet.");
+62: "Its voracious appetite compels it to\n"
+63: "devour leaves bigger than itself without\n"
+64: "hesitation. It releases a terribly strong\n"
+65: "odor from its antennae.");
+68: "Its shell is as hard as an iron slab.\n"
+69: "A METAPOD does not move very much\n"
+70: "because it is preparing its soft innards\n"
+71: "for evolution inside the shell.");
+74: "It has a superior ability to search for\n"
+75: "delicious honey from flowers. It can seek,\n"
+76: "extract, and carry honey from flowers\n"
+77: "blooming over six miles away.");
+80: "A WEEDLE has an extremely acute sense\n"
+81: "of smell. It distinguishes its favorite\n"
+82: "kinds of leaves from those it dislikes by\n"
+83: "sniffing with its big red proboscis (nose).");
+86: "It remains virtually immobile while it\n"
+87: "clings to a tree. However, on the inside,\n"
+88: "it busily prepares for evolution. This is\n"
+89: "evident from how hot its shell becomes.");
+92: "A BEEDRILL is extremely territorial.\n"
+93: "For safety reasons, no one should \n"
+94: "ever approach its nest. If angered,\n"
+95: "they will attack in a swarm.");
+98: "It has an extremely sharp sense of\n"
+99: "direction. It can unerringly return home to\n"
+100: "its nest, however far it may be removed\n"
+101: "from its familiar surroundings.");
+104: "This POKéMON flies around, patrolling its\n"
+105: "large territory. If its living space is\n"
+106: "violated, it shows no mercy in thoroughly\n"
+107: "punishing the foe with its sharp claws.");
+110: "This POKéMON has gorgeous, glossy\n"
+111: "feathers. Many TRAINERS are so captivated\n"
+112: "by the beautiful feathers on its head that\n"
+113: "they choose PIDGEOT as their POKéMON.");
+116: "A RATTATA is cautious in the extreme.\n"
+117: "Even while it is asleep, it constantly\n"
+118: "moves its ears and listens for danger.\n"
+119: "It will make its nest anywhere.");
+122: "A RATICATE's sturdy fangs grow steadily.\n"
+123: "To keep them ground down, it gnaws on\n"
+124: "rocks and logs. It may even chew on the\n"
+125: "walls of houses.");
+128: "Its loud cry can be heard over half a mile\n"
+129: "away. If its high, keening cry is heard\n"
+130: "echoing all around, it is a sign that they\n"
+131: "are warning each other of danger.");
+134: "Its long neck and elongated beak are\n"
+135: "ideal for catching prey in soil or water.\n"
+136: "It deftly moves this extended and skinny\n"
+137: "beak to pluck prey.");
+140: "An EKANS curls itself up in a spiral while\n"
+141: "it rests. This position allows it to quickly\n"
+142: "respond to an enemy from any direction\n"
+143: "with a threat from its upraised head.");
+146: "This POKéMON has a terrifically strong\n"
+147: "constricting power. It can even flatten\n"
+148: "steel oil drums. Once it wraps its body\n"
+149: "around its foe, escaping is impossible.");
+152: "It stores electricity in the electric sacs\n"
+153: "on its cheeks. When it releases pent-up\n"
+154: "energy in a burst, the electric power is\n"
+155: "equal to a lightning bolt.");
+158: "If it stores too much electricity, its\n"
+159: "behavior turns aggressive. To avoid this,\n"
+160: "it occasionally discharges excess energy\n"
+161: "and calms itself down.");
+164: "When it curls up in a ball, it can make any\n"
+165: "attack bounce off harmlessly. Its hide has\n"
+166: "turned tough and solid as a result of\n"
+167: "living in the desert.");
+170: "It curls up in a ball to protect itself from\n"
+171: "enemy attacks. It also curls up to prevent\n"
+172: "heatstroke during the daytime when\n"
+173: "temperatures rise sharply.");
+176: "Its highly toxic barbs are thought to have\n"
+177: "developed as protection for this small-\n"
+178: "bodied POKéMON. When enraged, it releases\n"
+179: "a horrible toxin from its horn.");
+182: "When it is with its friends or\n"
+183: "family, its barbs are tucked away to\n"
+184: "prevent injury. It appears to become\n"
+185: "nervous if separated from the others.");
+188: "It is adept at sending foes flying with\n"
+189: "harsh tackles using its tough, scaly body.\n"
+190: "This POKéMON is at its strongest when\n"
+191: "it is defending its young.");
+194: "The male NIDORAN has developed muscles\n"
+195: "that freely move its ears in any direction.\n"
+196: "Even the slightest sound does not escape\n"
+197: "this POKéMON's notice.");
+200: "Its horn is harder than a diamond.\n"
+201: "If it senses a hostile presence, all the\n"
+202: "barbs on its back bristle up at once, and it\n"
+203: "challenges the foe with all its might.");
+206: "A NIDOKING's thick tail packs enormously\n"
+207: "destructive power capable of toppling\n"
+208: "a metal transmission tower. Once it goes\n"
+209: "on a rampage, there is no stopping it.");
+212: "On every night of a full moon, they come\n"
+213: "out to play. When dawn arrives, the tired\n"
+214: "CLEFAIRY go to sleep nestled up against\n"
+215: "each other in deep and quiet mountains.");
+218: "A CLEFABLE uses its wings to skip lightly \n"
+219: "as if it were flying. Its bouncy step\n"
+220: "lets it even walk on water. On quiet,\n"
+221: "moonlit nights, it strolls on lakes.");
+224: "It can freely control fire, making fiery\n"
+225: "orbs fly like will-o'-the-wisps. Just\n"
+226: "before evolution, its six tails grow hot \n"
+227: "as if on fire.");
+230: "It has long been said that each of the\n"
+231: "nine tails embody an enchanted power.\n"
+232: "A long-lived NINETALES will have fur that\n"
+233: "shines like gold.");
+236: "Nothing can avoid falling asleep hearing a\n"
+237: "JIGGLYPUFF's song. The sound waves of its\n"
+238: "singing voice match the brain waves of\n"
+239: "someone in a deep sleep.");
+242: "Its fur is the ultimate in luxuriousness.\n"
+243: "Sleeping alongside a WIGGLYTUFF is simply\n"
+244: "divine. Its body expands seemingly without\n"
+245: "end when it inhales.");
+248: "While living in pitch-black caverns, their\n"
+249: "eyes gradually grew shut and deprived\n"
+250: "them of vision. They use ultrasonic waves\n"
+251: "to detect obstacles.");
+254: "Its fangs easily puncture even thick\n"
+255: "animal hide. It loves to feast on the blood\n"
+256: "of people and POKéMON. It flits about in\n"
+257: "darkness and strikes from behind.");
+260: "This POKéMON grows by absorbing moonlight.\n"
+261: "During the daytime, it buries itself in the\n"
+262: "ground, leaving only its leaves exposed to\n"
+263: "avoid detection by its enemies.");
+266: "A horribly noxious honey drools from its\n"
+267: "mouth. One whiff of the honey can result\n"
+268: "in memory loss. Some fans are said to\n"
+269: "enjoy this overwhelming stink, however.");
+272: "In seasons when it produces more pollen,\n"
+273: "the air around a VILEPLUME turns yellow\n"
+274: "with the powder as it walks. The pollen is\n"
+275: "highly toxic and causes paralysis.");
+278: "A PARAS has parasitic tochukaso\n"
+279: "mushrooms growing on its back. They grow\n"
+280: "by drawing nutrients from the host. They\n"
+281: "are valued as a medicine for long life.");
+284: "PARASECT are known to infest the roots of\n"
+285: "large trees en masse and drain nutrients.\n"
+286: "When an infested tree dies, they move\n"
+287: "onto another tree all at once.");
+290: "Its coat of thin, stiff hair that covers\n"
+291: "its entire body is said to have evolved\n"
+292: "for protection. Its large eyes never fail\n"
+293: "to spot even miniscule prey.");
+296: "VENOMOTH are nocturnal--they only are\n"
+297: "active at night. Their favorite prey are\n"
+298: "insects that gather around streetlights,\n"
+299: "attracted by the light in the darkness.");
+302: "DIGLETT are raised in most farms.\n"
+303: "The reason is simple--wherever they\n"
+304: "burrow, the soil is left perfectly tilled\n"
+305: "for growing delicious crops.");
+308: "Because the triplets originally split from\n"
+309: "one body, they think exactly alike.\n"
+310: "They work cooperatively to burrow\n"
+311: "endlessly through the ground.");
+314: "MEOWTH withdraw their sharp claws into\n"
+315: "their paws to silently sneak about.\n"
+316: "For some reason, this POKéMON loves\n"
+317: "shiny coins that glitter with light.");
+320: "A PERSIAN's six bold whiskers sense air\n"
+321: "movements to determine what is in its\n"
+322: "vicinity. It becomes docile if grabbed\n"
+323: "by the whiskers.");
+326: "When its headache intensifies, it starts\n"
+327: "using strange powers. However, it has no\n"
+328: "recollection of its powers, so it always\n"
+329: "looks befuddled and bewildered.");
+332: "A GOLDUCK is an adept swimmer.\n"
+333: "It sometimes joins competitive swimmers\n"
+334: "in training. It uses psychic powers when\n"
+335: "its forehead shimmers with light.");
+338: "When it starts shaking and its nasal\n"
+339: "breathing turns rough, it's a sure sign\n"
+340: "of anger. However, since this happens\n"
+341: "instantly, there is no time to flee.");
+344: "When it becomes furious, its blood\n"
+345: "circulation becomes more robust, and\n"
+346: "its muscles are made stronger. But it\n"
+347: "also becomes much less intelligent.");
+350: "Its superb sense of smell ensures that\n"
+351: "this POKéMON won't forget any scent,\n"
+352: "no matter what. It uses its sense of smell\n"
+353: "to detect the emotions of others.");
+356: "This fleet-footed POKéMON is said to run\n"
+357: "over 6,200 miles in a single day and night.\n"
+358: "The fire that blazes wildly within its body\n"
+359: "is its source of power.");
+362: "It is possible to see this POKéMON's spiral\n"
+363: "innards right through its thin skin.\n"
+364: "However, the skin is also very flexible.\n"
+365: "Even sharp fangs bounce right off it.");
+368: "Its body surface is always wet and slick\n"
+369: "with an oily fluid. Because of this greasy\n"
+370: "covering, it can easily slip and slide out\n"
+371: "of the clutches of any enemy in battle.");
+374: "Its highly developed muscles never grow\n"
+375: "fatigued, however much it exercises.\n"
+376: "This POKéMON can swim back and forth\n"
+377: "across the Pacific Ocean without effort.");
+380: "A POKéMON that sleeps 18 hours a day.\n"
+381: "Observation revealed that it uses\n"
+382: "TELEPORT to change its location once\n"
+383: "every hour.");
+386: "It is rumored that a boy with psychic\n"
+387: "abilities suddenly transformed into\n"
+388: "KADABRA while he was assisting research\n"
+389: "into extrasensory powers.");
+392: "While it has strong psychic abilities and\n"
+393: "high intelligence, an ALAKAZAM's muscles\n"
+394: "are very weak. It uses psychic power to\n"
+395: "move its body.");
+398: "It continually undertakes strenuous\n"
+399: "training to master all forms of martial\n"
+400: "arts. Its strength lets it easily hoist\n"
+401: "a sumo wrestler onto its shoulders.");
+404: "A belt is worn by a MACHOKE to keep its\n"
+405: "overwhelming power under control.\n"
+406: "Because it is so dangerous, no one has\n"
+407: "ever removed the belt.");
+410: "It is impossible to defend against punches\n"
+411: "and chops doled out by its four arms.\n"
+412: "Its fighting spirit flares up when it faces\n"
+413: "a tough opponent.");
+416: "A BELLSPROUT's thin and flexible body lets\n"
+417: "it bend and sway to avoid any attack,\n"
+418: "however strong it may be. From its mouth,\n"
+419: "it leaks a fluid that melts even iron.");
+422: "At night, a WEEPINBELL hangs on to a tree\n"
+423: "branch with its hooked rear and sleeps.\n"
+424: "If it moves around in its sleep, it may\n"
+425: "wake up to find itself on the ground.");
+428: "The long vine extending from its head is\n"
+429: "waved about as if it were a living thing to\n"
+430: "attract prey. When an unsuspecting victim\n"
+431: "approaches, it is swallowed whole.");
+434: "Its body is almost entirely composed of\n"
+435: "water. It ensnares its foe with its two\n"
+436: "long tentacles, then stabs with the poison\n"
+437: "stingers at their tips.");
+440: "It lives in complex rock formations on\n"
+441: "the ocean floor and traps prey using its\n"
+442: "80 tentacles. Its red orbs glow when it\n"
+443: "grows excited or agitated.");
+446: "It climbs mountain paths using only the\n"
+447: "power of its arms. Because they look just\n"
+448: "like boulders lining paths, hikers may step\n"
+449: "on them without noticing.");
+452: "They descend from mountains by tumbling\n"
+453: "down steep slopes. They are so brutal,\n"
+454: "they smash aside obstructing trees and\n"
+455: "massive boulders with thunderous tackles.");
+458: "It is said to live in volcanic craters\n"
+459: "on mountain peaks. Once a year, it sheds\n"
+460: "its hide and grows larger. The shed hide\n"
+461: "crumbles and returns to the soil.");
+464: "A PONYTA is very weak at birth. It can\n"
+465: "barely stand up. Its legs become stronger\n"
+466: "as it stumbles and falls while trying to\n"
+467: "keep up with its parent.");
+470: "It usually canters casually in the fields\n"
+471: "and plains. But once a RAPIDASH turns\n"
+472: "serious, its fiery manes flare and blaze\n"
+473: "as it gallops its way up to 150 mph.");
+476: "It catches prey by dipping its tail in\n"
+477: "water at the side of a river. But it often\n"
+478: "forgets what it is doing and spends entire\n"
+479: "days just loafing at water's edge.");
+482: "Its tail has a SHELLDER firmly attached\n"
+483: "with a bite. As a result, the tail can't be\n"
+484: "used for fishing anymore. This forces it\n"
+485: "to reluctantly swim and catch prey.");
+488: "The units at its sides are extremely\n"
+489: "powerful magnets. They generate enough\n"
+490: "magnetism to draw in iron objects from\n"
+491: "over 300 feet away.");
+494: "It is actually three MAGNEMITE linked\n"
+495: "by magnetism. It generates powerful radio\n"
+496: "waves that raise temperatures by 3.6\n"
+497: "degrees F within a 3,300-foot radius.");
+500: "It is always seen with a stick from a plant.\n"
+501: "Apparently, there are good sticks and bad\n"
+502: "sticks. This POKéMON occasionally fights\n"
+503: "with others over choice sticks.");
+506: "Even while eating or sleeping, one of the\n"
+507: "heads remains always vigilant for any sign\n"
+508: "of danger. When threatened, it flees at\n"
+509: "over 60 miles per hour.");
+512: "A peculiar POKéMON species with three\n"
+513: "heads. It vigorously races across grassy\n"
+514: "plains even in arid seasons with little\n"
+515: "rainfall.");
+518: "SEEL hunt for prey in frigid, ice-covered\n"
+519: "seas. When it needs to breathe, it punches\n"
+520: "a hole through the ice with the sharply\n"
+521: "protruding section of its head.");
+524: "It loves to snooze on bitterly cold ice.\n"
+525: "The sight of this POKéMON sleeping on\n"
+526: "a glacier was mistakenly thought to be\n"
+527: "a mermaid by a mariner long ago.");
+530: "Born from polluted sludge in the sea,\n"
+531: "GRIMER's favorite food is anything filthy.\n"
+532: "They feed on wastewater pumped out from\n"
+533: "factories.");
+536: "It prefers warm and humid habitats.\n"
+537: "In the summertime, the toxic substances\n"
+538: "in its body intensify, making MUK reek like\n"
+539: "putrid kitchen garbage.");
+542: "At night, it burrows a hole in the seafloor\n"
+543: "with its broad tongue to make a place to\n"
+544: "sleep. While asleep, it closes its shell,\n"
+545: "but leaves its tongue hanging out.");
+548: "It swims in the sea by swallowing water,\n"
+549: "then jetting it out toward the rear.\n"
+550: "The CLOYSTER shoots spikes from its\n"
+551: "shell using the same system.");
+554: "When exposed to a strong wind, a GASTLY's\n"
+555: "gaseous body quickly dwindles away.\n"
+556: "They cluster under the eaves of houses\n"
+557: "to escape the ravages of wind.");
+560: "If a HAUNTER beckons you while it is\n"
+561: "floating in darkness, don't approach it.\n"
+562: "This POKéMON will try to lick you with its\n"
+563: "tongue and steal your life away.");
+566: "Deep in the night, your shadow cast by\n"
+567: "a streetlight may suddenly overtake you.\n"
+568: "It is actually a GENGAR running past\n"
+569: "you, pretending to be your shadow.");
+572: "There is a magnet in its brain that\n"
+573: "prevents an ONIX from losing direction\n"
+574: "while tunneling. As it grows older, its body\n"
+575: "becomes steadily rounder and smoother.");
+578: "If your nose becomes itchy while you are\n"
+579: "sleeping, it's a sure sign that a DROWZEE is\n"
+580: "standing above your pillow and trying to\n"
+581: "eat your dream through your nostrils.");
+584: "The arcing movement and glitter of the\n"
+585: "pendulum in a HYPNO's hand lull the foe\n"
+586: "into deep hypnosis. While searching for\n"
+587: "prey, it polishes the pendulum.");
+590: "KRABBY live in holes dug into beaches.\n"
+591: "On sandy shores with little in the way\n"
+592: "of food, they can be seen squabbling with\n"
+593: "each other over territory.");
+596: "It waves its huge, oversized claw in the\n"
+597: "air to communicate with others.\n"
+598: "But since the claw is so heavy, this\n"
+599: "POKéMON quickly tires.");
+602: "It bears an uncanny and unexplained\n"
+603: "resemblance to a POKé BALL. Because it\n"
+604: "explodes at the slightest shock, even\n"
+605: "veteran TRAINERS treat it with caution.");
+608: "They appear in great numbers at electric\n"
+609: "power plants. Because they feed on\n"
+610: "electricity, they cause massive and\n"
+611: "chaotic blackouts in nearby cities.");
+614: "It consists of six eggs that care for each\n"
+615: "other. The eggs attract each other and\n"
+616: "spin around. When cracks increasingly\n"
+617: "appear, it is close to evolution.");
+620: "Originally from the tropics, EXEGGUTOR's\n"
+621: "heads grow larger from exposure to strong\n"
+622: "sunlight. It is said that when the heads\n"
+623: "fall, they group to form an EXEGGCUTE.");
+626: "It pines for the mother it will never see\n"
+627: "again. Seeing a likeness of its mother in\n"
+628: "the full moon, it cries. The stains on the\n"
+629: "skull it wears are from its tears.");
+632: "A MAROWAK is the evolved form of a CUBONE\n"
+633: "that has grown tough by overcoming the\n"
+634: "grief of losing its mother. Its tempered\n"
+635: "and hardened spirit is not easily broken.");
+638: "Its legs freely stretch and contract.\n"
+639: "Using these springlike limbs, it bowls over\n"
+640: "foes with devastating kicks. After battle,\n"
+641: "it rubs down its tired legs.");
+644: "A HITMONCHAN is said to possess the\n"
+645: "spirit of a boxer who aimed to become the\n"
+646: "world champion. Having an indomitable\n"
+647: "spirit means that it will never give up.");
+650: "Whenever it sees something unfamiliar,\n"
+651: "it always licks the object because it\n"
+652: "memorizes things by texture and taste.\n"
+653: "It is somewhat put off by sour things.");
+656: "Getting up close to a KOFFING will give\n"
+657: "you a chance to observe, through its thin\n"
+658: "skin, the toxic gases swirling inside. It\n"
+659: "blows up at the slightest stimulation.");
+662: "By diluting its toxic gases with a special\n"
+663: "process, the highest grade of perfume can\n"
+664: "be extracted. To WEEZING, gases emanating\n"
+665: "from garbage are the ultimate feast.");
+668: "Once it starts running, it doesn't stop.\n"
+669: "Its tiny brain makes it so stupid that it\n"
+670: "can't remember why it started running in\n"
+671: "the first place.");
+674: "Its horn, which rotates like a drill,\n"
+675: "destroys tall buildings with one strike.\n"
+676: "It stands on its hind legs, and its brain\n"
+677: "is well developed.");
+680: "CHANSEY lay nutritionally excellent eggs\n"
+681: "every day. The eggs are so delicious, they\n"
+682: "are eagerly devoured by even those people\n"
+683: "who have lost their appetite.");
+686: "Its vines snap off easily and painlessly\n"
+687: "if they are grabbed, allowing it to make a\n"
+688: "quick getaway. The lost vines are replaced\n"
+689: "by new growth the very next day.");
+692: "If you come across a young KANGASKHAN\n"
+693: "playing by itself, never try to catch it.\n"
+694: "The baby's parent is sure to be in the area,\n"
+695: "and it will become violently enraged.");
+698: "By cleverly flicking the fins on its back\n"
+699: "side to side, it moves in any direction\n"
+700: "while facing forward. It spits ink to\n"
+701: "escape if it senses danger.");
+704: "The poisonous barbs all over its body are\n"
+705: "highly valued as ingredients for making\n"
+706: "traditional herbal medicine. It shows no\n"
+707: "mercy to anything approaching its nest.");
+710: "In the springtime, schools of GOLDEEN\n"
+711: "can be seen swimming up falls and rivers.\n"
+712: "It metes out staggering damage with its\n"
+713: "single horn.");
+716: "It punches holes in boulders on stream-\n"
+717: "beds. This is a clever innovation that\n"
+718: "prevents its eggs from being attacked or\n"
+719: "washed away by the current.");
+722: "It gathers with others in the night and\n"
+723: "makes its red core glow on and off with\n"
+724: "the twinkling stars. It can regenerate\n"
+725: "limbs if they are severed from its body.");
+728: "People in ancient times imagined that\n"
+729: "STARMIE were transformed from the\n"
+730: "reflections of stars that twinkled on\n"
+731: "gentle waves at night.");
+734: "A MR. MIME is a master of pantomime. It can\n"
+735: "convince others that something unseeable\n"
+736: "actually exists. Once believed, the\n"
+737: "imaginary object does become real.");
+740: "Its blindingly fast speed adds to the\n"
+741: "sharpness of its twin forearm scythes.\n"
+742: "The scythes can slice through thick logs\n"
+743: "in one wicked stroke.");
+746: "A JYNX sashays rhythmically as if it were\n"
+747: "dancing. Its motions are so bouncingly\n"
+748: "alluring, people seeing it are compelled to\n"
+749: "shake their hips without noticing.");
+752: "When a storm approaches, it competes with\n"
+753: "others to scale heights that are likely to\n"
+754: "be stricken by lightning. Some towns use\n"
+755: "ELECTABUZZ in place of lightning rods.");
+758: "In battle, it blows out intense flames from\n"
+759: "all over its body to intimidate its foe.\n"
+760: "These fiery bursts create heat waves that\n"
+761: "ignite grass and trees in the area.");
+764: "Their pincers are strong enough to\n"
+765: "shatter thick logs. Because they dislike\n"
+766: "cold, PINSIR burrow and sleep under\n"
+767: "the ground on chilly nights.");
+770: "It is not satisfied unless it is rampaging\n"
+771: "at all times. If there is no opponent for\n"
+772: "TAUROS to battle, it will charge at thick\n"
+773: "trees and knock them down to calm itself.");
+776: "Its swimming muscles are weak, so it is\n"
+777: "easily washed away by currents. In places\n"
+778: "where water pools, you can see many\n"
+779: "MAGIKARP deposited there by the flow.");
+782: "It is an extremely vicious and violent\n"
+783: "POKéMON. When humans begin to fight,\n"
+784: "it will appear and burn everything to the\n"
+785: "ground with intensely hot flames.");
+788: "People have driven LAPRAS almost to the\n"
+789: "point of extinction. In the evenings,\n"
+790: "it is said to sing plaintively as it seeks\n"
+791: "what few others of its kind still remain.");
+794: "A DITTO rearranges its cell structure to\n"
+795: "transform itself. However, if it tries to\n"
+796: "change based on its memory, it will get\n"
+797: "details wrong.");
+800: "An EEVEE has an unstable genetic makeup\n"
+801: "that suddenly mutates due to its\n"
+802: "environment. Radiation from various\n"
+803: "STONES causes this POKéMON to evolve.");
+806: "VAPOREON underwent a spontaneous\n"
+807: "mutation and grew fins and gills that\n"
+808: "allow them to live underwater. They have\n"
+809: "the ability to freely control water.");
+812: "Its cells generate weak power that is\n"
+813: "amplified by its fur's static electricity\n"
+814: "to drop thunderbolts. The bristling fur is\n"
+815: "made of electrically charged needles.");
+818: "FLAREON's fluffy fur releases heat into\n"
+819: "the air so that its body does not get\n"
+820: "excessively hot. Its body temperature can\n"
+821: "rise to a maximum of 1,650 degrees F.");
+824: "It is capable of reverting itself entirely\n"
+825: "back to program data in order to enter\n"
+826: "cyberspace. A PORYGON is copy-\n"
+827: "protected so it cannot be duplicated.");
+830: "One of the ancient and long-since-extinct\n"
+831: "POKéMON that have been regenerated\n"
+832: "from fossils by humans. If attacked,\n"
+833: "it withdraws into its hard shell.");
+836: "An OMASTAR uses its tentacles to capture\n"
+837: "its prey. It is believed to have become\n"
+838: "extinct because its shell grew too large,\n"
+839: "making its movements slow and ponderous.");
+842: "It is a POKéMON that has been regenerated\n"
+843: "from a fossil. However, in rare cases, living\n"
+844: "examples have been discovered. KABUTO\n"
+845: "have not changed for 300 million years.");
+848: "KABUTOPS once swam underwater to hunt \n"
+849: "for prey. It was apparently evolving from\n"
+850: "being a water dweller to living on land as\n"
+851: "evident from changes in its gills and legs.");
+854: "AERODACTYL is a POKéMON from the age\n"
+855: "of dinosaurs. It was regenerated from DNA\n"
+856: "extracted from amber. It is imagined to\n"
+857: "have been the king of the skies.");
+860: "SNORLAX's typical day consists of nothing\n"
+861: "more than eating and sleeping. It is such\n"
+862: "a docile POKéMON that there are children\n"
+863: "who use its big belly as a place to play.");
+866: "ARTICUNO is a legendary bird POKéMON that\n"
+867: "can control ice. The flapping of its wings\n"
+868: "chills the air. As a result, it is said that\n"
+869: "when this POKéMON flies, snow will fall.");
+872: "ZAPDOS is a legendary bird POKéMON that\n"
+873: "has the ability to control electricity.\n"
+874: "It usually lives in thunderclouds. It gains\n"
+875: "power if it is stricken by lightning bolts.");
+878: "MOLTRES is a legendary bird POKéMON\n"
+879: "that can control fire. If injured, it is said\n"
+880: "to dip its body in the molten magma of\n"
+881: "a volcano to burn and heal itself.");
+884: "A DRATINI continually molts and sloughs\n"
+885: "off its old skin. It does so because the\n"
+886: "life energy within its body steadily builds\n"
+887: "to reach uncontrollable levels.");
+890: "A DRAGONAIR stores an enormous amount of\n"
+891: "energy inside its body. It is said to alter\n"
+892: "the weather around it by loosing energy\n"
+893: "from the crystals on its neck and tail.");
+896: "It can circle the globe in just 16 hours.\n"
+897: "It is a kindhearted POKéMON that leads\n"
+898: "lost and foundering ships in a storm\n"
+899: "to the safety of land.");
+902: "A POKéMON that was created by genetic\n"
+903: "manipulation. However, even though the\n"
+904: "scientific power of humans made its body,\n"
+905: "they failed to give it a warm heart.");
+908: "A MEW is said to possess the genes of all\n"
+909: "POKéMON. It is capable of making itself\n"
+910: "invisible at will, so it entirely avoids\n"
+911: "notice even if it approaches people.");
+914: "It waves its leaf around to keep foes\n"
+915: "at bay. However, a sweet fragrance also\n"
+916: "wafts from the leaf, creating a friendly\n"
+917: "atmosphere that becalms the battlers.");
+920: "A BAYLEEF's neck is ringed by curled-up\n"
+921: "leaves. Inside each leaf is a small tree\n"
+922: "shoot. The fragrance of this shoot\n"
+923: "makes people peppy.");
+926: "The fragrance of a MEGANIUM's flower\n"
+927: "soothes and calms emotions. In battle,\n"
+928: "it gives off more of its becalming scent\n"
+929: "to blunt the foe's fighting spirit.");
+932: "It flares flames from its back to protect\n"
+933: "itself. The fire burns vigorously if the\n"
+934: "POKéMON is angry. When it is tired,\n"
+935: "it sputters with incomplete combustion.");
+938: "It intimidates foes with intense gusts of\n"
+939: "flames and superheated air. Its quick\n"
+940: "nimbleness lets it dodge attacks even\n"
+941: "while scorching an enemy.");
+944: "It can hide behind a shimmering heat haze\n"
+945: "that it creates using its intense flames.\n"
+946: "TYPHLOSION create blazing explosive\n"
+947: "blasts that burn everything to cinders.");
+950: "Despite its small body, TOTODILE's jaws\n"
+951: "are very powerful. While it may think it is\n"
+952: "just playfully nipping, its bite has enough\n"
+953: "strength to cause serious injury.");
+956: "Once its jaws clamp down on its foe, it will\n"
+957: "absolutely not let go. Because the tips of\n"
+958: "its fangs are forked back like fishhooks,\n"
+959: "they become irremovably embedded.");
+962: "It opens its huge mouth to intimidate\n"
+963: "enemies. In battle, it runs using its thick\n"
+964: "and powerful hind legs to charge the\n"
+965: "foe with incredible speed.");
+968: "They take turns standing guard when it\n"
+969: "is time to sleep. The sentry awakens the\n"
+970: "others if it senses danger. If one becomes\n"
+971: "separated, it turns sleepless with fear.");
+974: "A FURRET has a very slim build. When under\n"
+975: "attack, it can squirm through narrow\n"
+976: "spaces and get away. In spite of its short\n"
+977: "limbs, it is very nimble and fleet.");
+980: "It has an internal organ that senses\n"
+981: "the earth's rotation. Using this special\n"
+982: "organ, a HOOTHOOT begins hooting at\n"
+983: "precisely the same time every day.");
+986: "It unfailingly catches prey in darkness.\n"
+987: "NOCTOWL owe their success to superior\n"
+988: "vision that allows them to see in minimal\n"
+989: "light, and to their supple and silent wings.");
+992: "LEDYBA communicate using a fluid that\n"
+993: "they secrete from where the legs join the\n"
+994: "body. They are said to convey feelings to\n"
+995: "others by altering the fluid's scent.");
+998: "It is said that in lands with clean air,\n"
+999: "where the stars fill the sky, there live\n"
+1000: "many LEDIAN. For good reason, they use\n"
+1001: "the light of the stars as energy.");
+1004: "The web it spins can be considered its\n"
+1005: "second nervous system. It is said that a\n"
+1006: "SPINARAK determines its prey by the tiny\n"
+1007: "vibrations it feels through the web.");
+1010: "Its feet are tipped with tiny hooked claws\n"
+1011: "that enable it to scuttle on ceilings and\n"
+1012: "vertical walls. It constricts its foe with\n"
+1013: "thin and strong silk webbing.");
+1016: "Over the course of evolution, its hind legs\n"
+1017: "turned into wings. By alternately resting\n"
+1018: "its front and rear wings, it can fly all day\n"
+1019: "without having to stop.");
+1022: "When it senses danger, it discharges\n"
+1023: "positive and negative electricity from its\n"
+1024: "two antennae. It lives in depths beyond\n"
+1025: "sunlight's reach.");
+1028: "The light-emitting orbs on its back are\n"
+1029: "very bright. They are formed from a part of\n"
+1030: "its dorsal fin. This POKéMON illuminates\n"
+1031: "the inky darkness of deep seas.");
+1034: "It is still inept at retaining electricity.\n"
+1035: "When it is startled, it discharges power\n"
+1036: "accidentally. It gets better at holding\n"
+1037: "power as it grows older.");
+1040: "On nights with many shooting stars,\n"
+1041: "CLEFFA can be seen dancing in a ring.\n"
+1042: "They dance until daybreak, when they\n"
+1043: "quench their thirst with the morning dew.");
+1046: "Its soft and pliable body is very bouncy.\n"
+1047: "When it sings continuously with all its\n"
+1048: "might, its body steadily turns a deepening\n"
+1049: "pink color.");
+1052: "As its energy, it uses the feelings of\n"
+1053: "compassion and pleasure exuded by\n"
+1054: "people and POKéMON. It stores up happy\n"
+1055: "feelings in its shell, then shares them out.");
+1058: "It is said to be a POKéMON that brings good\n"
+1059: "fortune. When it spots someone who is pure\n"
+1060: "of heart, a TOGETIC appears and shares its\n"
+1061: "happiness with that person.");
+1064: "It runs up short trees that grow on the\n"
+1065: "savanna to peck at new shoots.\n"
+1066: "A NATU's eyes look as if they are\n"
+1067: "always observing something.");
+1070: "It has the enigmatic power of foreseeing\n"
+1071: "the future. Some people in different lands\n"
+1072: "have long believed that XATU are\n"
+1073: "emissaries from another world.");
+1076: "Its fluffy wool rubs together and builds\n"
+1077: "a static charge. The more energy is\n"
+1078: "charged, the more brightly the lightbulb\n"
+1079: "at the tip of its tail glows.");
+1082: "Its fleece quality changes to generate\n"
+1083: "strong static electricity with a small\n"
+1084: "amount of wool. The bare, slick parts of its\n"
+1085: "hide are shielded against electricity.");
+1088: "It gives off so much light that it can be\n"
+1089: "seen even from space. People in the old\n"
+1090: "days used its light to send signals back\n"
+1091: "and forth with others far away.");
+1094: "Its flower petals deepen in color through\n"
+1095: "exposure to sunlight. When cloudy weather\n"
+1096: "persists, it does a dance that is thought\n"
+1097: "to be a ritual for summoning the sun.");
+1100: "Its body is covered with water-repellent\n"
+1101: "fur. Because of the fur, it can swim\n"
+1102: "through water at high speed without being\n"
+1103: "slowed by the water's resistance.");
+1106: "It lives in water virtually all day long.\n"
+1107: "Its body color and pattern act as\n"
+1108: "camouflage that makes it tough for\n"
+1109: "enemies to spot in water.");
+1112: "It mimics a tree to avoid being attacked\n"
+1113: "by enemies. But since its forelegs\n"
+1114: "remain green throughout the year, it is\n"
+1115: "easily identified as a fake in the winter.");
+1118: "The curled hair on its head proves its\n"
+1119: "status as a king. It is said that the\n"
+1120: "longer and curlier the hair, the more\n"
+1121: "respect it earns from its peers.");
+1124: "This POKéMON drifts and floats with the\n"
+1125: "wind. If it senses the approach of strong\n"
+1126: "winds, a HOPPIP links leaves with others\n"
+1127: "to prepare against being blown away.");
+1130: "It blossoms when the temperature rises\n"
+1131: "above 64 degrees F. Because its flower's\n"
+1132: "blooming changes with the temperature,\n"
+1133: "it is sometimes used as a thermometer.");
+1136: "JUMPLUFF ride warm southern winds to\n"
+1137: "cross the sea and fly to foreign lands.\n"
+1138: "This POKéMON lands when it encounters\n"
+1139: "cold air while it is floating.");
+1142: "Its tail ends with a dexterous, handlike\n"
+1143: "appendage. However, because it uses the\n"
+1144: "tail so much, AIPOM's real hands have\n"
+1145: "become rather clumsy.");
+1148: "SUNKERN try to minimize movement to\n"
+1149: "conserve the nutrients they have stored\n"
+1150: "in their bodies for evolution. They will\n"
+1151: "not eat, subsisting only on morning dew.");
+1154: "SUNFLORA convert solar energy into\n"
+1155: "nutrition. They are highly active in the\n"
+1156: "warm daytime but suddenly stop moving as\n"
+1157: "soon as the sun sets.");
+1160: "It can see 360 degrees without moving\n"
+1161: "its eyes. It is a great flier capable of\n"
+1162: "making sudden stops and turning midair to\n"
+1163: "quickly chase down targeted prey.");
+1166: "WOOPER usually live in water but come\n"
+1167: "out onto land seeking food occasionally.\n"
+1168: "On land, they coat their bodies with a\n"
+1169: "gooey, toxic film.");
+1172: "A QUAGSIRE hunts by leaving its mouth wide\n"
+1173: "open in water and waiting for its prey to\n"
+1174: "blunder in. Because it doesn't move, it\n"
+1175: "does not get very hungry.");
+1178: "An ESPEON is extremely loyal to any\n"
+1179: "TRAINER it considers to be worthy. It is\n"
+1180: "said to have developed precognitive\n"
+1181: "powers to protect its TRAINER from harm.");
+1184: "UMBREON evolved from exposure to the\n"
+1185: "moon's energy pulses. It lurks in darkness\n"
+1186: "and waits for its foes to move. The rings\n"
+1187: "on its body glow when it leaps to attack.");
+1190: "MURKROW were feared as the alleged\n"
+1191: "bearers of ill fortune. It shows strong\n"
+1192: "interest in anything that sparkles. It will\n"
+1193: "even try to steal rings from women.");
+1196: "It undertakes research every day to\n"
+1197: "solve the mysteries of the world.\n"
+1198: "However, it apparently forgets everything\n"
+1199: "if the SHELLDER on its head comes off.");
+1202: "A MISDREAVUS frightens people with a\n"
+1203: "creepy, sobbing cry. It apparently uses\n"
+1204: "its red spheres to absorb the fear of foes\n"
+1205: "as its nutrition.");
+1208: "This POKéMON is shaped like ancient text\n"
+1209: "characters. Although research is ongoing,\n"
+1210: "it is a mystery as to which came first,\n"
+1211: "the ancient writings or the various UNOWN.");
+1214: "Usually docile, a WOBBUFFET strikes back\n"
+1215: "ferociously if its black tail is attacked.\n"
+1216: "It makes its lair in caves where it waits\n"
+1217: "for nightfall.");
+1220: "A GIRAFARIG is an herbivore--it eats\n"
+1221: "grass and tree shoots. While it is eating,\n"
+1222: "its tail makes chewing and swallowing\n"
+1223: "motions as if it were also eating.");
+1226: "A PINECO hangs from a tree branch and\n"
+1227: "waits for prey. While eating, if it is\n"
+1228: "disturbed by someone shaking its tree, it\n"
+1229: "falls on the ground and suddenly explodes.");
+1232: "It keeps itself inside its steel shell.\n"
+1233: "The shell is opened when it is catching\n"
+1234: "prey, but it is so quick that the shell's\n"
+1235: "inside cannot be seen.");
+1238: "Its drill-tipped tail is used to burrow into\n"
+1239: "the ground backwards. This POKéMON is\n"
+1240: "known to make its nest in complex shapes\n"
+1241: "deep under the ground.");
+1244: "It glides without making a single sound.\n"
+1245: "It grasps the face of its foe using its\n"
+1246: "hind and large front claws, then stabs\n"
+1247: "with its poison barb.");
+1250: "STEELIX live even further underground\n"
+1251: "than ONIX. This POKéMON is known to dig\n"
+1252: "toward the earth's core, reaching a depth\n"
+1253: "of over six-tenths of a mile underground.");
+1256: "By baring its fangs and making a scary\n"
+1257: "face, it sends smaller POKéMON scurrying\n"
+1258: "in terror. The SNUBBULL does seem a\n"
+1259: "little sad at making its foes flee.");
+1262: "It has a particularly well-developed lower\n"
+1263: "jaw. The huge fangs are heavy, causing\n"
+1264: "it to tilt its head. Unless it is startled, it\n"
+1265: "will not try to bite.");
+1268: "A QWILFISH uses the pressure of water\n"
+1269: "it swallows to shoot toxic quills all at\n"
+1270: "once from all over its body. It finds\n"
+1271: "swimming to be somewhat challenging.");
+1274: "A SCIZOR has a body with the hardness of\n"
+1275: "steel. It is not easily fazed by ordinary\n"
+1276: "sorts of attacks. It flaps its wings to\n"
+1277: "regulate its body temperature.");
+1280: "A SHUCKLE hides under rocks, keeping its\n"
+1281: "body concealed inside its shell while\n"
+1282: "eating stored berries. The berries mix with\n"
+1283: "its body fluids to become a juice.");
+1286: "They gather in forests seeking the sweet\n"
+1287: "sap of trees. It is completely clad in a\n"
+1288: "steel-hard shell. It is proud of its horn,\n"
+1289: "which it uses to fling foes.");
+1292: "A SNEASEL scales trees by punching its\n"
+1293: "hooked claws into the bark. It seeks out\n"
+1294: "unguarded nests and steals eggs for food\n"
+1295: "while the parents are away.");
+1298: "It licks its palms that are sweetened by\n"
+1299: "being soaked in honey. A TEDDIURSA makes\n"
+1300: "its own honey by blending fruits and pollen\n"
+1301: "collected by BEEDRILL.");
+1304: "In forests, it is said that there are many\n"
+1305: "streams and towering trees where an\n"
+1306: "URSARING gathers food. It walks through\n"
+1307: "its forest collecting food every day.");
+1310: "It is a species of POKéMON that lives in\n"
+1311: "volcanic areas. If its body cools, its skin\n"
+1312: "hardens and immobilizes it. To avoid that,\n"
+1313: "it sleeps near magma.");
+1316: "The shell on its back is made of hardened\n"
+1317: "magma. Tens of thousands of years spent\n"
+1318: "living in volcanic craters have turned\n"
+1319: "MAGCARGO's bodies into magma.");
+1322: "It roots for food by rubbing its snout\n"
+1323: "against the ground. Its favorite food is a\n"
+1324: "mushroom that grows under dried grass.\n"
+1325: "It occasionally roots out hot springs.");
+1328: "A PILOSWINE is covered by a thick coat\n"
+1329: "of long hair for enduring freezing cold.\n"
+1330: "It uses its tusks to dig up food that has\n"
+1331: "been buried under ice.");
+1334: "CORSOLA live in warm southern seas.\n"
+1335: "If the sea becomes polluted, the beautiful\n"
+1336: "coral stalks become discolored and crumble\n"
+1337: "away in tatters.");
+1340: "A REMORAID uses its abdominal muscles\n"
+1341: "to forcefully expel swallowed water, then\n"
+1342: "shoot down flying prey. When evolution\n"
+1343: "approaches, it travels down rivers.");
+1346: "It ensnares its foe with its suction-\n"
+1347: "cupped tentacles before delivering the\n"
+1348: "finishing blow. If the foe turns out to be\n"
+1349: "too strong, it spews ink to escape.");
+1352: "It carries food bundled up in its tail.\n"
+1353: "There was a famous explorer who\n"
+1354: "managed to scale Mt. Everest thanks\n"
+1355: "to a DELIBIRD sharing its food.");
+1358: "On sunny days, schools of MANTINE can be\n"
+1359: "seen elegantly leaping over the waves.\n"
+1360: "It is not bothered by the REMORAID that\n"
+1361: "hitches rides.");
+1364: "A POKéMON that has a body and wings of\n"
+1365: "steel. People in the past used feathers\n"
+1366: "fallen from SKARMORY to make swords and\n"
+1367: "knives.");
+1370: "HOUNDOUR communicate with each other\n"
+1371: "using a variety of cries to corner their\n"
+1372: "prey. This POKéMON's remarkable teamwork\n"
+1373: "is simply unparalleled.");
+1376: "In a HOUNDOOM pack, the one with its horns\n"
+1377: "raked sharply back serves a leadership\n"
+1378: "role. They choose their leader by fighting\n"
+1379: "among themselves.");
+1382: "It sleeps quietly, deep on the seafloor.\n"
+1383: "When it comes up to the surface, it\n"
+1384: "creates a huge whirlpool that can swallow\n"
+1385: "even ships.");
+1388: "PHANPY's big ears serve as broad fans.\n"
+1389: "When it becomes hot, it flaps the ears\n"
+1390: "busily to cool down. Even the young are\n"
+1391: "very strong.");
+1394: "A DONPHAN is so strong it can easily haul\n"
+1395: "a dump truck. Its hide has toughened to a\n"
+1396: "rock-hard state. An ordinary sort of\n"
+1397: "attack won't even leave a scratch.");
+1400: "It was created by humans using the power\n"
+1401: "of science. It has been given artificial\n"
+1402: "intelligence that enables it to learn new\n"
+1403: "gestures and emotions on its own.");
+1406: "STANTLER's magnificent antlers were\n"
+1407: "once traded at high prices as works of art.\n"
+1408: "As a result, this POKéMON was hunted\n"
+1409: "close to extinction.");
+1412: "A SMEARGLE marks its territory using a\n"
+1413: "fluid that leaks out from the tip of its\n"
+1414: "tail. About 5,000 different marks left by\n"
+1415: "this POKéMON have been found.");
+1418: "TYROGUE become stressed out if they do\n"
+1419: "not get to train every day. When raising\n"
+1420: "this POKéMON, the TRAINER must establish\n"
+1421: "a regular training schedule.");
+1424: "Its technique of kicking while spinning is\n"
+1425: "a remarkable mix of both offense and\n"
+1426: "defense. HITMONTOP travel faster\n"
+1427: "spinning than they do walking.");
+1430: "It actively runs about, but also falls\n"
+1431: "often. Whenever it falls, it will check its\n"
+1432: "reflection on a lake's surface to make\n"
+1433: "sure its face hasn't become dirty.");
+1436: "If it touches metal and discharges the\n"
+1437: "electricity it has stored in its body, an\n"
+1438: "ELEKID begins swinging its arms in circles\n"
+1439: "to recharge itself.");
+1442: "If a MAGBY is spouting yellow flames from\n"
+1443: "its mouth, it is in good health. When it is\n"
+1444: "fatigued, black smoke will be mixed in with\n"
+1445: "the flames.");
+1448: "It gives over five gallons of milk daily.\n"
+1449: "Its sweet milk is enjoyed by children and\n"
+1450: "grown-ups alike. People who can't drink\n"
+1451: "milk turn it into yogurt and eat it instead.");
+1454: "If it senses sadness with its fluffy fur,\n"
+1455: "a BLISSEY will rush over to the sad person,\n"
+1456: "however far away, to share an egg of\n"
+1457: "happiness that brings a smile to any face.");
+1460: "RAIKOU embodies the speed of lightning.\n"
+1461: "Its roars send shock waves shuddering\n"
+1462: "through the air and ground as if\n"
+1463: "lightning bolts were crashing down.");
+1466: "ENTEI embodies the passion of magma.\n"
+1467: "It is thought to have been born in the\n"
+1468: "eruption of a volcano. It blasts fire that\n"
+1469: "consumes all that it touches.");
+1472: "SUICUNE embodies the compassion of\n"
+1473: "a pure spring of water. It runs across\n"
+1474: "the land with gliding elegance. It has the\n"
+1475: "power to purify dirty water.");
+1478: "A LARVITAR is born deep under the ground.\n"
+1479: "It must eat its way through the soil above\n"
+1480: "and reach the surface for it to see its\n"
+1481: "parents' faces.");
+1484: "A PUPITAR creates a gas inside its body\n"
+1485: "that it ejects under compression to propel\n"
+1486: "itself like a jet. Its body can withstand\n"
+1487: "a collision with solid steel.");
+1490: "A TYRANITAR is so overwhelmingly powerful,\n"
+1491: "it can bring down a whole mountain to make\n"
+1492: "its nest. It roams in mountains seeking\n"
+1493: "new opponents to fight.");
+1496: "LUGIA is so powerful even a light\n"
+1497: "fluttering of its wings can blow apart\n"
+1498: "houses. As a result, it chooses to live out\n"
+1499: "of sight deep under the sea.");
+1502: "Its feathers--which glow in seven colors\n"
+1503: "depending on the angle at which they are\n"
+1504: "struck by light--are thought to bring joy.\n"
+1505: "It is said to live at the foot of a rainbow.");
+1508: "This POKéMON came from the future by\n"
+1509: "crossing over time. It is thought that so\n"
+1510: "long as CELEBI appears, a bright and\n"
+1511: "shining future awaits us.");
+1514: "It makes its nest in a giant tree in the\n"
+1515: "forest. It ferociously guards against\n"
+1516: "anything nearing its territory. It is said\n"
+1517: "to be the protector of the forest's trees.");
+1520: "Leaves grow out of this POKéMON's body.\n"
+1521: "They help obscure a GROVYLE from the eyes\n"
+1522: "of its enemies while it is in a thickly\n"
+1523: "overgrown forest.");
+1526: "In the jungle, its power is without equal.\n"
+1527: "This POKéMON carefully grows trees and\n"
+1528: "plants. It regulates its body temperature\n"
+1529: "by basking in sunlight.");
+1532: "If attacked, it strikes back by spitting\n"
+1533: "balls of fire it forms in its stomach.\n"
+1534: "A TORCHIC dislikes darkness because it\n"
+1535: "can't see its surroundings.");
+1538: "It lashes out with 10 kicks per second.\n"
+1539: "Its strong fighting instinct compels it\n"
+1540: "to keep up its offensive until the\n"
+1541: "opponent gives up.");
+1544: "It learns martial arts that use punches\n"
+1545: "and kicks. Every several years, its old\n"
+1546: "feathers burn off, and new, supple\n"
+1547: "feathers grow back in their place.");
+1550: "On land, it can powerfully lift large\n"
+1551: "boulders by planting its four feet and\n"
+1552: "heaving. It sleeps by burying itself in soil\n"
+1553: "at the water's edge.");
+1556: "Its toughened hind legs enable it to stand\n"
+1557: "upright. Because it weakens if its skin\n"
+1558: "dries out, it replenishes fluids by playing\n"
+1559: "in mud.");
+1562: "If it senses the approach of a storm and\n"
+1563: "a tidal wave, it protects its seaside nest\n"
+1564: "by piling up boulders. It swims as fast as\n"
+1565: "a jet ski.");
+1568: "It savagely threatens foes with bared\n"
+1569: "fangs. It chases after fleeing targets\n"
+1570: "tenaciously. It turns tail and runs,\n"
+1571: "however, if the foe strikes back.");
+1574: "In the wild, MIGHTYENA live in a pack.\n"
+1575: "They never defy their leader's orders.\n"
+1576: "They defeat foes with perfectly\n"
+1577: "coordinated teamwork.");
+1580: "Rubbing its nose against the ground, it\n"
+1581: "always wanders about back and forth in\n"
+1582: "search of something. It is distinguished\n"
+1583: "by the zigzag footprints it leaves.");
+1586: "It is exceedingly fast if it only has to run\n"
+1587: "in a straight line. When it spots pond-\n"
+1588: "dwelling prey underwater, it quickly leaps\n"
+1589: "in and catches it with its sharp claws.");
+1592: "It sticks to tree branches and eats\n"
+1593: "leaves. The thread it spits from its mouth,\n"
+1594: "which becomes gooey when it touches\n"
+1595: "air, slows the movement of its foes.");
+1598: "It prepares for evolution using the\n"
+1599: "energy it stored while it was a WURMPLE.\n"
+1600: "It keeps watch over the surroundings with\n"
+1601: "its two eyes.");
+1604: "Its colorfully patterned wings are its\n"
+1605: "most prominent feature. It flies through\n"
+1606: "flower-covered fields collecting pollen.\n"
+1607: "It attacks ferociously when angered.");
+1610: "To avoid detection by its enemies, it hides\n"
+1611: "motionlessly beneath large leaves and in\n"
+1612: "the gaps of branches. It also attaches\n"
+1613: "dead leaves to its body for camouflage.");
+1616: "It is a nocturnal POKéMON that flies from\n"
+1617: "fields and mountains to the attraction of\n"
+1618: "streetlights at night. It looses highly\n"
+1619: "toxic powder from its wings.");
+1622: "This POKéMON lives in ponds with clean\n"
+1623: "water. It is known to ferry small POKéMON\n"
+1624: "across ponds by carrying them on the\n"
+1625: "broad leaf on its head.");
+1628: "In the evening, it takes great delight in\n"
+1629: "popping out of rivers and startling people.\n"
+1630: "It feeds on aquatic moss that grows on\n"
+1631: "rocks in the riverbed.");
+1634: "When it hears festive music, all the cells\n"
+1635: "in its body become stimulated, and it\n"
+1636: "begins moving in rhythm. It does not\n"
+1637: "quail even when it faces a tough opponent.");
+1640: "It hangs off branches and absorbs\n"
+1641: "nutrients. When it finishes eating, its\n"
+1642: "body becomes so heavy that it drops to\n"
+1643: "the ground with a thump.");
+1646: "A forest-dwelling POKéMON that is skilled\n"
+1647: "at climbing trees. Its long and pointed\n"
+1648: "nose is its weak point. It loses power if\n"
+1649: "the nose is gripped.");
+1652: "It is said to arrive on chilly, wintry winds.\n"
+1653: "Feared from long ago as the guardian of\n"
+1654: "forests, this POKéMON lives in a deep\n"
+1655: "forest where people do not venture.");
+1658: "Although it is small, it is very courageous.\n"
+1659: "It will take on a larger SKARMORY on an\n"
+1660: "equal footing. However, its will weakens if\n"
+1661: "it becomes hungry.");
+1664: "A SWELLOW dives upon prey from far above.\n"
+1665: "It never misses its targets. It takes to\n"
+1666: "the skies in search of lands with a warm\n"
+1667: "climate.");
+1670: "It makes its nest on a sheer cliff at the\n"
+1671: "edge of the sea. It has trouble keeping\n"
+1672: "its wings flapping in flight. Instead, it\n"
+1673: "soars on updrafts.");
+1676: "It skims the tops of waves as it flies.\n"
+1677: "When it spots prey, it uses its large beak\n"
+1678: "to scoop up the victim with water.\n"
+1679: "It protects its eggs in its beak.");
+1682: "A RALTS has the power to sense the\n"
+1683: "emotions of people and POKéMON with the\n"
+1684: "horns on its head. It takes cover if it\n"
+1685: "senses any hostility.");
+1688: "A KIRLIA has the psychic power to create \n"
+1689: "a rip in the dimensions and see into the\n"
+1690: "future. It is said to dance with pleasure\n"
+1691: "on sunny mornings.");
+1694: "It apparently does not feel the pull of\n"
+1695: "gravity because it supports itself with\n"
+1696: "psychic power. It will give its life to\n"
+1697: "protect its TRAINER.");
+1700: "They gather on puddles after evening\n"
+1701: "downpours, gliding across the surface\n"
+1702: "of water as if sliding. It secretes honey\n"
+1703: "with a sweet aroma from its head.");
+1706: "It intimidates foes with the large eyelike\n"
+1707: "patterns on its antennae. Because it can't\n"
+1708: "fly if its wings get wet, it shelters itself\n"
+1709: "from rain under large trees and eaves.");
+1712: "It loves to eat damp, composted soil in\n"
+1713: "forests. If you enter a forest after a\n"
+1714: "long rain, you can see many SHROOMISH\n"
+1715: "feasting on composted soil.");
+1718: "It scatters spores from holes in the cap\n"
+1719: "on its head. It loves warm and humid\n"
+1720: "climates. It feeds on trees and plants in\n"
+1721: "fields and forests.");
+1724: "It sleeps virtually all day and night long.\n"
+1725: "It doesn't change its nest its entire life,\n"
+1726: "but it sometimes travels great distances\n"
+1727: "by swimming in rivers.");
+1730: "It can't keep still because its blood boils\n"
+1731: "with energy. It runs through the fields\n"
+1732: "and mountains all day to calm itself. If it\n"
+1733: "doesn't, it can't sleep at night.");
+1736: "Hordes of SLAKING gather around trees\n"
+1737: "when fruits come into season. They wait\n"
+1738: "around patiently for ripened fruits to fall\n"
+1739: "out of the trees.");
+1742: "It makes its nest at the roots of a mighty\n"
+1743: "tree. Using its whiskerlike antennae, it\n"
+1744: "probes its surroundings in the\n"
+1745: "pitch-black darkness of soil.");
+1748: "Because it darts about vigorously at high\n"
+1749: "speed, it is very difficult to see. Hearing\n"
+1750: "its distinctive cries for too long induces\n"
+1751: "a headache.");
+1754: "A peculiar POKéMON that floats in air even\n"
+1755: "though its wings remain completely still.\n"
+1756: "The inside of its body is hollow and\n"
+1757: "utterly dark.");
+1760: "Its cries equal a jet plane in volume.\n"
+1761: "It inhales through its ear canals. Because\n"
+1762: "of this system, it can cry continually\n"
+1763: "without having to catch its breath.");
+1766: "It positions the round speakers on its\n"
+1767: "head to assail foes with ultrasonic waves\n"
+1768: "at massive volume. It builds power by\n"
+1769: "stomping the ground.");
+1772: "It has sound-generating organs all over\n"
+1773: "its body. It communicates with others by\n"
+1774: "adjusting the tone and volume of the cries\n"
+1775: "it emits.");
+1778: "It loves to toughen up its body above all\n"
+1779: "else. If you hear quaking rumbles in a cave,\n"
+1780: "it is the sound of MAKUHITA undertaking\n"
+1781: "strenuous training.");
+1784: "It has the habit of challenging others\n"
+1785: "without hesitation to tests of strength.\n"
+1786: "It's been known to stand on train tracks\n"
+1787: "and stop trains using forearm thrusts.");
+1790: "Its tail, which is packed with nutrition,\n"
+1791: "is very bouncy like a rubber ball. On sunny\n"
+1792: "days they gather at the edge of water and\n"
+1793: "splash about for fun.");
+1796: "Its body emits a powerful magnetism.\n"
+1797: "It feeds on prey that is pulled in by the\n"
+1798: "force. Its magnetism is stronger in cold\n"
+1799: "seasons.");
+1802: "A SKITTY's adorably cute behavior makes it\n"
+1803: "highly popular. In battle, it makes its tail\n"
+1804: "puff out. It threatens foes with a sharp\n"
+1805: "growl.");
+1808: "Rather than keeping a permanent lair,\n"
+1809: "it habitually seeks comfortable spots and\n"
+1810: "sleeps there. It is nocturnal and becomes\n"
+1811: "active at dusk.");
+1814: "It digs branching holes in caves using its\n"
+1815: "sharp claws in search of food--raw gems.\n"
+1816: "A SABLEYE lurks in darkness and is seen\n"
+1817: "only rarely.");
+1820: "Its giant jaws are actually steel horns\n"
+1821: "that transformed. It fools foes into\n"
+1822: "complacency with its adorable gestures,\n"
+1823: "then chomps them with its huge jaws.");
+1826: "A POKéMON that is clad in steel armor.\n"
+1827: "A new suit of armor is made when it evolves.\n"
+1828: "The old, discarded armor is salvaged as\n"
+1829: "metal for making iron products.");
+1832: "When two LAIRON meet in the wild, they\n"
+1833: "fight for territory by bashing into each\n"
+1834: "other with their steel bodies. The sound\n"
+1835: "of their collision carries for miles.");
+1838: "Its iron horns grow longer a little at\n"
+1839: "a time. They are used to determine the\n"
+1840: "AGGRON's age. The gouges in its armor are\n"
+1841: "worn with pride as mementos from battles.");
+1844: "It continually meditates for hours every\n"
+1845: "day. As a result of rigorous and dedicated\n"
+1846: "yoga training, it has tempered its\n"
+1847: "spiritual power so much it can fly.");
+1850: "Through crushingly harsh yoga training, it\n"
+1851: "gained the power to foretell its foe's\n"
+1852: "actions. It battles with elegant, dance-\n"
+1853: "like movement.");
+1856: "It generates electricity using friction\n"
+1857: "from the atmosphere. In seasons with\n"
+1858: "especially arid air, its entire body blazes\n"
+1859: "with violent showers of sparks.");
+1862: "Because lightning falls in their vicinities,\n"
+1863: "MANECTRIC were thought to have been born\n"
+1864: "from lightning. In battle, they create\n"
+1865: "thunderclouds.");
+1868: "It has the trait of cheering on its fellow\n"
+1869: "POKéMON. By shorting out the electricity\n"
+1870: "it releases from its paws, it creates\n"
+1871: "pom-poms for cheering.");
+1874: "At a meeting of POKéMON academics, it was\n"
+1875: "announced that simultaneous exposure to\n"
+1876: "electricity from a PLUSLE and MINUN will\n"
+1877: "promote circulation and boost vitality.");
+1880: "With their taillights lit, VOLBEAT fly in\n"
+1881: "a swarm, drawing geometric designs in the\n"
+1882: "night sky. They move their nests if their\n"
+1883: "pond water becomes dirty.");
+1886: "A nocturnal POKéMON that becomes active\n"
+1887: "upon nightfall. It leads a VOLBEAT swarm\n"
+1888: "to draw patterns in the night sky. Over 200\n"
+1889: "different patterns have been confirmed.");
+1892: "A ROSELIA that drinks nutritionally rich\n"
+1893: "springwater blooms with lovely flowers.\n"
+1894: "The fragrance of its flowers has the\n"
+1895: "effect of making its foes careless.");
+1898: "This POKéMON's stomach fluid can even\n"
+1899: "digest scrap iron. In one gulp, it can\n"
+1900: "swallow something that is as large as\n"
+1901: "itself.");
+1904: "Its powerful stomach acid is capable of\n"
+1905: "digesting almost anything. The one thing\n"
+1906: "in the whole world a SWALOT can't digest is\n"
+1907: "its own stomach.");
+1910: "CARVANHA attack ships in swarms, making\n"
+1911: "them sink. Although it is said to be a very\n"
+1912: "vicious POKéMON, it timidly flees as soon\n"
+1913: "as it finds itself alone.");
+1916: "The vicious and sly gangster of the sea.\n"
+1917: "Its skin is specially textured to minimize\n"
+1918: "drag in water. Its speed tops out at over\n"
+1919: "75 miles per hour.");
+1922: "While this POKéMON usually lives in the sea,\n"
+1923: "it can survive on land, although not too\n"
+1924: "long. It loses vitality if its body becomes\n"
+1925: "dried out.");
+1928: "It breathes through nostrils that it\n"
+1929: "raises above the sea. By inhaling to its\n"
+1930: "maximum capacity, a WAILORD can dive close\n"
+1931: "to 10,000 feet beneath the waves.");
+1934: "A NUMEL stores boiling magma in the hump\n"
+1935: "on its back. It is a hardy POKéMON that can\n"
+1936: "transport a 220-pound load. It has served\n"
+1937: "humans at work since long ago.");
+1940: "A POKéMON that lives in the crater of\n"
+1941: "a volcano. Every 10 years, the volcanoes\n"
+1942: "on its back erupt violently. Research is\n"
+1943: "under way on the cause of eruption.");
+1946: "It battles using energy it gets from\n"
+1947: "burning coal. When loosing smoke from its\n"
+1948: "nostrils, it lets off a sound that is\n"
+1949: "similar to a locomotive's horn.");
+1952: "A POKéMON that manipulates psychic power\n"
+1953: "at will. It doesn't stop bouncing even when\n"
+1954: "it is asleep. It loves eating mushrooms\n"
+1955: "that grow underground.");
+1958: "It stores power in the black pearls on its\n"
+1959: "forehead. When it uses psychic power, it\n"
+1960: "performs an odd dance step. Its style of\n"
+1961: "dancing became hugely popular overseas.");
+1964: "It is distinguished by a pattern of\n"
+1965: "spots that is always different. Its\n"
+1966: "unsteady, tottering walk has the\n"
+1967: "effect of fouling its foe's aim.");
+1970: "Its big jaws crunch through boulders.\n"
+1971: "Because its head is so big, it has a hard\n"
+1972: "time getting back upright if it tips over\n"
+1973: "onto its back.");
+1976: "It looses ultrasonic waves by rubbing its\n"
+1977: "wings together. Since a VIBRAVA's wings\n"
+1978: "are still in the process of growing, it can\n"
+1979: "only fly short distances.");
+1982: "The flapping of its wings sounds like\n"
+1983: "singing. To prevent detection by enemies,\n"
+1984: "it hides itself by flapping up a cloud of\n"
+1985: "desert sand.");
+1988: "CACNEA live in deserts with virtually no\n"
+1989: "rainfall. It battles by swinging its thick,\n"
+1990: "spiked arms. Once a year, a yellow flower\n"
+1991: "blooms.");
+1994: "After spending thousands of years in\n"
+1995: "harsh deserts, its blood transformed into\n"
+1996: "the same substances as sand. It is\n"
+1997: "nocturnal, so it hunts at night.");
+2000: "A POKéMON that has wings like cottony\n"
+2001: "clouds. After enduring winter, in which\n"
+2002: "little food is available, SWABLU flocks\n"
+2003: "move closer to towns in the spring.");
+2006: "It hums in a beautiful soprano voice.\n"
+2007: "It flies among white clouds in the blue\n"
+2008: "sky. It launches intensely hot fireballs\n"
+2009: "from its mouth.");
+2012: "When it battles, it stands on its hind legs\n"
+2013: "and attacks with its sharply clawed\n"
+2014: "forelegs. Its fur bristles if it encounters\n"
+2015: "any SEVIPER.");
+2018: "SEVIPER and ZANGOOSE are eternal rivals.\n"
+2019: "It counters a ZANGOOSE's dazzling agility\n"
+2020: "with its swordlike tail, which also oozes\n"
+2021: "a horrible poison.");
+2024: "It becomes very active on the night of\n"
+2025: "a full moon. This POKéMON was first\n"
+2026: "discovered 40 years ago at the site of\n"
+2027: "a meteor strike.");
+2030: "Solar energy is the source of this \n"
+2031: "POKéMON's power. On sunny days, groups of\n"
+2032: "SOLROCK line up facing the sun and absorb\n"
+2033: "its light.");
+2036: "Its body is covered with a slimy film.\n"
+2037: "The film acts as a barrier to prevent germs\n"
+2038: "in muddy water from entering the\n"
+2039: "BARBOACH's body.");
+2042: "Mysteriously, it can foretell earthquakes.\n"
+2043: "In the daytime, it sleeps in mud at the\n"
+2044: "bottom of a pond. When it awakens, it\n"
+2045: "continually feeds throughout the night.");
+2048: "Once it grips prey with its large pincers,\n"
+2049: "it will never let go, no matter what.\n"
+2050: "It is a hardy POKéMON that can thrive\n"
+2051: "in any environment.");
+2054: "A brutish POKéMON that loves to battle.\n"
+2055: "A veteran CRAWDAUNT that has prevailed in\n"
+2056: "hundreds of battles has giant pincers\n"
+2057: "marked with countless scars.");
+2060: "A BALTOY moves by spinning on its single\n"
+2061: "foot. It has been depicted in murals \n"
+2062: "adorning the walls of a once-bustling city\n"
+2063: "in an ancient age.");
+2066: "A CLAYDOL sleeps while hovering in midair.\n"
+2067: "Its arms are separate from its body.\n"
+2068: "They are kept floating by the POKéMON's\n"
+2069: "manipulation of psychic power.");
+2072: "It disguises itself as seaweed by making\n"
+2073: "its tentacles sway. Unsuspecting prey\n"
+2074: "that come too close are swallowed whole.\n"
+2075: "It became extinct 100 million years ago.");
+2078: "It drags its heavy body along the\n"
+2079: "seafloor. It makes its nest in the shallows\n"
+2080: "of warm seas. CRADILY can be seen on\n"
+2081: "beaches when the tide goes out.");
+2084: "It was resurrected from a fossil using the\n"
+2085: "power of science. It swims by undulating\n"
+2086: "the eight wings at its sides. They were\n"
+2087: "feet that adapted to life in the sea.");
+2090: "ARMALDO usually lives on land. However,\n"
+2091: "when it hunts for prey, it dives beneath\n"
+2092: "the ocean. It swims around using its two\n"
+2093: "large wings.");
+2096: "FEEBAS live in ponds that are heavily\n"
+2097: "infested with weeds. Because of its\n"
+2098: "hopelessly shabby appearance, it\n"
+2099: "seems as if few TRAINERS raise it.");
+2102: "It is said to live at the bottom of\n"
+2103: "large lakes. Considered to be the most\n"
+2104: "beautiful of all POKéMON, it has been\n"
+2105: "depicted in paintings and statues.");
+2108: "It alters its form depending on the\n"
+2109: "weather. Changes in the climate such as\n"
+2110: "the temperature and humidity appear to\n"
+2111: "affect its cellular structure.");
+2114: "A POKéMON that has the ability to alter its\n"
+2115: "body colors to match its surroundings.\n"
+2116: "A KECLEON reverts to its original colors if\n"
+2117: "it is startled.");
+2120: "This POKéMON roams about deep in the\n"
+2121: "night seeking such negative emotions as\n"
+2122: "grudges and envy. It retreats to its nest\n"
+2123: "when the sun begins to rise.");
+2126: "An abandoned plush doll became this\n"
+2127: "POKéMON. They are said to live in garbage\n"
+2128: "dumps and wander about in search of the\n"
+2129: "children that threw them away.");
+2132: "A glare from its single scarlet eye makes\n"
+2133: "even burly grown-ups freeze in utter fear.\n"
+2134: "It is a nocturnal POKéMON that roams\n"
+2135: "about under the cloak of darkness.");
+2138: "It is thought that its body is hollow with\n"
+2139: "only a spectral ball of fire burning inside.\n"
+2140: "However, no one has been able to\n"
+2141: "confirm this theory as fact.");
+2144: "It flies by flapping its broad leaves.\n"
+2145: "The bunch of fruit that grows around its\n"
+2146: "neck is deliciously sweet. In the spring,\n"
+2147: "it scatters pollen from its neck.");
+2150: "They fly about very actively when the hot\n"
+2151: "season arrives. They communicate among\n"
+2152: "themselves using seven different and\n"
+2153: "distinguishing cries.");
+2156: "It sharply senses even subtle changes in\n"
+2157: "the sky and the land to predict natural\n"
+2158: "disasters. It is a long-lived POKéMON that\n"
+2159: "has a life-span of 100 years.");
+2162: "A WYNAUT loves to eat sweet fruits.\n"
+2163: "It cleverly picks fruits using its earlike\n"
+2164: "arms. They gather in fruit gardens, drawn\n"
+2165: "by the fragrance.");
+2168: "They tend to move about in groups of\n"
+2169: "around five SNORUNT. In snowy regions,\n"
+2170: "it is said that when they are seen late at\n"
+2171: "night, snowfall will arrive by morning.");
+2174: "A GLALIE has the power to instantaneously\n"
+2175: "freeze moisture in the atmosphere.\n"
+2176: "A dazzling cloud of diamondlike ice\n"
+2177: "crystals forms around its body.");
+2180: "It is completely covered with plushy fur.\n"
+2181: "As a result, it never feels the cold even\n"
+2182: "when it is rolling about on ice floes or\n"
+2183: "diving in the sea.");
+2186: "SEALEO live in herds on ice floes. Using its\n"
+2187: "powerful flippers, it shatters ice.\n"
+2188: "It dives into the sea to hunt prey five\n"
+2189: "times a day.");
+2192: "To protect its herd, the leader battles\n"
+2193: "anything that invades its territory, even\n"
+2194: "at the cost of its life. Its tusks may snap\n"
+2195: "off in battle.");
+2198: "A CLAMPERL slams its shell closed on prey\n"
+2199: "to prevent escape. The pearl it creates\n"
+2200: "upon evolution is said to be infused with\n"
+2201: "a mysterious energy.");
+2204: "To withstand the crushing pressure of\n"
+2205: "water deep under the sea, its spine is very\n"
+2206: "thick and sturdy. Its tail, which is shaped\n"
+2207: "like a small fish, has eyes that light up.");
+2210: "A GOREBYSS siphons the body fluids of prey\n"
+2211: "through its thin, tubular mouth. Its light\n"
+2212: "pink body color turns vivid when it\n"
+2213: "finishes feeding.");
+2216: "A POKéMON that was once believed to have\n"
+2217: "been extinct. The species has not changed\n"
+2218: "its form for 100 million years. It walks on\n"
+2219: "the seafloor using its pectoral fins.");
+2222: "LUVDISC make the branches of CORSOLA\n"
+2223: "their nests. There is a custom from long\n"
+2224: "ago of giving a LUVDISC as a gift to\n"
+2225: "express one's feelings of love.");
+2228: "Although it is small, this POKéMON is very\n"
+2229: "powerful because its body is a bundle of\n"
+2230: "muscles. It launches head-butts with its\n"
+2231: "ironlike skull.");
+2234: "It hardly eats while it awaits evolution.\n"
+2235: "It becomes hardier by enduring hunger.\n"
+2236: "Its shell peels off the instant it begins\n"
+2237: "to evolve.");
+2240: "After many long years, its cellular\n"
+2241: "structure underwent a sudden mutation to\n"
+2242: "grow wings. When angered, it loses all\n"
+2243: "thought and rampages out of control.");
+2246: "When BELDUM gather in a swarm, they move\n"
+2247: "in perfect unison as if they were but one\n"
+2248: "POKéMON. They communicate with each other\n"
+2249: "using brain waves.");
+2252: "The claws tipping its arms pack the\n"
+2253: "destructive power to tear through thick\n"
+2254: "iron sheets as if they were silk. It flies\n"
+2255: "at over 60 miles per hour.");
+2258: "METAGROSS has four brains that are joined\n"
+2259: "by a complex neural network. As a result of\n"
+2260: "integration, this POKéMON is smarter than\n"
+2261: "a supercomputer.");
+2264: "A POKéMON that is made entirely of rocks\n"
+2265: "and boulders. If parts of its body chip off\n"
+2266: "in battle, REGIROCK repairs itself by\n"
+2267: "adding new rocks.");
+2270: "Its entire body is made of Antarctic ice.\n"
+2271: "After extensive studies, researchers\n"
+2272: "believe the ice was formed during an\n"
+2273: "ice age.");
+2276: "Its body is harder than any other kind of\n"
+2277: "metal. The body metal is composed of a\n"
+2278: "mysterious substance. Not only is it hard,\n"
+2279: "it shrinks and stretches flexibly.");
+2282: "They make a small herd of only several\n"
+2283: "members. They rarely make contact with\n"
+2284: "people or other POKéMON. They disappear\n"
+2285: "if they sense enemies.");
+2288: "Even in hiding, it can detect the locations\n"
+2289: "of others and sense their emotions since\n"
+2290: "it has telepathy. Its intelligence allows\n"
+2291: "it to understand human languages.");
+2294: "KYOGRE has appeared in mythology as the\n"
+2295: "creator of the sea. After long years of\n"
+2296: "feuding with GROUDON, it took to sleep at\n"
+2297: "the bottom of the sea.");
+2300: "GROUDON has appeared in mythology as the\n"
+2301: "creator of the land. It sleeps in magma\n"
+2302: "underground and is said to make volcanoes\n"
+2303: "erupt on awakening.");
+2306: "A POKéMON that flies endlessly in the\n"
+2307: "ozone layer. It is said it would descend\n"
+2308: "to the ground if KYOGRE and GROUDON\n"
+2309: "were to fight.");
+2312: "JIRACHI is said to make wishes come true.\n"
+2313: "While it sleeps, a tough crystalline shell\n"
+2314: "envelops the body to protect it from\n"
+2315: "enemies.");
+2318: "A POKéMON that mutated from an\n"
+2319: "extraterrestrial virus exposed to a laser\n"
+2320: "beam. Its body is configured for superior\n"
+2321: "agility and speed.");

@@ -1,0 +1,3 @@
+55: .string "The box is printed with a POKéMON logo.\p"
+56: .string "It's a POKéMON brand moving and\n"
+57: .string "delivery service.$"

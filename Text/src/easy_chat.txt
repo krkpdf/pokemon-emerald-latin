@@ -1,0 +1,4 @@
+869: static const u8 sText_Clear17[] = _("{CLEAR 17}");
+5431: Not to be confused with Dewford Town's "trendy phrase".
+5434: They can be unlocked either through Mystery Event (where they're referred to as "rare" words)
+5435: or from the "Hipster" variety of the Mauville Old Man. The Hipster can unlock one word each

@@ -1,0 +1,5 @@
+19: .string "POKéMON are partners to people.\n"
+20: .string "They aren't our tools.\p"
+21: .string "Unfortunately, there are some people\n"
+22: .string "who fail to understand that…$"
+25: .string "KECLEON: Ruroro?$"

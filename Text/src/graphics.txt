@@ -1,0 +1,13 @@
+358: "graphics/battle_interface/expbar.4bpp",
+359: "graphics/battle_interface/status.4bpp",
+360: "graphics/battle_interface/misc.4bpp",
+361: "graphics/battle_interface/hpbar_anim.4bpp",
+362: "graphics/battle_interface/misc_frameend.4bpp",
+363: "graphics/battle_interface/ball_display.4bpp",
+364: "graphics/battle_interface/ball_caught_indicator.4bpp",
+365: "graphics/battle_interface/status2.4bpp", // these three duplicate sets of graphics are for the opponent/partner Pokémon
+366: "graphics/battle_interface/status3.4bpp",
+367: "graphics/battle_interface/status4.4bpp",
+368: "graphics/battle_interface/healthbox_doubles_frameend.4bpp",
+369: "graphics/battle_interface/healthbox_doubles_frameend_bar.4bpp");
+1509: "graphics/title_screen/rayquaza_and_clouds.gbapal");

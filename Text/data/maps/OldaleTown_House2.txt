@@ -1,0 +1,5 @@
+13: .string "When POKéMON battle, they eventually\n"
+14: .string "level up and become stronger.$"
+17: .string "If the POKéMON with you become\n"
+18: .string "stronger, you'll be able to go farther\l"
+19: .string "away from here.$"

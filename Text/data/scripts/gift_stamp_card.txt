@@ -1,0 +1,4 @@
+18: .string "Thank you for using the STAMP CARD\n"
+19: .string "System.\p"
+20: .string "You have {STR_VAR_1} more to collect to\n"
+21: .string "fill your STAMP CARD.$"

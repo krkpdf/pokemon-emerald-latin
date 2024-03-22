@@ -1,0 +1,4 @@
+1144: case 0: // "Wonder Cards"
+1151: case 1: // "Wonder News"
+1196: case 0: // "Wireless Communication"
+1201: case 1: // "Friend"

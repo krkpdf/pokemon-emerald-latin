@@ -1,0 +1,3 @@
+2: .string "The water is dyed a deep blue…\n"
+3: .string "Would you like to SURF?$"
+6: .string "{STR_VAR_1} used SURF!$"

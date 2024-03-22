@@ -1,0 +1,8 @@
+133: .string "Exploring a cave isn't like walking\n"
+134: .string "on a road.\p"
+135: .string "You never know when wild POKéMON will\n"
+136: .string "appear. It's full of suspense.$"
+139: .string "ROUTE 115\n"
+140: .string "{DOWN_ARROW} RUSTBORO CITY$"
+143: .string "METEOR FALLS\n"
+144: .string "FALLARBOR TOWN THROUGH HERE$"

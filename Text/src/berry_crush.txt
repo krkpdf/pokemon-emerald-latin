@@ -1,0 +1,4 @@
+566: {6, 8, 9, 11},    // "Presses" and "Neatness/Cooperative/Power" pages
+567: {12, 14, 15, 16}, // "Crushing" page
+908: [RESULTS_PAGE_PRESSES]  = gText_SpaceTimes2, // " times"
+909: [RESULTS_PAGE_RANDOM]   = gText_XDotY,       // "##.##", for Neatness, Cooperation, or Power value

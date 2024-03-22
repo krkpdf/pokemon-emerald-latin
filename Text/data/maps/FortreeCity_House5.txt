@@ -1,0 +1,8 @@
+23: .string "The tree houses of FORTREE are great!\p"
+24: .string "I think it's the number one town for\n"
+25: .string "living together with POKéMON.$"
+28: .string "POKéMON and people have adapted to\n"
+29: .string "nature for survival.\p"
+30: .string "There's no need to make nature\n"
+31: .string "conform to the way we want to live.$"
+34: .string "ZIGZAGOON: Bufuu!$"

@@ -1,0 +1,2 @@
+60: .string "Your Battle Choice challenge\n"
+61: .string "has now begun…$"

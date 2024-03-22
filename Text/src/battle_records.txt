@@ -1,0 +1,2 @@
+87: static const u8 sText_DashesNoPlayer[] = _("-------");
+88: static const u8 sText_DashesNoScore[] = _("----");

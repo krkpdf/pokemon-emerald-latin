@@ -1,0 +1,6 @@
+22: .string "Huh? What? What's that?\p"
+23: .string "I'm not near awake yet…\n"
+24: .string "You can have this…$"
+27: .string "Yawn…\p"
+28: .string "Sleep is essential for good health…\n"
+29: .string "Sleep and regain health…$"

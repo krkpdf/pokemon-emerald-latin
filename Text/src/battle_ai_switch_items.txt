@@ -1,0 +1,1 @@
+713: a "good" AI would want to select the type that takes the least damage. Unknown if this

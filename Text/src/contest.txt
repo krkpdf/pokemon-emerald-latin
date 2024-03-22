@@ -1,0 +1,5 @@
+338: EWRAM_DATA s16 gContestMonRound1Points[CONTESTANT_COUNT] = {0}; // "Round 1" points are based on condition
+341: EWRAM_DATA s16 gContestMonRound2Points[CONTESTANT_COUNT] = {0}; // "Round 2" points are just appeal points * 2
+1982: r3 = FALSE; // Can't get this to use local variable. Should be "needsUpdate"
+2206: r3 = eContestExcitement.moveExcitement; // Can't get this to use local variable. Should be "moveExcitement"
+3014: ptr[-1] = color; // Overwrites the "{COLOR TRANSPARENT}" part of the string.

@@ -1,0 +1,1 @@
+80: static const u8 sText_ShedinjaJapaneseName[] = _("ヌケニン");

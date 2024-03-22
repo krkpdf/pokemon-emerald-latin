@@ -1,0 +1,334 @@
+2: "A small desk built\n"
+3: "for one.");
+6: "A small desk built in\n"
+7: "the shape of a POKé\n"
+8: "BALL.");
+11: "A large desk made\n"
+12: "of steel. Put some\n"
+13: "decorations on it.");
+16: "A large desk made\n"
+17: "of wood. Put some\n"
+18: "decorations on it.");
+21: "A large desk made\n"
+22: "of leaves. Put some\n"
+23: "decorations on it.");
+26: "A huge desk made\n"
+27: "of glass. Holds lots\n"
+28: "of decorations.");
+31: "A huge desk made\n"
+32: "of brick. Holds lots\n"
+33: "of decorations.");
+36: "A huge desk made\n"
+37: "of logs. Put lots of\n"
+38: "decorations on it.");
+41: "A huge desk made\n"
+42: "of rocks. Holds\n"
+43: "many decorations.");
+46: "A small chair made\n"
+47: "for one.");
+50: "A small chair built\n"
+51: "in the shape of a\n"
+52: "POKé BALL.");
+55: "A small chair made\n"
+56: "of steel.");
+59: "A small chair made\n"
+60: "of glass.");
+63: "A small chair made\n"
+64: "of leaves.");
+67: "A small chair made\n"
+68: "of wood.");
+71: "A small chair made\n"
+72: "of brick.");
+75: "A small chair made\n"
+76: "of logs.");
+79: "A small chair made\n"
+80: "of rock.");
+83: "A vivid red potted\n"
+84: "plant.");
+87: "A flowering tropical\n"
+88: "plant in a pot.");
+91: "A pot of cute\n"
+92: "flowers.");
+95: "A large pot with\n"
+96: "many colorful\n"
+97: "flowers.");
+100: "A large, umbrella-\n"
+101: "shaped plant in a\n"
+102: "big pot.");
+105: "A large, impressive\n"
+106: "plant in a big pot.");
+109: "A red-colored brick.\n"
+110: "Decorations can be\n"
+111: "placed on top.");
+114: "A yellow-colored\n"
+115: "brick. Put some\n"
+116: "decorations on top.");
+119: "A blue-colored\n"
+120: "brick. Put some\n"
+121: "decorations on top.");
+124: "A red balloon filled\n"
+125: "with water. Bursts\n"
+126: "if stepped on.");
+129: "A blue balloon filled\n"
+130: "with water. Bursts\n"
+131: "if stepped on.");
+134: "A yellow balloon\n"
+135: "filled with water.\n"
+136: "Pops if stepped on.");
+139: "A large red tent.\n"
+140: "You can hide inside\n"
+141: "it.");
+144: "A large blue tent.\n"
+145: "You can hide inside\n"
+146: "it.");
+149: "Place over a hole to\n"
+150: "cross to the other\n"
+151: "side.");
+154: "Use to slide down\n"
+155: "from the platform.");
+158: "A small fence that\n"
+159: "blocks passage.");
+162: "A small fence that\n"
+163: "blocks passage.");
+166: "An old large tire.\n"
+167: "Decorations can be\n"
+168: "placed on top.");
+171: "A large pedestal\n"
+172: "with steps.");
+175: "A large ball of mud.\n"
+176: "Crumbles if stepped\n"
+177: "on.");
+180: "A weird door that\n"
+181: "people can walk\n"
+182: "right through.");
+185: "An ornament made\n"
+186: "of sand. Crumbles if\n"
+187: "touched.");
+190: "Awarded for 50\n"
+191: "straight wins at\n"
+192: "the BATTLE TOWER.");
+195: "Awarded for 100\n"
+196: "straight wins at\n"
+197: "the BATTLE TOWER.");
+200: "A glass replica of\n"
+201: "a famous sculpture\n"
+202: "at the ART MUSEUM.");
+205: "A small, gray-\n"
+206: "colored toy TV.");
+209: "A toy TV modeled\n"
+210: "in the image of a\n"
+211: "SEEDOT.");
+214: "A toy TV modeled\n"
+215: "in the image of a\n"
+216: "SKITTY.");
+219: "An odd mat that\n"
+220: "glitters if stepped\n"
+221: "on.");
+224: "A trick mat that\n"
+225: "jumps when it is\n"
+226: "stepped on.");
+229: "A trick mat that\n"
+230: "spins around when\n"
+231: "stepped on.");
+234: "A mat that plays\n"
+235: "a low C note when\n"
+236: "stepped on.");
+239: "A mat that plays\n"
+240: "a D note when\n"
+241: "stepped on.");
+244: "A mat that plays\n"
+245: "an E note when\n"
+246: "stepped on.");
+249: "A mat that plays\n"
+250: "an F note when\n"
+251: "stepped on.");
+254: "A mat that plays\n"
+255: "a G note when\n"
+256: "stepped on.");
+259: "A mat that plays\n"
+260: "an A note when\n"
+261: "stepped on.");
+264: "A mat that plays\n"
+265: "a B note when\n"
+266: "stepped on.");
+269: "A mat that plays\n"
+270: "a high C note when\n"
+271: "stepped on.");
+274: "A mat designed with\n"
+275: "a SURF image.\n"
+276: "Put items on top.");
+279: "A mat designed with\n"
+280: "a THUNDER image.\n"
+281: "Put items on top.");
+284: "A mat designed with\n"
+285: "a FIRE BLAST image.\n"
+286: "Put items on top.");
+289: "A mat with a POWDER\n"
+290: "SNOW image design.\n"
+291: "Put items on top.");
+294: "A mat designed with\n"
+295: "an ATTRACT image.\n"
+296: "Put items on top.");
+299: "A mat designed with\n"
+300: "a FISSURE image.\n"
+301: "Put items on top.");
+304: "A mat designed with\n"
+305: "a SPIKES image.\n"
+306: "Put items on top.");
+309: "A small poster\n"
+310: "printed with POKé\n"
+311: "BALLS.");
+314: "A small poster with\n"
+315: "a TREECKO print.");
+318: "A small poster with\n"
+319: "a TORCHIC print.");
+322: "A small poster with\n"
+323: "a MUDKIP print.");
+326: "A small poster with\n"
+327: "an AZURILL print.");
+330: "A large poster with\n"
+331: "a PIKACHU and\n"
+332: "PICHU print.");
+335: "A large poster with\n"
+336: "a SEVIPER print.");
+339: "A large poster with\n"
+340: "a RELICANTH print.");
+343: "A large poster with\n"
+344: "a WINGULL print.");
+347: "A large poster with\n"
+348: "a SMOOCHUM print.");
+351: "A PICHU doll.\n"
+352: "Place it on a mat\n"
+353: "or a desk.");
+356: "A PIKACHU doll.\n"
+357: "Place it on a mat\n"
+358: "or a desk.");
+361: "A MARILL doll.\n"
+362: "Place it on a mat\n"
+363: "or a desk.");
+366: "A TOGEPI doll.\n"
+367: "Place it on a mat\n"
+368: "or a desk.");
+371: "A CYNDAQUIL doll.\n"
+372: "Place it on a mat\n"
+373: "or a desk.");
+376: "A CHIKORITA doll.\n"
+377: "Place it on a mat\n"
+378: "or a desk.");
+381: "A TOTODILE doll.\n"
+382: "Place it on a mat\n"
+383: "or a desk.");
+386: "A JIGGLYPUFF doll.\n"
+387: "Place it on a mat\n"
+388: "or a desk.");
+391: "A MEOWTH doll.\n"
+392: "Place it on a mat\n"
+393: "or a desk.");
+396: "A CLEFAIRY doll.\n"
+397: "Place it on a mat\n"
+398: "or a desk.");
+401: "A DITTO doll.\n"
+402: "Place it on a mat\n"
+403: "or a desk.");
+406: "A SMOOCHUM doll.\n"
+407: "Place it on a mat\n"
+408: "or a desk.");
+411: "A TREECKO doll.\n"
+412: "Place it on a mat\n"
+413: "or a desk.");
+416: "A TORCHIC doll.\n"
+417: "Place it on a mat\n"
+418: "or a desk.");
+421: "A MUDKIP doll.\n"
+422: "Place it on a mat\n"
+423: "or a desk.");
+426: "A DUSKULL doll.\n"
+427: "Place it on a mat\n"
+428: "or a desk.");
+431: "A WYNAUT doll.\n"
+432: "Place it on a mat\n"
+433: "or a desk.");
+436: "A BALTOY doll.\n"
+437: "Place it on a mat\n"
+438: "or a desk.");
+441: "A KECLEON doll.\n"
+442: "Place it on a mat\n"
+443: "or a desk.");
+446: "An AZURILL doll.\n"
+447: "Place it on a mat\n"
+448: "or a desk.");
+451: "A SKITTY doll.\n"
+452: "Place it on a mat\n"
+453: "or a desk.");
+456: "A SWABLU doll.\n"
+457: "Place it on a mat\n"
+458: "or a desk.");
+461: "A GULPIN doll.\n"
+462: "Place it on a mat\n"
+463: "or a desk.");
+466: "A LOTAD doll.\n"
+467: "Place it on a mat\n"
+468: "or a desk.");
+471: "A SEEDOT doll.\n"
+472: "Place it on a mat\n"
+473: "or a desk.");
+476: "A PIKACHU cushion.\n"
+477: "Place it on a mat\n"
+478: "or a desk.");
+481: "A MARILL cushion.\n"
+482: "Place it on a mat\n"
+483: "or a desk.");
+486: "A SMOOCHUM\n"
+487: "cushion. Place it on\n"
+488: "a mat or a desk.");
+491: "A ZIGZAGOON\n"
+492: "cushion. Place it on\n"
+493: "a mat or a desk.");
+496: "A SPINDA cushion.\n"
+497: "Place it on a mat\n"
+498: "or a desk.");
+501: "A SABLEYE cushion.\n"
+502: "Place it on a mat\n"
+503: "or a desk.");
+506: "A BALL cushion.\n"
+507: "Place it on a mat\n"
+508: "or a desk.");
+511: "A grass-mark\n"
+512: "cushion. Place it on\n"
+513: "a mat or a desk.");
+516: "A fire-mark\n"
+517: "cushion. Place it on\n"
+518: "a mat or a desk.");
+521: "A water-mark\n"
+522: "cushion. Place it on\n"
+523: "a mat or a desk.");
+526: "A large doll.\n"
+527: "Place it on a mat\n"
+528: "or a desk.");
+531: "A large doll.\n"
+532: "Place it on a mat\n"
+533: "or a desk.");
+536: "A large doll.\n"
+537: "Place it on a mat\n"
+538: "or a desk.");
+541: "A large doll.\n"
+542: "Place it on a mat\n"
+543: "or a desk.");
+546: "A large doll.\n"
+547: "Place it on a mat\n"
+548: "or a desk.");
+551: "A large doll.\n"
+552: "Place it on a mat\n"
+553: "or a desk.");
+556: "A large doll.\n"
+557: "Place it on a mat\n"
+558: "or a desk.");
+561: "A large doll.\n"
+562: "Place it on a mat\n"
+563: "or a desk.");
+566: "A large doll.\n"
+567: "Place it on a mat\n"
+568: "or a desk.");
+571: "A large doll.\n"
+572: "Place it on a mat\n"
+573: "or a desk.");

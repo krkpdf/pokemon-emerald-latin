@@ -1,0 +1,2 @@
+15: #define TEST_MODE 0x80 // flag in the "second" byte
+79: static const char AgbLibRtcVersion[] = "SIIRTC_V001";

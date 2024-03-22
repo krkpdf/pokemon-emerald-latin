@@ -1,0 +1,2 @@
+40: .string "Congratulations…\n"
+41: .string "Now, this way, please…$"

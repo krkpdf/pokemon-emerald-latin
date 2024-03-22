@@ -1,0 +1,3 @@
+45: .string "TRAINER TIPS\p"
+46: .string "Advice on catching POKéMON with a ROD:\n"
+47: .string "Press the A Button if you get a bite.$"

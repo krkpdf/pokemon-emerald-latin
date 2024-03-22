@@ -1,0 +1,6 @@
+26: .string "Did you know that you can link battle\n"
+27: .string "at the COLOSSEUM here?\p"
+28: .string "They put up your record on the wall\n"
+29: .string "for everyone to see.\p"
+30: .string "It's embarrassing if you lose more\n"
+31: .string "often than you win…$"

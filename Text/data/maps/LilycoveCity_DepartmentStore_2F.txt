@@ -1,0 +1,6 @@
+70: .string "Learn to use items properly.\n"
+71: .string "That's basic, really.$"
+74: .string "My husband is waiting at home.\n"
+75: .string "What would make a good gift for him?$"
+78: .string "I'm leaving on a long journey soon.\n"
+79: .string "I need to stock up on items.$"

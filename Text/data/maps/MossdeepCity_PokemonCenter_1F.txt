@@ -1,0 +1,7 @@
+29: .string "The GYM LEADERS in this town are\n"
+30: .string "a formidable duo.\p"
+31: .string "Their combination attacks are, like,\n"
+32: .string "excellent and wow!$"
+35: .string "Depending on the special abilities of\n"
+36: .string "POKéMON, some moves might change\l"
+37: .string "or not work at all.$"

@@ -1,0 +1,6 @@
+50: .string "The penetrating cold around these\n"
+51: .string "parts is an impediment to training.\p"
+52: .string "But with focus, one can overcome!\p"
+53: .string "With this FOCUS BAND, buckle down and\n"
+54: .string "withstand the cold!$"
+57: .string "Everything starts with focus!$"

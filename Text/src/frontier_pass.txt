@@ -1,0 +1,1 @@
+58: MAP_WINDOW_UNUSED, // Overlaps the "Battle Frontier" title area of the map

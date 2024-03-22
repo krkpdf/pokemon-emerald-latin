@@ -1,0 +1,2 @@
+33: .string "{PLAYER} found the ROOT FOSSIL.$"
+37: .string "{PLAYER} found the CLAW FOSSIL.$"

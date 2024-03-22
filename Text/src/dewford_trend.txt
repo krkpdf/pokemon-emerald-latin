@@ -1,0 +1,4 @@
+14: This file handles the "Dewford Trend", a pair of Easy Chat words
+19: If the NPC thinks the submitted phrase is "trendier" than the
+33: "boring" (see below) it will lose trendiness over time until it reaches 0,
+39: is "boring" or not, and if it is gaining trendiness (or if it is still trendier

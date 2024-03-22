@@ -1,0 +1,709 @@
+2: "");
+5: "Pounds the foe with\n"
+6: "forelegs or tail.");
+9: "A chopping attack with a\n"
+10: "high critical-hit ratio.");
+13: "Repeatedly slaps the foe\n"
+14: "2 to 5 times.");
+17: "Repeatedly punches the foe\n"
+18: "2 to 5 times.");
+21: "A strong punch thrown with\n"
+22: "incredible power.");
+25: "Throws coins at the foe.\n"
+26: "Money is recovered after.");
+29: "A fiery punch that may burn\n"
+30: "the foe.");
+33: "An icy punch that may\n"
+34: "freeze the foe.");
+37: "An electrified punch that\n"
+38: "may paralyze the foe.");
+41: "Scratches the foe with\n"
+42: "sharp claws.");
+45: "Grips the foe with large and\n"
+46: "powerful pincers.");
+49: "A powerful pincer attack\n"
+50: "that may cause fainting.");
+53: "A 2-turn move that strikes\n"
+54: "the foe on the 2nd turn.");
+57: "A fighting dance that\n"
+58: "sharply raises ATTACK.");
+61: "Cuts the foe with sharp\n"
+62: "scythes, claws, etc.");
+65: "Strikes the foe with a gust\n"
+66: "of wind whipped up by wings.");
+69: "Strikes the foe with wings\n"
+70: "spread wide.");
+73: "Blows away the foe with\n"
+74: "wind and ends the battle.");
+77: "Flies up on the first turn,\n"
+78: "then strikes the next turn.");
+81: "Binds and squeezes the foe\n"
+82: "for 2 to 5 turns.");
+85: "Slams the foe with a long\n"
+86: "tail, vine, etc.");
+89: "Strikes the foe with\n"
+90: "slender, whiplike vines.");
+93: "Stomps the enemy with a big\n"
+94: "foot. May cause flinching.");
+97: "A double-kicking attack\n"
+98: "that strikes the foe twice.");
+101: "An extremely powerful kick\n"
+102: "with intense force.");
+105: "A strong jumping kick. May\n"
+106: "miss and hurt the kicker.");
+109: "A fast kick delivered from\n"
+110: "a rapid spin.");
+113: "Reduces the foe's accuracy\n"
+114: "by hurling sand in its face.");
+117: "A ramming attack that may\n"
+118: "cause flinching.");
+121: "Jabs the foe with sharp\n"
+122: "horns.");
+125: "Jabs the foe 2 to 5 times\n"
+126: "with sharp horns, etc.");
+129: "A one-hit KO attack that\n"
+130: "uses a horn like a drill.");
+133: "Charges the foe with a full-\n"
+134: "body tackle.");
+137: "A full-body slam that may\n"
+138: "cause paralysis.");
+141: "Wraps and squeezes the foe\n"
+142: "2 to 5 times with vines, etc.");
+145: "A reckless charge attack\n"
+146: "that also hurts the user.");
+149: "A rampage of 2 to 3 turns\n"
+150: "that confuses the user.");
+153: "A life-risking tackle that\n"
+154: "also hurts the user.");
+157: "Wags the tail to lower the\n"
+158: "foe's DEFENSE.");
+161: "A toxic attack with barbs,\n"
+162: "etc., that may poison.");
+165: "Stingers on the forelegs\n"
+166: "jab the foe twice.");
+169: "Sharp pins are fired to\n"
+170: "strike 2 to 5 times.");
+173: "Frightens the foe with a\n"
+174: "leer to lower DEFENSE.");
+177: "Bites with vicious fangs.\n"
+178: "May cause flinching.");
+181: "Growls cutely to reduce the\n"
+182: "foe's ATTACK.");
+185: "Makes the foe flee to end\n"
+186: "the battle.");
+189: "A soothing song lulls the\n"
+190: "foe into a deep slumber.");
+193: "Emits bizarre sound waves\n"
+194: "that may confuse the foe.");
+197: "Launches shock waves that\n"
+198: "always inflict 20 HP damage.");
+201: "Psychically disables one of\n"
+202: "the foe's moves.");
+205: "Sprays a hide-melting acid.\n"
+206: "May lower DEFENSE.");
+209: "A weak fire attack that may\n"
+210: "inflict a burn.");
+213: "A powerful fire attack that\n"
+214: "may inflict a burn.");
+217: "Creates a mist that stops\n"
+218: "reduction of abilities.");
+221: "Squirts water to attack\n"
+222: "the foe.");
+225: "Blasts water at high power\n"
+226: "to strike the foe.");
+229: "Creates a huge wave, then\n"
+230: "crashes it down on the foe.");
+233: "Blasts the foe with an icy\n"
+234: "beam that may freeze it.");
+237: "Hits the foe with an icy\n"
+238: "storm that may freeze it.");
+241: "Fires a peculiar ray that\n"
+242: "may confuse the foe.");
+245: "Forcefully sprays bubbles\n"
+246: "that may lower SPEED.");
+249: "Fires a rainbow-colored\n"
+250: "beam that may lower ATTACK.");
+253: "Powerful, but leaves the\n"
+254: "user immobile the next turn.");
+257: "Attacks the foe with a\n"
+258: "jabbing beak, etc.");
+261: "A corkscrewing attack with\n"
+262: "the beak acting as a drill.");
+265: "A reckless body slam that\n"
+266: "also hurts the user.");
+269: "A kick that inflicts more\n"
+270: "damage on heavier foes.");
+273: "Retaliates any physical hit\n"
+274: "with double the power.");
+277: "Inflicts damage identical\n"
+278: "to the user's level.");
+281: "Builds enormous power,\n"
+282: "then slams the foe.");
+285: "An attack that absorbs\n"
+286: "half the damage inflicted.");
+289: "An attack that absorbs\n"
+290: "half the damage inflicted.");
+293: "Plants a seed on the foe to\n"
+294: "steal HP on every turn.");
+297: "Forces the body to grow\n"
+298: "and heightens SP. ATK.");
+301: "Cuts the enemy with leaves.\n"
+302: "High critical-hit ratio.");
+305: "Absorbs light in one turn,\n"
+306: "then attacks next turn.");
+309: "Scatters a toxic powder\n"
+310: "that may poison the foe.");
+313: "Scatters a powder that may\n"
+314: "paralyze the foe.");
+317: "Scatters a powder that may\n"
+318: "cause the foe to sleep.");
+321: "A rampage of 2 to 3 turns\n"
+322: "that confuses the user.");
+325: "Binds the foe with string\n"
+326: "to reduce its SPEED.");
+329: "Launches shock waves that\n"
+330: "always inflict 40 HP damage.");
+333: "Traps the foe in a ring of\n"
+334: "fire for 2 to 5 turns.");
+337: "An electrical attack that\n"
+338: "may paralyze the foe.");
+341: "A strong electrical attack\n"
+342: "that may paralyze the foe.");
+345: "A weak jolt of electricity\n"
+346: "that paralyzes the foe.");
+349: "A lightning attack that may\n"
+350: "cause paralysis.");
+353: "Throws small rocks to\n"
+354: "strike the foe.");
+357: "A powerful quake, but has\n"
+358: "no effect on flying foes.");
+361: "A one-hit KO move that\n"
+362: "drops the foe in a fissure.");
+365: "Digs underground the first\n"
+366: "turn and strikes next turn.");
+369: "Poisons the foe with an\n"
+370: "intensifying toxin.");
+373: "A psychic attack that may\n"
+374: "cause confusion.");
+377: "A powerful psychic attack\n"
+378: "that may lower SP. DEF.");
+381: "A hypnotizing move that\n"
+382: "may induce sleep.");
+385: "Meditates in a peaceful\n"
+386: "fashion to raise ATTACK.");
+389: "Relaxes the body to sharply\n"
+390: "boost SPEED.");
+393: "An extremely fast attack\n"
+394: "that always strikes first.");
+397: "Raises the user's ATTACK\n"
+398: "every time it is hit.");
+401: "A psychic move for fleeing\n"
+402: "from battle instantly.");
+405: "Inflicts damage identical\n"
+406: "to the user's level.");
+409: "Copies a move used by the\n"
+410: "foe during one battle.");
+413: "Emits a screech to sharply\n"
+414: "reduce the foe's DEFENSE.");
+417: "Creates illusory copies to\n"
+418: "raise evasiveness.");
+421: "Recovers up to half the\n"
+422: "user's maximum HP.");
+425: "Stiffens the body's \n"
+426: "muscles to raise DEFENSE.");
+429: "Minimizes the user's size\n"
+430: "to raise evasiveness.");
+433: "Lowers the foe's accuracy\n"
+434: "using smoke, ink, etc.");
+437: "A sinister ray that\n"
+438: "confuses the foe.");
+441: "Withdraws the body into its\n"
+442: "hard shell to raise DEFENSE.");
+445: "Curls up to conceal weak\n"
+446: "spots and raise DEFENSE.");
+449: "Creates a barrier that\n"
+450: "sharply raises DEFENSE.");
+453: "Creates a wall of light that\n"
+454: "lowers SP. ATK damage.");
+457: "Creates a black haze that\n"
+458: "eliminates all stat changes.");
+461: "Creates a wall of light that\n"
+462: "weakens physical attacks.");
+465: "Focuses power to raise the\n"
+466: "critical-hit ratio.");
+469: "Endures attack for 2\n"
+470: "turns to retaliate double.");
+473: "Waggles a finger to use any\n"
+474: "POKéMON move at random.");
+477: "Counters the foe's attack\n"
+478: "with the same move.");
+481: "Inflicts severe damage but\n"
+482: "makes the user faint.");
+485: "An egg is forcibly hurled at\n"
+486: "the foe.");
+489: "Licks with a long tongue to\n"
+490: "injure. May also paralyze.");
+493: "An exhaust-gas attack\n"
+494: "that may also poison.");
+497: "Sludge is hurled to inflict\n"
+498: "damage. May also poison.");
+501: "Clubs the foe with a bone.\n"
+502: "May cause flinching.");
+505: "Incinerates everything it\n"
+506: "strikes. May cause a burn.");
+509: "Charges the foe with speed\n"
+510: "to climb waterfalls.");
+513: "Traps and squeezes the\n"
+514: "foe for 2 to 5 turns.");
+517: "Sprays star-shaped rays\n"
+518: "that never miss.");
+521: "Tucks in the head, then\n"
+522: "attacks on the next turn.");
+525: "Launches sharp spikes that\n"
+526: "strike 2 to 5 times.");
+529: "Constricts to inflict pain.\n"
+530: "May lower SPEED.");
+533: "Forgets about something\n"
+534: "and sharply raises SP. DEF.");
+537: "Distracts the foe.\n"
+538: "May lower accuracy.");
+541: "Recovers up to half the\n"
+542: "user's maximum HP.");
+545: "A jumping knee kick. If it\n"
+546: "misses, the user is hurt.");
+549: "Intimidates and frightens\n"
+550: "the foe into paralysis.");
+553: "Takes one half the damage\n"
+554: "inflicted on a sleeping foe.");
+557: "Envelops the foe in a toxic\n"
+558: "gas that may poison.");
+561: "Hurls round objects at the\n"
+562: "foe 2 to 5 times.");
+565: "An attack that steals half\n"
+566: "the damage inflicted.");
+569: "Demands a kiss with a scary\n"
+570: "face that induces sleep.");
+573: "Searches out weak spots,\n"
+574: "then strikes the next turn.");
+577: "Alters the user's cells to\n"
+578: "become a copy of the foe.");
+581: "An attack using bubbles.\n"
+582: "May lower the foe's SPEED.");
+585: "A rhythmic punch that may\n"
+586: "confuse the foe.");
+589: "Scatters a cloud of spores\n"
+590: "that always induce sleep.");
+593: "Looses a powerful blast of\n"
+594: "light that cuts accuracy.");
+597: "Attacks with a psychic\n"
+598: "wave of varying intensity.");
+601: "It's just a splash...\n"
+602: "Has no effect whatsoever.");
+605: "Liquifies the user's body\n"
+606: "to sharply raise DEFENSE.");
+609: "Hammers with a pincer. Has a\n"
+610: "high critical-hit ratio.");
+613: "Inflicts severe damage but\n"
+614: "makes the user faint.");
+617: "Rakes the foe with sharp\n"
+618: "claws, etc., 2 to 5 times.");
+621: "Throws a bone boomerang\n"
+622: "that strikes twice.");
+625: "The user sleeps for 2 turns,\n"
+626: "restoring HP and status.");
+629: "Large boulders are hurled.\n"
+630: "May cause flinching.");
+633: "Attacks with sharp fangs.\n"
+634: "May cause flinching.");
+637: "Reduces the polygon count\n"
+638: "and raises ATTACK.");
+641: "Changes the user's type\n"
+642: "into a known move's type.");
+645: "Fires three types of beams\n"
+646: "at the same time.");
+649: "Attacks with sharp fangs\n"
+650: "and cuts half the foe's HP.");
+653: "Slashes with claws, etc. Has\n"
+654: "a high critical-hit ratio.");
+657: "Creates a decoy using 1/4\n"
+658: "of the user's maximum HP.");
+661: "Used only if all PP are gone.\n"
+662: "Also hurts the user a little.");
+665: "Copies the foe's last move\n"
+666: "permanently.");
+669: "Kicks the foe 3 times in a\n"
+670: "row with rising intensity.");
+673: "While attacking, it may\n"
+674: "steal the foe's held item.");
+677: "Ensnares the foe to stop it\n"
+678: "from fleeing or switching.");
+681: "Senses the foe's action to\n"
+682: "ensure the next move's hit.");
+685: "Inflicts 1/4 damage on a\n"
+686: "sleeping foe every turn.");
+689: "A fiery charge attack that\n"
+690: "may inflict a burn.");
+693: "A loud attack that can be\n"
+694: "used only while asleep.");
+697: "A move that functions\n"
+698: "differently for GHOSTS.");
+701: "Inflicts more damage when\n"
+702: "the user's HP is down.");
+705: "Makes the user resistant\n"
+706: "to the last attack's type.");
+709: "Launches a vacuumed blast.\n"
+710: "High critical-hit ratio.");
+713: "Spores cling to the foe,\n"
+714: "sharply reducing SPEED.");
+717: "Inflicts more damage when\n"
+718: "the user's HP is down.");
+721: "Spitefully cuts the PP\n"
+722: "of the foe's last move.");
+725: "Blasts the foe with a snowy\n"
+726: "gust. May cause freezing.");
+729: "Evades attack, but may fail\n"
+730: "if used in succession.");
+733: "A punch is thrown at wicked\n"
+734: "speed to strike first.");
+737: "Frightens with a scary face\n"
+738: "to sharply reduce SPEED.");
+741: "Draws the foe close, then\n"
+742: "strikes without fail.");
+745: "Demands a kiss with a cute\n"
+746: "look. May cause confusion.");
+749: "Maximizes ATTACK while\n"
+750: "sacrificing HP.");
+753: "Sludge is hurled to inflict\n"
+754: "damage. May also poison.");
+757: "Hurls mud in the foe's face\n"
+758: "to reduce its accuracy.");
+761: "Fires a lump of ink to\n"
+762: "damage and cut accuracy.");
+765: "Sets spikes that hurt a \n"
+766: "foe switching in.");
+769: "Powerful and sure to cause\n"
+770: "paralysis, but inaccurate.");
+773: "Negates the foe's efforts\n"
+774: "to heighten evasiveness.");
+777: "If the user faints, the foe\n"
+778: "is also made to faint.");
+781: "Any POKéMON hearing this\n"
+782: "song faints in 3 turns.");
+785: "A chilling attack that\n"
+786: "lowers the foe's SPEED.");
+789: "Evades attack, but may fail\n"
+790: "if used in succession.");
+793: "Strikes the foe with a bone\n"
+794: "in hand 2 to 5 times.");
+797: "Locks on to the foe to\n"
+798: "ensure the next move hits.");
+801: "A rampage of 2 to 3 turns\n"
+802: "that confuses the user.");
+805: "Causes a sandstorm that\n"
+806: "rages for several turns.");
+809: "An attack that steals half\n"
+810: "the damage inflicted.");
+813: "Endures any attack for\n"
+814: "1 turn, leaving at least 1HP.");
+817: "Charms the foe and sharply\n"
+818: "reduces its ATTACK.");
+821: "An attack lasting 5 turns\n"
+822: "with rising intensity.");
+825: "An attack that leaves the\n"
+826: "foe with at least 1 HP.");
+829: "Confuses the foe, but also\n"
+830: "sharply raises ATTACK.");
+833: "Recovers up to half the\n"
+834: "user's maximum HP.");
+837: "An electrified tackle that\n"
+838: "may paralyze the foe.");
+841: "An attack that intensifies\n"
+842: "on each successive hit.");
+845: "Strikes the foe with hard\n"
+846: "wings spread wide.");
+849: "Fixes the foe with a mean\n"
+850: "look that prevents escape.");
+853: "Makes the opposite gender\n"
+854: "less likely to attack.");
+857: "Uses an available move\n"
+858: "randomly while asleep.");
+861: "Chimes soothingly to heal\n"
+862: "all status abnormalities.");
+865: "An attack that increases\n"
+866: "in power with friendship.");
+869: "A gift in the form of a\n"
+870: "bomb. May restore HP.");
+873: "An attack that is stronger\n"
+874: "if the TRAINER is disliked.");
+877: "A mystical force prevents\n"
+878: "all status problems.");
+881: "Adds the user and foe's HP,\n"
+882: "then shares them equally.");
+885: "A mystical fire attack that\n"
+886: "may inflict a burn.");
+889: "A ground-shaking attack\n"
+890: "of random intensity.");
+893: "Powerful and sure to cause\n"
+894: "confusion, but inaccurate.");
+897: "A brutal ramming attack\n"
+898: "using out-thrust horns.");
+901: "Strikes the foe with an\n"
+902: "incredible blast of breath.");
+905: "Switches out the user while\n"
+906: "keeping effects in play.");
+909: "Makes the foe repeat its\n"
+910: "last move over 2 to 6 turns.");
+913: "Inflicts bad damage if used\n"
+914: "on a foe switching out.");
+917: "Spins the body at high\n"
+918: "speed to strike the foe.");
+921: "Allures the foe to reduce\n"
+922: "evasiveness.");
+925: "Attacks with a rock-hard\n"
+926: "tail. May lower DEFENSE.");
+929: "A claw attack that may\n"
+930: "raise the user's ATTACK.");
+933: "Makes the user's move last,\n"
+934: "but it never misses.");
+937: "Restores HP. The amount\n"
+938: "varies with the weather.");
+941: "Restores HP. The amount\n"
+942: "varies with the weather.");
+945: "Restores HP. The amount\n"
+946: "varies with the weather.");
+949: "The effectiveness varies\n"
+950: "with the user.");
+953: "A double-chopping attack.\n"
+954: "High critical-hit ratio.");
+957: "Whips up a vicious twister\n"
+958: "to tear at the foe.");
+961: "Boosts the power of WATER-\n"
+962: "type moves for 5 turns.");
+965: "Boosts the power of FIRE-\n"
+966: "type moves for 5 turns.");
+969: "Crunches with sharp fangs.\n"
+970: "May lower SP. DEF.");
+973: "Counters the foe's special\n"
+974: "attack at double the power.");
+977: "Copies the foe's effect(s)\n"
+978: "and gives to the user.");
+981: "An extremely fast and\n"
+982: "powerful attack.");
+985: "An attack that may raise\n"
+986: "all stats.");
+989: "Hurls a black blob that may\n"
+990: "lower the foe's SP. DEF.");
+993: "Heightens inner power to\n"
+994: "strike 2 turns later.");
+997: "A rock-crushing attack\n"
+998: "that may lower DEFENSE.");
+1001: "Traps and hurts the foe in\n"
+1002: "a whirlpool for 2 to 5 turns.");
+1005: "Summons party POKéMON to\n"
+1006: "join in the attack.");
+1009: "A 1st-turn, 1st-strike move\n"
+1010: "that causes flinching.");
+1013: "Causes an uproar for 2 to 5\n"
+1014: "turns and prevents sleep.");
+1017: "Charges up power for up to\n"
+1018: "3 turns.");
+1021: "Releases stockpiled power\n"
+1022: "(the more the better).");
+1025: "Absorbs stockpiled power\n"
+1026: "and restores HP.");
+1029: "Exhales a hot breath on the\n"
+1030: "foe. May inflict a burn.");
+1033: "Summons a hailstorm that\n"
+1034: "strikes every turn.");
+1037: "Torments the foe and stops\n"
+1038: "successive use of a move.");
+1041: "Confuses the foe, but\n"
+1042: "raises its SP. ATK.");
+1045: "Inflicts a burn on the foe\n"
+1046: "with intense fire.");
+1049: "The user faints and lowers\n"
+1050: "the foe's abilities.");
+1053: "Boosts ATTACK when burned,\n"
+1054: "paralyzed, or poisoned.");
+1057: "A powerful loyalty attack.\n"
+1058: "The user flinches if hit.");
+1061: "Powerful against paralyzed\n"
+1062: "foes, but also heals them.");
+1065: "Draws attention to make\n"
+1066: "foes attack only the user.");
+1069: "The type of attack varies\n"
+1070: "depending on the location.");
+1073: "Charges power to boost the\n"
+1074: "electric move used next.");
+1077: "Taunts the foe into only\n"
+1078: "using attack moves.");
+1081: "Boosts the power of the\n"
+1082: "recipient's moves.");
+1085: "Tricks the foe into trading\n"
+1086: "held items.");
+1089: "Mimics the target and\n"
+1090: "copies its special ability.");
+1093: "A wish that restores HP.\n"
+1094: "It takes time to work.");
+1097: "Attacks randomly with one\n"
+1098: "of the partner's moves.");
+1101: "Lays roots that restore HP.\n"
+1102: "The user can't switch out.");
+1105: "Boosts strength sharply,\n"
+1106: "but lowers abilities.");
+1109: "Reflects special effects\n"
+1110: "back to the attacker.");
+1113: "Recycles a used item for\n"
+1114: "one more use.");
+1117: "An attack that gains power\n"
+1118: "if injured by the foe.");
+1121: "Destroys barriers such as\n"
+1122: "REFLECT and causes damage.");
+1125: "Lulls the foe into yawning,\n"
+1126: "then sleeping next turn.");
+1129: "Knocks down the foe's held\n"
+1130: "item to prevent its use.");
+1133: "Gains power if the user's HP\n"
+1134: "is lower than the foe's HP.");
+1137: "The higher the user's HP,\n"
+1138: "the more damage caused.");
+1141: "The user swaps special\n"
+1142: "abilities with the target.");
+1145: "Prevents foes from using\n"
+1146: "moves known by the user.");
+1149: "Heals poisoning, paralysis,\n"
+1150: "or a burn.");
+1153: "If the user faints, deletes\n"
+1154: "all PP of foe's last move.");
+1157: "Steals the effects of the\n"
+1158: "move the target uses next.");
+1161: "An attack with effects\n"
+1162: "that vary by location.");
+1165: "Dives underwater the first\n"
+1166: "turn and strikes next turn.");
+1169: "Straight-arm punches that\n"
+1170: "strike the foe 2 to 5 times.");
+1173: "Alters the POKéMON's type\n"
+1174: "depending on the location.");
+1177: "Flashes a light that sharply\n"
+1178: "raises SP. ATK.");
+1181: "Attacks with a burst of\n"
+1182: "light. May lower SP. DEF.");
+1185: "Attacks with a flurry of\n"
+1186: "down. May lower SP. ATK.");
+1189: "Envelops the foe with down\n"
+1190: "to sharply reduce ATTACK.");
+1193: "Confuses all POKéMON on\n"
+1194: "the scene.");
+1197: "A kick with a high critical-\n"
+1198: "hit ratio. May cause a burn.");
+1201: "Covers the user in mud to\n"
+1202: "raise electrical resistance.");
+1205: "A 5-turn attack that gains\n"
+1206: "power on successive hits.");
+1209: "Attacks with thorny arms.\n"
+1210: "May cause flinching.");
+1213: "Slacks off and restores\n"
+1214: "half the maximum HP.");
+1217: "A loud attack that uses\n"
+1218: "sound waves to injure.");
+1221: "A sharp-fanged attack.\n"
+1222: "May badly poison the foe.");
+1225: "Tears at the foe with sharp\n"
+1226: "claws. May lower DEFENSE.");
+1229: "Powerful, but leaves the\n"
+1230: "user immobile the next turn.");
+1233: "Powerful, but leaves the\n"
+1234: "user immobile the next turn.");
+1237: "Fires a meteor-like punch.\n"
+1238: "May raise ATTACK.");
+1241: "An attack that may shock\n"
+1242: "the foe into flinching.");
+1245: "The move's type and power\n"
+1246: "change with the weather.");
+1249: "Heals all status problems\n"
+1250: "with a soothing scent.");
+1253: "Feigns crying to sharply\n"
+1254: "lower the foe's SP. DEF.");
+1257: "Hacks with razorlike wind.\n"
+1258: "High critical-hit ratio.");
+1261: "Allows a full-power attack,\n"
+1262: "but sharply lowers SP. ATK.");
+1265: "Negates the foe's efforts\n"
+1266: "to heighten evasiveness.");
+1269: "Stops the foe from moving\n"
+1270: "with rocks and cuts SPEED.");
+1273: "A powdery attack that may\n"
+1274: "raise abilities.");
+1277: "Emits a horrible screech\n"
+1278: "that sharply lowers SP. DEF.");
+1281: "Lulls the foe into sleep\n"
+1282: "with a pleasant melody.");
+1285: "Makes the foe laugh to\n"
+1286: "lower ATTACK and DEFENSE.");
+1289: "Raises DEFENSE and SP. DEF\n"
+1290: "with a mystic power.");
+1293: "Inflicts more damage if the\n"
+1294: "user's HP is high.");
+1297: "A strange beam attack that\n"
+1298: "may confuse the foe.");
+1301: "An unavoidable punch that\n"
+1302: "is thrown from shadows.");
+1305: "Attacks with a peculiar\n"
+1306: "power. May cause flinching.");
+1309: "An uppercut thrown as if\n"
+1310: "leaping into the sky.");
+1313: "Traps and hurts the foe in\n"
+1314: "quicksand for 2 to 5 turns.");
+1317: "A chilling attack that\n"
+1318: "causes fainting if it hits.");
+1321: "Attacks with muddy water.\n"
+1322: "May lower accuracy.");
+1325: "Shoots 2 to 5 seeds in a row\n"
+1326: "to strike the foe.");
+1329: "An extremely speedy and\n"
+1330: "unavoidable attack.");
+1333: "Attacks the foe by firing\n"
+1334: "2 to 5 icicles in a row.");
+1337: "Hardens the body's surface\n"
+1338: "to sharply raise DEFENSE.");
+1341: "Blocks the foe's way to\n"
+1342: "prevent escape.");
+1345: "Howls to raise the spirit\n"
+1346: "and boosts ATTACK.");
+1349: "Slashes the foe with sharp\n"
+1350: "claws.");
+1353: "Powerful, but leaves the\n"
+1354: "user immobile the next turn.");
+1357: "Bulks up the body to boost\n"
+1358: "both ATTACK and DEFENSE.");
+1361: "Bounces up, then down the\n"
+1362: "next turn. May paralyze.");
+1365: "Hurls mud at the foe and\n"
+1366: "reduces SPEED.");
+1369: "Has a high critical-hit\n"
+1370: "ratio. May also poison.");
+1373: "Cutely begs to obtain an\n"
+1374: "item held by the foe.");
+1377: "A life-risking tackle that\n"
+1378: "slightly hurts the user.");
+1381: "Attacks with a strange leaf\n"
+1382: "that cannot be evaded.");
+1385: "The user becomes soaked to\n"
+1386: "raise resistance to fire.");
+1389: "Raises SP. ATK and SP. DEF\n"
+1390: "by focusing the mind.");
+1393: "Slashes with a sharp leaf.\n"
+1394: "High critical-hit ratio.");
+1397: "A mystical dance that ups\n"
+1398: "ATTACK and SPEED.");
+1401: "Hurls boulders at the foe\n"
+1402: "2 to 5 times in a row.");
+1405: "A fast and unavoidable\n"
+1406: "electric attack.");
+1409: "Attacks with ultrasonic\n"
+1410: "waves. May confuse the foe.");
+1413: "Summons strong sunlight to\n"
+1414: "attack 2 turns later.");
+1417: "Allows a full-power attack,\n"
+1418: "but sharply lowers SP. ATK.");

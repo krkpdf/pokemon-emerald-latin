@@ -1,0 +1,4 @@
+2: .string "The massive downpour appears to\n"
+3: .string "have stopped…$"
+6: .string "The intense sunshine appears to\n"
+7: .string "have subsided…$"

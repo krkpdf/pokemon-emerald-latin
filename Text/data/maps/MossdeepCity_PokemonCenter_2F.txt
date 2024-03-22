@@ -1,0 +1,3 @@
+26: .string "If I win a whole lot of link battles\n"
+27: .string "and show everyone how good I am,\l"
+28: .string "I might get a fan following!$"

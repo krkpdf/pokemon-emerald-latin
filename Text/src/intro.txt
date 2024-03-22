@@ -1,0 +1,2 @@
+129: #define COLOSSEUM_GAME_CODE 0x65366347 // "Gc6e" in ASCII
+817: #define NUM_GF_LETTERS 9 // Letters in "Game Freak"

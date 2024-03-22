@@ -1,0 +1,7 @@
+32: .string "For thirty years I've remained in\n"
+33: .string "SOOTOPOLIS honing my skills.\p"
+34: .string "I developed a shattering TM.\n"
+35: .string "I bequeath it to you!$"
+38: .string "TM31 contains BRICK BREAK! It's a move\n"
+39: .string "so horrible that I can't describe it.$"
+42: .string "KECLEON: Puu puhyaah.$"

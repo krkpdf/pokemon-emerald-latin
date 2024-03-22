@@ -1,0 +1,7 @@
+13: .string "Designing a large ship is more like\n"
+14: .string "making a big building than putting\l"
+15: .string "together a transportation vehicle.$"
+18: .string "Don't you think it's strange that\n"
+19: .string "a ship made of heavy iron floats?\p"
+20: .string "It floats because of a principle\n"
+21: .string "called buoyancy.$"

@@ -1,0 +1,4 @@
+50: .string "The door is locked.$"
+53: .string "Use the BASEMENT KEY?$"
+56: .string "{PLAYER} used the BASEMENT KEY.\p"
+57: .string "The door opened!$"

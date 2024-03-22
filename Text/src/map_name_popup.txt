@@ -1,0 +1,8 @@
+180: static const u8 sText_PyramidFloor1[] = _("PYRAMID FLOOR 1");
+181: static const u8 sText_PyramidFloor2[] = _("PYRAMID FLOOR 2");
+182: static const u8 sText_PyramidFloor3[] = _("PYRAMID FLOOR 3");
+183: static const u8 sText_PyramidFloor4[] = _("PYRAMID FLOOR 4");
+184: static const u8 sText_PyramidFloor5[] = _("PYRAMID FLOOR 5");
+185: static const u8 sText_PyramidFloor6[] = _("PYRAMID FLOOR 6");
+186: static const u8 sText_PyramidFloor7[] = _("PYRAMID FLOOR 7");
+187: static const u8 sText_Pyramid[] = _("PYRAMID");

@@ -1,0 +1,6 @@
+27: .string "ENTERING VICTORY ROAD$"
+30: .string "ENTERING POKéMON LEAGUE\n"
+31: .string "CENTER GATE$"
+34: .string "EVER GRANDE CITY\p"
+35: .string "“The paradise of flowers, the sea,\n"
+36: .string "and POKéMON.”$"

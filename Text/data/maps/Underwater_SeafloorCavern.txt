@@ -1,0 +1,6 @@
+44: .string "“SUBMARINE EXPLORER 1” is painted\n"
+45: .string "on the hull.\p"
+46: .string "This is the submarine TEAM AQUA\n"
+47: .string "stole in SLATEPORT!\p"
+48: .string "TEAM AQUA must have gone\n"
+49: .string "ashore here.$"

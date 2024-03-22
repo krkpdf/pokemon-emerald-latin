@@ -1,0 +1,3 @@
+2: .string "Would you like to mix records with\n"
+3: .string "other TRAINERS?$"
+6: .string "We hope to see you again!$"

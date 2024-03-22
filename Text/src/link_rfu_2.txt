@@ -1,0 +1,34 @@
+57: char magic[sizeof("PokemonSioInfo")];
+235: "RFU WAIT",
+236: "RFU BOOT",
+237: "RFU ERROR",
+238: "RFU RESET",
+239: "RFU CONFIG",
+240: "RFU START",
+241: "RFU SC POLL",
+242: "RFU SP POLL",
+243: "RFU START",
+244: "RFU SEND ERR",
+245: "RFU CP POLL"
+249: "              ",
+250: "RECOVER START ",
+251: "DISSCONECT    ",
+252: "RECOVER SUUSES",
+253: "RECOVER FAILED"
+263: static const char sASCII_PokemonSioInfo[] = "PokemonSioInfo";
+264: static const char sASCII_LinkLossDisconnect[] = "LINK LOSS DISCONNECT!";
+265: static const char sASCII_LinkLossRecoveryNow[] = "LINK LOSS RECOVERY NOW";
+266: ALIGNED(4) static const char sASCII_30Spaces[] = {"                              "};
+267: static const char sASCII_15Spaces[] = {"               "};
+268: static const char sASCII_8Spaces[] = {"        "};
+269: ALIGNED(4) static const char sASCII_Space[] = {" "};
+270: static const char sASCII_Asterisk[] = {"*"};
+271: static const char sASCII_NowSlot[] = "NOWSLOT";
+274: "           ",
+275: "CLOCK DRIFT",
+276: "BUSY SEND  ",
+277: "CMD REJECT ",
+278: "CLOCK SLAVE"
+282: "CHILD ",
+283: "PARENT",
+284: "SEARCH"

@@ -1,0 +1,6 @@
+19: .string "I heard about a cave called the CAVE\n"
+20: .string "OF ORIGIN.\p"
+21: .string "People rumor that the spirits of\n"
+22: .string "POKéMON are revived there. Could\l"
+23: .string "something like that really happen?$"
+26: .string "WINGULL: Pihyoh!$"

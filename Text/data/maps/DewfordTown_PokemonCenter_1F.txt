@@ -1,0 +1,7 @@
+30: .string "There's a stone cavern at the edge\n"
+31: .string "of town.\p"
+32: .string "I've heard you can find rare stones\n"
+33: .string "there.$"
+36: .string "Even if a POKéMON faints and can't\n"
+37: .string "battle, it can still use a move learned\l"
+38: .string "from a HIDDEN MACHINE (HM).$"

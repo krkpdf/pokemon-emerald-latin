@@ -1,0 +1,5 @@
+847: static const u8 sText_No000[] = _("{NO}000");
+849: static const u8 sText_TenDashes[] = _("----------");
+851: ALIGNED(4) static const u8 sExpandedPlaceholder_PokedexDescription[] = _("");
+990: static const u8 sText_TenDashes2[] = _("----------");
+1379: static const struct SearchOptionText sDexSearchTypeOptions[NUMBER_OF_MON_TYPES + 1] = // + 2 for "None" and terminator, - 1 for Mystery

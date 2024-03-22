@@ -1,0 +1,7 @@
+14: .string "What's so funny about having my inner\n"
+15: .string "tube aboard the ship?$"
+18: .string "Whoa, you overwhelmed me!$"
+21: .string "It's not easy throwing POKé BALLS\n"
+22: .string "while hanging on to an inner tube!$"
+25: .string "Isn't it fun here?\n"
+26: .string "I get excited just being here!$"

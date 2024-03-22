@@ -1,0 +1,2 @@
+2: .string "This is a test message.\n"
+3: .string "This is a signpost.$"

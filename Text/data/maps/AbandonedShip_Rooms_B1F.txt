@@ -1,0 +1,4 @@
+14: .string "Urrrrppp…\p"
+15: .string "I'm getting queasy just being aboard\n"
+16: .string "this ship…\p"
+17: .string "It's not even moving, but…$"

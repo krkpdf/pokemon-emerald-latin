@@ -1,0 +1,8 @@
+22: .string "MT. PYRE…\p"
+23: .string "At its peak are two orbs placed side\n"
+24: .string "by side. Did you know?$"
+27: .string "Yes, two orbs side by side…\p"
+28: .string "The sight of them together…\n"
+29: .string "It is somehow soothing…$"
+32: .string "Is that so?\n"
+33: .string "Perhaps you ought to visit and see…$"

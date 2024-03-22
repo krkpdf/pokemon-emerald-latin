@@ -1,0 +1,6 @@
+2: .string "{PLAYER} booted up the PC.$"
+5: .string "Which PC should be accessed?$"
+8: .string "Accessed SOMEONE'S PC.$"
+11: .string "POKéMON Storage System opened.$"
+14: .string "Accessed {PLAYER}'s PC.$"
+17: .string "Accessed LANETTE's PC.$"

@@ -1,0 +1,5 @@
+19: .string "My wife's warming an EGG in the hot\n"
+20: .string "springs. This is what she told me.\p"
+21: .string "She left two POKéMON with the DAY CARE.\n"
+22: .string "And they discovered that EGG!$"
+25: .string "ZIGZAGOON: Pshoo!$"

@@ -1,0 +1,8 @@
+38: .string "The MARKET does have some interesting\n"
+39: .string "merchandise.\p"
+40: .string "But there are some items you can only\n"
+41: .string "get at a POKéMON MART.$"
+44: .string "A GREAT BALL is better than a POKé BALL\n"
+45: .string "at catching POKéMON.\p"
+46: .string "With this, I should be able to get that\n"
+47: .string "elusive POKéMON…$"

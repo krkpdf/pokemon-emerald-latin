@@ -1,0 +1,2 @@
+60: .monName = _(""),
+61: .trainerName = _("")

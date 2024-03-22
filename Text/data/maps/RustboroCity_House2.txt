@@ -1,0 +1,6 @@
+13: .string "The TRAINER'S SCHOOL is excellent.\p"
+14: .string "If you study there, you could even\n"
+15: .string "become a GYM LEADER.$"
+18: .string "ROXANNE, the GYM LEADER, really knows\n"
+19: .string "a lot about POKéMON.\p"
+20: .string "She's really strong, too!$"

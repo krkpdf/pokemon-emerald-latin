@@ -1,0 +1,4 @@
+90: .string "The CABLE CAR is ready to go up.\n"
+91: .string "Would you like to be on it?$"
+94: .string "Please step this way.$"
+97: .string "Please ride with us another time.$"

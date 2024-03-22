@@ -1,0 +1,1 @@
+92: static const u8 sJapaneseEggNickname[] = _("タマゴ"); // "tamago" ("egg" in Japanese)

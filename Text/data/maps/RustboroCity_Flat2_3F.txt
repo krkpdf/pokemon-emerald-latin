@@ -1,0 +1,4 @@
+13: .string "DEVON's PRESIDENT likes to collect\n"
+14: .string "rare stones.$"
+17: .string "I think the PRESIDENT's son also\n"
+18: .string "collects rare stones.$"

@@ -1,0 +1,2 @@
+243: pool_Kawa: .ascii "Kawa" @ name of BIOS developer
+637: pool_RubyUSAGameCode: .ascii "AXVE"

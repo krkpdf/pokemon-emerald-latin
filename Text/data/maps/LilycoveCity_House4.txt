@@ -1,0 +1,6 @@
+13: .string "This planet's biggest mysteries are\n"
+14: .string "at the bottom of the sea.\p"
+15: .string "Somebody said that, but I don't know…$"
+18: .string "There's a deep underwater trench\n"
+19: .string "between MOSSDEEP and SOOTOPOLIS.\p"
+20: .string "That's what someone told me, anyway.$"

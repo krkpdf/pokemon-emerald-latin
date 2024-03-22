@@ -1,0 +1,5 @@
+2: .string "Welcome!\p"
+3: .string "How may I serve you?$"
+6: .string "Please come again!$"
+9: .string "{PLAYER}{STRING 5}, welcome!\p"
+10: .string "What can I do for you?$"

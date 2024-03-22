@@ -1,0 +1,3 @@
+47: Search for "SECTION:" to locate them. These sections are not
+328: TILEMAPID_PKMN_DATA, // The "Pkmn Data" text at the top of the display
+946: static const u8 sText_OutOf30[] = _("/30");

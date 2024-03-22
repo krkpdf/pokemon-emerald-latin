@@ -1,0 +1,5 @@
+173: static const u8 sUnusedTransparentWhite[] = _("{HIGHLIGHT TRANSPARENT}{COLOR WHITE}");
+188: static const char sASCIIGameFreakInc[] = "GameFreak inc.";
+189: static const char sASCIITestPrint[] = "TEST PRINT\nP0\nP1\nP2\nP3";
+1187: LinkTest_PrintNumChar(*"\n", negX, y);
+1200: if (str[i] == *"\n")

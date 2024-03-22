@@ -1,0 +1,5 @@
+13: .string "There appears to be some connection\n"
+14: .string "between SOOTOPOLIS and MT. PYRE.\p"
+15: .string "My friends and I did some research on\n"
+16: .string "it at the lab where I used to work.$"
+19: .string "My big brother used to study the sea.$"

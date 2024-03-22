@@ -1,0 +1,8 @@
+16: .string "Thank you for using the MYSTERY\n"
+17: .string "GIFT System.\p"
+18: .string "There appears to be a rumor about\n"
+19: .string "rare POKéMON sightings.\p"
+20: .string "The sightings reportedly came from\n"
+21: .string "the ALTERING CAVE on ROUTE 103.\p"
+22: .string "Perhaps it would be worthwhile for\n"
+23: .string "you to investigate this rumor.$"
