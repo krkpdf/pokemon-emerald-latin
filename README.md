@@ -9,7 +9,7 @@ WIKI: https://github.com/PDFSalgado/pokemon-emerald-latin/wiki
 
 ## WORKFLOW
 1. Download the Decompilation Project from https://github.com/pret/pokeemerald 
-2. Use the extract_text script to extract all the text from the game
+2. Use the extract_text script to extract all the text from the game (already done, see Text/)
 3. Find all the sprites containing english text (to be implemented)
 4. Add translations to the text, change sprites, and upload to repo
 5. Replace text in Decompilation Project (to be implemented) and compile
