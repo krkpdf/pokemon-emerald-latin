@@ -13,3 +13,6 @@ WIKI: https://github.com/PDFSalgado/pokemon-emerald-latin/wiki
 3. Find all the sprites containing english text (to be implemented)
 4. Add translations to the text, change sprites, and upload to repo
 5. Replace text in Decompilation Project (to be implemented) and compile
+
+
+I am doing this project to practice my Latin (I am still learning, so expect mistakes) and to create something for Latin learners. I believe games make for great language learning (intrinsic motivation, language immersion, simple language and short sentences, union of language with outcomes, you have to extract instructions, etc.). I don't realistically expect to finish this, but I am also not planning on stopping. Feel free to translate parts and correct mistakes.
