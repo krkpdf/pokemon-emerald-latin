@@ -1,4 +1,4 @@
-314: .string "Huh?\n" -
+314: .string "Huh?\n"
 315: .string "Who… Who are you?\p"
 316: .string "… … … … … … … …\n"
 317: .string "… … … … … … … …\p"
