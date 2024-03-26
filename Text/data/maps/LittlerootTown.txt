@@ -44,7 +44,7 @@
 970: "in domi?$"
 973: "Um, um, um!\p" 
 974: "Si exeas foras aut ineas in gramina,\n"
-975: "POKéMON silvestres adsalient!$"
+975: "POKéMON silvestres assalient!$"
 978: "Periculosum est si non habeas\n"
 979: "POKéMON tuum.$"
 982: "Um, salve!\p"
