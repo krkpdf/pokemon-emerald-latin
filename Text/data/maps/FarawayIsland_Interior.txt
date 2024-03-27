@@ -1,1 +1,1 @@
-189: .string "The feeling of being watched faded…$"
+189: "Sensus observari esse cecidit...$"
