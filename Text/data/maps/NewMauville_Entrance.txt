@@ -1,4 +1,5 @@
-50: .string "The door is locked.$"
-53: .string "Use the BASEMENT KEY?$"
-56: .string "{PLAYER} used the BASEMENT KEY.\p"
-57: .string "The door opened!$"
+      |=======================================|
+50:   "Porta serata est.$"
+53:   "CLAVIS HYPOGAEI uti?$"
+56:   "{PLAYER} CLAVIM HYPOGAEI usus est.\p"
+57:   "Porta aperta est!$"
