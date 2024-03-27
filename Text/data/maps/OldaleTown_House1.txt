@@ -1,6 +1,10 @@
-9: .string "When a POKéMON battle starts, the one\n"
-10: .string "at the left of the list goes out first.\p"
-11: .string "So, when you get more POKéMON in your\n"
-12: .string "party, try switching around the order\l"
-13: .string "of your POKéMON.\p"
-14: .string "It could give you an advantage.$"
+      |======================================|
+9:    "Quando certamen POKéMON incipit, ille\n"
+10:   "sinistrer indicis it primo.\p"
+11:   "Ergo, cum plus POKéMON in partim tuam\n"
+12:   "colliges, conare commutare ordinem\l"
+13:   "POKéMON.\p"
+14:   "Tibi opportunitatem dare possit.$"
+
+
+      
