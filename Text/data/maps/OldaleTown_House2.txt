@@ -1,5 +1,6 @@
-13: .string "When POKéMON battle, they eventually\n"
-14: .string "level up and become stronger.$"
-17: .string "If the POKéMON with you become\n"
-18: .string "stronger, you'll be able to go farther\l"
-19: .string "away from here.$"
+      |======================================|
+13:   "Cum POKéMON certant, tandem gradum\n"
+14:   "merebuntur et fortiores erunt.$"
+17:   "Si POKéMON tecum fortiores erunt,\n"
+18:   "poteris ire longius a hoc loco quam\l"
+19:   "umquam potuisti"
