@@ -11,4 +11,4 @@
 24:   "Pererrans in speluncis nigris…\p"
 25:   "Et, aliquando, etiam habens parvulam\n"
 26:   "nostalgiam.\p"
-27:   "Oportet esse fabulosum itinerare!$"
+27:   "Certe fabulosum est itinerare!$"
