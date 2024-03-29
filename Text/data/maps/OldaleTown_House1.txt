@@ -1,4 +1,4 @@
-      |======================================|
+      |=======================================|
 9:    "Quando certamen POKéMON incipit, ille\n"
 10:   "sinistrer indicis it primo.\p"
 11:   "Ergo, cum plus POKéMON in partim tuam\n"
