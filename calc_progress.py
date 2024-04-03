@@ -5,7 +5,7 @@ progress = {}
 
 pattern = r"\d+:[ ]+\""
 
-folder_path = ".\\text\\"
+folder_path = f".{os.sep}text{os.sep}"
 
 #extract file progress
 for root, _, files in os.walk(folder_path):
@@ -30,13 +30,13 @@ for root, _, files in os.walk(folder_path):
                 progress[myfile_path] = (len(content), count)
             
             
-updated_progress = {".\\" + key.replace('_', '\\'): value for key, value in progress.items()}
+updated_progress = {f".{os.sep}" + key.replace('_', os.sep): value for key, value in progress.items()}
 branch_sums = updated_progress.copy()
 
 # add file progress backwards up the folders
 for path, value in updated_progress.items():
     # Split the path into its components (folders)
-    folders = path.split('\\')
+    folders = path.split(os.sep)
     # Initialize the current branch path
     branch_path = ''
         
@@ -45,7 +45,7 @@ for path, value in updated_progress.items():
         if i == 0:
             branch_path += folder
         else:
-            branch_path += '\\' + folder
+            branch_path += os.sep + folder
             
         #branch_path = '\\'.join([branch_path, folder]) #[1:]
         # Add the value to the sum for the current branch
@@ -59,7 +59,7 @@ for path, value in updated_progress.items():
 # take care of special case
 for path, value in updated_progress.items():
     # Split the path into its components (folders)
-    folders = path.split('\\')
+    folders = path.split(os.sep)
     # Initialize the current branch path
     branch_path = ''
         
@@ -68,7 +68,7 @@ for path, value in updated_progress.items():
         if i == 0:
             branch_path += folder
         else:
-            branch_path += '\\' + folder
+            branch_path += os.sep + folder
             
 
     if branch_path[:-4] in branch_sums:
@@ -80,7 +80,7 @@ branch_sums = dict(sorted(branch_sums.items()))
 
 
 progresslist = list(progress.keys())
-progressreplace = [p.replace("_", "\\") for p in progresslist]
+progressreplace = [p.replace("_", os.sep) for p in progresslist]
 
 def generate_collapsible_md(file_paths):
     structure = {}
@@ -90,7 +90,7 @@ def generate_collapsible_md(file_paths):
         if path == "." or ".ipynb" in path:
             continue
         
-        components = path[2:].split('\\')
+        components = path[2:].split(os.sep)
         #print(path, components)
         current_level = structure
         
@@ -115,12 +115,12 @@ def generate_collapsible_md(file_paths):
             
     # Generate markdown
     markdown = ""
-    def generate_md(structure, path=".", depth=0):
+    def generate_md(structure, path=".", depth=2):
         nonlocal markdown
         for folder, contents in structure.items():
             #print(branch_sums[path])
             
-            mydir = path + "\\" + folder
+            mydir = path + os.sep + folder
             
             if mydir in branch_sums:
                 val = branch_sums[mydir]
@@ -130,17 +130,19 @@ def generate_collapsible_md(file_paths):
                 
             
             searchdir = mydir
-            splitdir = searchdir.split("\\")
+            splitdir = searchdir.split(os.sep)
             if len(splitdir) > 1 and splitdir[-1][:-4] == splitdir[-2]:
-                searchdir = "\\".join([i for i in splitdir if i != splitdir[-2]])
+                searchdir = os.sep.join([i for i in splitdir if i != splitdir[-2]])
                 #print(searchdir)
             
             found = True
             if searchdir not in progress:
                 found = False
                 for i, s in enumerate(progressreplace): 
-                    if searchdir[2:] in s and (searchdir[2:]==s or progresslist[i][len(searchdir)-2]=="\\"):
+                    if searchdir[2:] in s and (searchdir[2:]==s or progresslist[i][len(searchdir)-2]==os.sep):
                         found = True
+                        
+                        # ???? why replace?
                         pathy = progresslist[i][:len(searchdir)-2].replace("\\", "/")
                         break
                 
@@ -150,26 +152,26 @@ def generate_collapsible_md(file_paths):
                     
             #mydir2 = mydir.replace("\\", "/")[2:]
             if found:
-                pathy = f"[{folder}](../blob/master/text/{pathy})"
+                pathy = f"<a href='text/{pathy}' class='internal-link'>{folder}</a>"
             else:
                 pathy = folder
 
             if isinstance(contents, dict):        
-                markdown += "\t" * 0 + f"<details>\n<summary>{folder} {val}</summary>\n<blockquote>\n\n"
+                markdown += "\t" * (depth-2) + f"<div class='h_{depth}'> <h{depth} data-heading='{folder}'>{folder} {val}</h{depth}>\n"
                 
                 if found:
-                    markdown += pathy + "\n\n"
+                    pass
+                    #markdown += pathy
                     
                 generate_md(contents, mydir, depth + 1)
-                markdown += "\t" * 0 + "</blockquote>\n</details>\n\n"
+                markdown += "\t" * (depth-2) + "</div>\n"
                 
             else:
-                markdown += "\t" * 0 + f"{pathy} {val}\n\n" #"\t" * (depth + 1) + "No files" + "</details>\n"
+                markdown += "\t" * (depth-2) + f"<div class='h_{depth}'>{pathy} {val}</div>\n" #"\t" * (depth + 1) + "No files" + "</details>\n"
     
     #print(structure)
     generate_md(structure)
     return markdown
-
 
 
 file_header = "As of now, only the progress from files under data/ is being correctly calculated. \n\n ```(total number of lines, number of translated lines)```\n\n"
