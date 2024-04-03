@@ -1,4 +1,4 @@
-#i/bin/bash
+#!/bin/bash
 
 python3 ./calc_progress.py
 python3 ./insert_text.py
