@@ -73,4 +73,4 @@ def combine_files(folder_path, output_folder, nojson=True):
 # I am pretty sure we only need the data/ and src/ folders, but you can extract also just extract everything 
 # 1. Download the Pokemon Emerald Decompilation Project
 # 2. Replace the filepaths below                  
-combine_files("...\\pokeemerald-master", "output")
+combine_files("..\\pokeemerald-master", "..\\text-base")

@@ -5,7 +5,7 @@ progress = {}
 
 pattern = r"\d+:[ ]+\""
 
-folder_path = ".\\Text\\"
+folder_path = ".\\text\\"
 
 #extract file progress
 for root, _, files in os.walk(folder_path):
@@ -150,7 +150,7 @@ def generate_collapsible_md(file_paths):
                     
             #mydir2 = mydir.replace("\\", "/")[2:]
             if found:
-                pathy = f"[{folder}](../blob/master/Text/{pathy})"
+                pathy = f"[{folder}](../blob/master/text/{pathy})"
             else:
                 pathy = folder
 
