@@ -1,10 +1,16 @@
-#!/bin/bash
+#i/bin/bash
 
-python3 insert_text.py
+python3 ./calc_progress.py
+python3 ./insert_text.py
 
+echo "MAKING"
 cd ../pokeemerald-master-translated/
 make
+echo "DONE"
 
 cd ../text-translated
 git add *
-git commit -m "version: `date +'%Y-%m-%d'`"
+
+current="`date +'%Y-%m-%d'`"
+msg="version: $current"
+git commit -m "$msg"
