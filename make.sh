@@ -9,8 +9,8 @@ make
 echo "DONE"
 
 cd ../text-translated
-git add *
+git add text/*
 
 current="`date +'%Y-%m-%d'`"
-msg="version: $current"
+msg="automatic commit, version: $current"
 git commit -m "$msg"
