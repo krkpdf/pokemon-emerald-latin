@@ -14,7 +14,7 @@
 115:  "problema est..\p"
 116:  "Ad virum rectum advenisti!\n"
 117:  "Ad CASTRUM AQUARUM egrediemur.$"
-120:  "DOM. MURIAEUS: Ita, CASTRUM AQUARUM est!"
+120:  "DOM. MURIAEUS: CASTRUM AQUARUM est!"
 121:  "Anchorae subleventur!\n"
 122:  "PEECA, egredimur, corculum meum!$"
 125:  "DOM. MURIAEUS: Estne sic?\n"

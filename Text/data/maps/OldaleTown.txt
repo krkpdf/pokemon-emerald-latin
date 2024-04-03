@@ -22,7 +22,7 @@
 377:  "Modo quidem vestigia unius rari POKéMON\n"
 378:  "inveni!\p"
 379:  "Mane usque perficiam pinguendum haec,\n"
-380:  "nonne?"
+380:  "nonne?$"
 383:  "Perfeci pinguendum vestigia rari\n"
 384:  "POKéMON.\p"
 385:  "Autem videtur mihi essent sola vestigia\n"

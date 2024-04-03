@@ -3,4 +3,4 @@
 14:   "merebuntur et fortiores erunt.$"
 17:   "Si POKéMON tecum fortiores erunt,\n"
 18:   "poteris ire longius a hoc loco quam\l"
-19:   "umquam potuisti"
+19:   "umquam potuisti.$"
