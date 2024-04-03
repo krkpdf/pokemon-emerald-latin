@@ -9,4 +9,7 @@ echo "DONE"
 
 cd ../text-translated
 git add *
-git commit -m "version: `date + '%Y-%m-%d'`"
+
+current="`date + '%Y-%m-%d'`"
+msg="version: $current"
+git commit -m "$msg"
