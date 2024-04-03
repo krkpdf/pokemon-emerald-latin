@@ -57,7 +57,8 @@ try :
 
             file_path_base = os.path.join(file_path_base[:file_index], myfile)
 
-            print(f"================= {myfile_path} =================")
+            empty = " "
+            print(f"================= {(myfile_path + ' '):=<70}")
 
             if "ipynb" not in myfile_path:
                 with open(file_path_base, 'r', encoding='utf-8') as input_file:
