@@ -10,8 +10,8 @@ j = 0
 
 script_dir = os.path.dirname(__file__)
 
-folder_path_a = ".\\pokeemerald-master-translated\\" # output folder
-folder_path_b = ".\\text-translated\\text\\"             # input folder
+folder_path_a = "..\\pokeemerald-master-translated\\" # output folder
+folder_path_b = ".\\text\\"                           # input folder
 
 #print(folder_path_a, folder_path_b)
 
@@ -57,7 +57,7 @@ for root, _, files in os.walk(folder_path_b):
         
         file_path_base = os.path.join(file_path_base[:file_index], myfile)
         
-        #print(f"================= {myfile_path} =================")
+        print(f"================= {myfile_path} =================")
         
         if "ipynb" not in myfile_path:
             with open(file_path_base, 'r', encoding='utf-8') as input_file:
