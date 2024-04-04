@@ -1152,7 +1152,7 @@
 1196: const u8 gText_EmptyString6[] = _("");
 1197: const u8 gText_Colon2[] = _(":");
 1198: const u8 gText_Points[] = _(" points"); // Unused
-1199: const u8 gText_TrainerCardTime[] = _("TIME");
+1199: const u8 gText_TrainerCardTime[] = _("HORA");
 1200: const u8 gJPText_BattlePoints[] = _("ゲ-ムポイント"); // Unused. Name presumed, translation is Game Points
 1201: const u8 gText_Var1sTrainerCard[] = _("{STR_VAR_1}'s TRAINER CARD");
 1202: const u8 gText_HallOfFameDebut[] = _("HALL OF FAME DEBUT  ");
@@ -1262,7 +1262,7 @@
 1308: ALIGNED(4) const u8 gText_SpaceTimes2[] = _(" time(s)");
 1309: ALIGNED(4) const u8 gText_XDotY[] = _("{STR_VAR_1}.{STR_VAR_2}");
 1310: ALIGNED(4) const u8 gText_Var1Berry[] = _("{STR_VAR_1} BERRY");
-1311: ALIGNED(4) const u8 gText_TimeColon[] = _("Time:");
+1311: ALIGNED(4) const u8 gText_TimeColon[] = _("Hora:");
 1312: ALIGNED(4) const u8 gText_PressingSpeed[] = _("Pressing Speed:");
 1313: ALIGNED(4) const u8 gText_Silkiness[] = _("Silkiness:");
 1314: ALIGNED(4) const u8 gText_StrVar1[] = _("{STR_VAR_1}");
@@ -1313,10 +1313,10 @@
 1359: const u8 gText_BattleFactoryDesc[] = _("Aim for victory using rental POKéMON!\nYour knowledge will be tested.");
 1360: const u8 gText_BattlePikeDesc[] = _("Select one of three paths to battle!\nYour luck will be tested.");
 1361: const u8 gText_BattlePyramidDesc[] = _("Aim for the top with exploration!\nYour bravery will be tested.");
-1362: const u8 gText_ContinueMenuPlayer[] = _("PLAYER");
-1363: const u8 gText_ContinueMenuTime[] = _("TIME");
+1362: const u8 gText_ContinueMenuPlayer[] = _("LUSOR");
+1363: const u8 gText_ContinueMenuTime[] = _("HORA");
 1364: const u8 gText_ContinueMenuPokedex[] = _("POKéDEX");
-1365: const u8 gText_ContinueMenuBadges[] = _("BADGES");
+1365: const u8 gText_ContinueMenuBadges[] = _("INSIGNIA");
 1366: const u8 gText_Powder[] = _("POWDER");
 1367: const u8 gText_BerryPickingRecords[] = _("DODRIO BERRY-PICKING RECORDS");
 1368: const u8 gText_BerriesPicked[] = _("BERRIES picked:");
@@ -1563,7 +1563,7 @@
 1614: const u8 gText_SelectSecondPkmn[] = _("Select the second POKéMON.");
 1615: const u8 gText_SelectThirdPkmn[] = _("Select the third POKéMON.");
 1616: const u8 gText_Rent[] = _("RENT");
-1617: const u8 gText_Summary[] = _("SUMMARIUM");
+1617: "SUMMARIUM"
 1618: const u8 gText_Others2[] = _("OTHERS");
 1619: const u8 gText_Deselect[] = _("DESELECT");
 1620: const u8 gText_TheseThreePkmnOkay[] = _("Are these three POKéMON OK?");
