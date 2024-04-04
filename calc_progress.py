@@ -21,10 +21,12 @@ for root, _, files in os.walk(folder_path):
                 if "      |=======================================|" in content[0]:
                     content = content[1:]
                 
-                if myfile_path[:4] == "data": 
+                if "pokedex_text.txt" not in myfile_path and  \
+                    ".json" not in myfile_path and            \
+                    "description" not in myfile_path:          
                     count = sum(1 for line in content if re.match(pattern, line))
-
-                elif myfile_path[:3] == "src":
+                    
+                else:
                     count = 0
 
                 progress[myfile_path] = (len(content), count)
