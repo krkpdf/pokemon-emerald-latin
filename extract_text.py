@@ -12,7 +12,7 @@ def extract_quoted_text(line):
 
 
 def find_path(file_path):
-    i = file_path.rfind("\\")
+    i = file_path.rfind(os.sep)
     return file_path[:i]
 
 
