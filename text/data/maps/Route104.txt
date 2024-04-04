@@ -1,6 +1,6 @@
       |=======================================|
 1002: "Illic est tugurium illud ubi DOM.\n"
-1003: "MURIAEUS vivit.".\p"
+1003: "MURIAEUS vivit.\p"
 1004: "Erat olim nauta magnus, quis numquam\n"
 1005: "timuit marem, quomodolibet procellosam.$"
 1008: "Mare, huh?\p" 

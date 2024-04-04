@@ -1006,35 +1006,38 @@
 1509: "crossing over time. It is thought that so\n"
 1510: "long as CELEBI appears, a bright and\n"
 1511: "shining future awaits us.");
-1514: "It makes its nest in a giant tree in the\n"
-1515: "forest. It ferociously guards against\n"
-1516: "anything nearing its territory. It is said\n"
-1517: "to be the protector of the forest's trees.");
-1520: "Leaves grow out of this POKéMON's body.\n"
-1521: "They help obscure a GROVYLE from the eyes\n"
-1522: "of its enemies while it is in a thickly\n"
-1523: "overgrown forest.");
-1526: "In the jungle, its power is without equal.\n"
-1527: "This POKéMON carefully grows trees and\n"
-1528: "plants. It regulates its body temperature\n"
-1529: "by basking in sunlight.");
-1532: "If attacked, it strikes back by spitting\n"
-1533: "balls of fire it forms in its stomach.\n"
-1534: "A TORCHIC dislikes darkness because it\n"
-1535: "can't see its surroundings.");
-1538: "It lashes out with 10 kicks per second.\n"
-1539: "Its strong fighting instinct compels it\n"
-1540: "to keep up its offensive until the\n"
-1541: "opponent gives up.");
-1544: "It learns martial arts that use punches\n"
-1545: "and kicks. Every several years, its old\n"
-1546: "feathers burn off, and new, supple\n"
-1547: "feathers grow back in their place.");
-1550: "On land, it can powerfully lift large\n"
-1551: "boulders by planting its four feet and\n"
-1552: "heaving. It sleeps by burying itself in soil\n"
-1553: "at the water's edge.");
-1556: "Its toughened hind legs enable it to stand\n"
+
+
+HOENN
+1514: "Nidum in arbore ingenti in silva facit.\n"
+1515: "Custodit vehementer contra quemcumque\n"
+1516: "qui approprinquat territorium eius.\n"
+1517: "Dicitur protectorem arborum silvae esse.");
+1520: "Foliae ex corpore POKéMON huius crescent.\n"
+1521: "Obscurant GROVYLE a oculis inimicorum cum\n"
+1522: "in densa obsita silva est. Apte scandit\n"
+1523: "arbores altas in iungalis."
+1526: "In iungala potestas eius non habet\n"
+1527: "coaequalis. Dilligenter hic POKéMON curat\n"
+1528: "arboribus et plantis. Regulat temperaturam\n"
+1529: "corporis apricando in sole."
+1532: "Si impetitur, ulciscitur exspuens\n"
+1533: "folliculos igniferos, quos in stomacho\n"
+1534: "format. TORCHIC fastidit obscuritatem quia\n"
+1535: "circumiecta non videre potest."
+1538: "Verberat 10 calcitrata per secondum.\n"
+1539: "Instinctus pugnandi validus eius perpellit\n"
+1540: "eum perseverare impetens donec\n"
+1541: "oppositiones eius cedant.");
+1544: "Discit artes martiales pugnorum et\n"
+1545: "calcitrandi. Circa quotannis, plumae\n"
+1546: "veteres ustae sunt, ut plumae novae\n"
+1547: "crescere possint in loco earum."
+1550: "Super terra, fortiter lapides ingentes\n"
+1551: "levare potest premendo quattor pedibus\n"
+1552: "suis et moliendo. Dormit fodiendo sibi\n"
+1553: "ipso apud oram aquae.");
+1556: "Its toughened hind legs enable it to stand\n" - b
 1557: "upright. Because it weakens if its skin\n"
 1558: "dries out, it replenishes fluids by playing\n"
 1559: "in mud.");

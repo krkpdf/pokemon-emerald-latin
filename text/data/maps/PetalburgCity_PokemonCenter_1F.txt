@@ -7,7 +7,7 @@
 65:   "recuperavit SL!$"
 68:   "Multae sunt species POKéMON.\p"
 69:   "Quisque typus enim vires et vititia\n"
-70:   "propria contra alios typos habet.\p"
+70:   "propria contra ceteros typos habet.\p"
 71:   "Secundum typos POKéMON, certamen aut\n"
 72:   "facile aut difficile esse potest.$"
 75:   "Exempli gratia, TREECKO tuum typus\n"

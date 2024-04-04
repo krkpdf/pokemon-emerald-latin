@@ -1,6 +1,6 @@
 2: "");
-5: "Pounds the foe with\n"
-6: "forelegs or tail.");
+5: "Pinsat hostem cum\n"
+6: "cruribus aut cauda.");
 9: "A chopping attack with a\n"
 10: "high critical-hit ratio.");
 13: "Repeatedly slaps the foe\n"
@@ -17,8 +17,8 @@
 34: "freeze the foe.");
 37: "An electrified punch that\n"
 38: "may paralyze the foe.");
-41: "Scratches the foe with\n"
-42: "sharp claws.");
+41: "Radit hostem cum\n"
+42: "ungulis acutis.");
 45: "Grips the foe with large and\n"
 46: "powerful pincers.");
 49: "A powerful pincer attack\n"
@@ -63,8 +63,8 @@
 126: "with sharp horns, etc.");
 129: "A one-hit KO attack that\n"
 130: "uses a horn like a drill.");
-133: "Charges the foe with a full-\n"
-134: "body tackle.");
+133: "Procellit hostem cum\n"
+134: "toto corpore.");
 137: "A full-body slam that may\n"
 138: "cause paralysis.");
 141: "Wraps and squeezes the foe\n"
@@ -87,12 +87,12 @@
 174: "leer to lower DEFENSE.");
 177: "Bites with vicious fangs.\n"
 178: "May cause flinching.");
-181: "Growls cutely to reduce the\n"
-182: "foe's ATTACK.");
-185: "Makes the foe flee to end\n"
-186: "the battle.");
-189: "A soothing song lulls the\n"
-190: "foe into a deep slumber.");
+181: "Fremit belle ut minuat\n"
+182: "IMPETUM hostis.");
+185: "Fecit hostem fugere ut finiatur\n"
+186: "certamen.");
+189: "Carmen solans sopit hostem\n"
+190: "in somnum profundum.");
 193: "Emits bizarre sound waves\n"
 194: "that may confuse the foe.");
 197: "Launches shock waves that\n"
@@ -101,14 +101,14 @@
 202: "the foe's moves.");
 205: "Sprays a hide-melting acid.\n"
 206: "May lower DEFENSE.");
-209: "A weak fire attack that may\n"
-210: "inflict a burn.");
+209: "Impetus parvus ignifer,\n"
+210: "qui adustum effecit.");
 213: "A powerful fire attack that\n"
 214: "may inflict a burn.");
 217: "Creates a mist that stops\n"
 218: "reduction of abilities.");
-221: "Squirts water to attack\n"
-222: "the foe.");
+221: "Spuit aquam vulnerare\n"
+222: "hostem.");
 225: "Blasts water at high power\n"
 226: "to strike the foe.");
 229: "Creates a huge wave, then\n"
@@ -125,8 +125,8 @@
 250: "beam that may lower ATTACK.");
 253: "Powerful, but leaves the\n"
 254: "user immobile the next turn.");
-257: "Attacks the foe with a\n"
-258: "jabbing beak, etc.");
+257: "Impetit hostem cum\n"
+258: "pungente becco, etc.");
 261: "A corkscrewing attack with\n"
 262: "the beak acting as a drill.");
 265: "A reckless body slam that\n"
@@ -139,8 +139,8 @@
 278: "to the user's level.");
 281: "Builds enormous power,\n"
 282: "then slams the foe.");
-285: "An attack that absorbs\n"
-286: "half the damage inflicted.");
+285: "Impetus qui absorbet\n"
+286: "dimidium damni effecti.");
 289: "An attack that absorbs\n"
 290: "half the damage inflicted.");
 293: "Plants a seed on the foe to\n"
@@ -219,8 +219,8 @@
 438: "confuses the foe.");
 441: "Withdraws the body into its\n"
 442: "hard shell to raise DEFENSE.");
-445: "Curls up to conceal weak\n"
-446: "spots and raise DEFENSE.");
+445: "Crispat ut concelet vulnera\n"
+446: "et surgatur DEFENSIO.");
 449: "Creates a barrier that\n"
 450: "sharply raises DEFENSE.");
 453: "Creates a wall of light that\n"
@@ -375,8 +375,8 @@
 750: "sacrificing HP.");
 753: "Sludge is hurled to inflict\n"
 754: "damage. May also poison.");
-757: "Hurls mud in the foe's face\n"
-758: "to reduce its accuracy.");
+757: "Iacit limum in faciem hostis\n"
+758: "minuere accurationem.");
 761: "Fires a lump of ink to\n"
 762: "damage and cut accuracy.");
 765: "Sets spikes that hurt a \n"

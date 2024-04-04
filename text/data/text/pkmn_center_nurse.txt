@@ -3,7 +3,7 @@
 4:    "POKéMON fatigatos tuos restauramus\n"
 5:    "ad salutem optimam.\p"
 6:    "Vis requiescere POKéMON tuos?$"
-9:    "Bene, POKéMON tuos accipiam\n"
+9:    "Bene, POKéMON tuos habebo\n"
 10:   "pauca secunda.$"
 13:   "Gratias ago pro manendo tuo.\p"
 14:   "POKéMON tuos restauravimus\n"

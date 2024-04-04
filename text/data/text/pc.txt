@@ -1,6 +1,6 @@
 2:    "{PLAYER} PC accendit.$"
 5:    "Quod PC accedere decet?$"
-8:    "Accedit ALICUIUS PC.$"
+8:    "Accedit PC ALICUIUS.$"
 11:   "Systema COACERVANDI POKéMON aperitur.$"
 14:   "Accedit PC {PLAYER}.$"
 17:   "Accedit PC IANETTAE.$"

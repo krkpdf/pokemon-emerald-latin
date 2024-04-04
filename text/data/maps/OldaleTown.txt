@@ -25,7 +25,7 @@
 380:  "nonne?$"
 383:  "Perfeci pinguendum vestigia rari\n"
 384:  "POKéMON.\p"
-385:  "Autem videtur mihi essent sola vestigia\n"
+385:  "Tamen videtur mihi essent sola vestigia\n"
 386:  "mea…$"
 389:  "MAY: {PLAYER}{KUN}!\n" 
 390:  "Hoc!\l"

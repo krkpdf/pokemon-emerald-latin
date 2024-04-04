@@ -6,5 +6,5 @@
 19:   "Semel certavi contra NORMANUM, vel,\n"
 20:   "whew, erat magnus fortior.\p"
 21:   "Quomodo dicere possum?\p"
-22:   "Mihi modo videtur, ut is vivit pro\n"
+22:   "Mihi modo videtur is vivere pro\n"
 23:   "POKéMON.$"

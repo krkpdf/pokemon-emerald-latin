@@ -21,7 +21,7 @@
 871: .string "{PLAYER} booted up the PC.$"
 874: .string "The link was canceled.$"
 877: "Vis agnomen dare ad\n"
-878: .string "{STR_VAR_2}, qui accepisti?$"
+878: "{STR_VAR_2}, qui accepisti?$"
 881: .string "{PLAYER} is out of usable\n"
 882: .string "POKéMON!\p{PLAYER} whited out!$"
 885: .string "Registered {STR_VAR_1} {STR_VAR_2}\n"
