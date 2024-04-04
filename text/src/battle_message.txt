@@ -2,7 +2,7 @@
 56:   "{B_BUFF1} meritus est{B_BUFF2}\n{B_BUFF3} Puncta PER.!\p"
 57: static const u8 sText_EmptyString4[] = _("");
 58: static const u8 sText_ABoosted[] = _(" a boosted");
-59:   "{B_BUFF1} progressus est\nad GR. {B_BUFF2}!{WAIT_SE}\p"
+59:   "{B_BUFF1} progressus\nest ad GR. {B_BUFF2}!{WAIT_SE}\p"
 60:   "{B_BUFF1} discit\n{B_BUFF2}!{WAIT_SE}\p"
 61:   "{B_BUFF1} conatur\ndiscere {B_BUFF2}.\p"
 62:   "Sed, {B_BUFF1} non licet discere\nplus quam quattuor motus.\p"
@@ -362,7 +362,7 @@
 416:  "Socius"
 417:  "Socius"
 418:  "Socius"
-419:  "{B_ATK_NAME_WITH_PREFIX}\n{B_BUFF2} usus est"
+419:  "{B_ATK_NAME_WITH_PREFIX}\nusus est {B_BUFF2}"
 420: static const u8 sText_ExclamationMark[] = _("!");
 421: static const u8 sText_ExclamationMark2[] = _("!");
 422: static const u8 sText_ExclamationMark3[] = _("!");
@@ -381,9 +381,9 @@
 448: static const u8 sText_PokeblockWasTooSweet[] = _("was too sweet!");
 449: static const u8 sText_PokeblockWasTooBitter[] = _("was too bitter!");
 450: static const u8 sText_PokeblockWasTooSour[] = _("was too sour!");
-461:  "{B_PLAYER_NAME}\n{B_LAST_ITEM} usus est!"
-462:  "VALIUS\n{B_LAST_ITEM} usus est!"
-463:  "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\n{B_LAST_ITEM} usus est!"
+461:  "{B_PLAYER_NAME} usus est\n {B_LAST_ITEM}!"
+462:  "VALIUS usus est\n{B_LAST_ITEM}!"
+463:  "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nusus est {B_LAST_ITEM}!"
 464: static const u8 sText_TrainerBlockedBall[] = _("The TRAINER blocked the BALL!");
 465: static const u8 sText_DontBeAThief[] = _("Don't be a thief!");
 466: static const u8 sText_ItDodgedBall[] = _("It dodged the thrown BALL!\nThis POKéMON can't be caught!");

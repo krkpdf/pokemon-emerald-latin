@@ -889,8 +889,8 @@
 933:  "MOVE POKéMON"
 934:  "MOVE RES"
 935:  "VALE!"
-936:  "Move POKéMON coacervatos in ARCIS in\npartes tuas."
-937:  "Coacerva POKéMON in partibus tuis in ARCAS."
+936:  "Move POKéMON coacervatos\nin ARCIS in partes tuas."
+937:  "Coacerva POKéMON in\npartibus tuis in ARCAS."
 938:  "Ordina POKéMON in ARCIS et\nin partibus tuis."
 939:  "Move res habitas a POKéMON\nin ARCAM aut partes tuas."
 940:  "Reverte ad fenestram priorem.");
