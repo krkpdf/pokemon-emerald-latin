@@ -19,7 +19,7 @@
 1027: "aspiciunt, provocatio ad certamen est.\p"
 1028: "Si certare non vis, absconde te ab\n"
 1029: "oculis eis.$"
-1032: "Fruor implendum os meum cum semina, et\n"
+1032: "Fruor implendo osse meo cum semina, et\n"
 1033: "illa celeriter exspuere postea!\p"
 1034: "Accipe hoc, ut coneris postremo!\p"
 1035: "In POKéMON uti et discet opem iaculandi\n"
