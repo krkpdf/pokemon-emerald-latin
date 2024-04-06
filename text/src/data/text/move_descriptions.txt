@@ -75,8 +75,8 @@
 150: "that confuses the user.");
 153: "A life-risking tackle that\n"
 154: "also hurts the user.");
-157: "Wags the tail to lower the\n"
-158: "foe's DEFENSE.");
+157: "Iocatur coda ut cadatur\n"
+158: "DEFENSIO hostis.");
 161: "A toxic attack with barbs,\n"
 162: "etc., that may poison.");
 165: "Stingers on the forelegs\n"
@@ -617,8 +617,8 @@
 1234: "user immobile the next turn.");
 1237: "Fires a meteor-like punch.\n"
 1238: "May raise ATTACK.");
-1241: "An attack that may shock\n"
-1242: "the foe into flinching.");
+1241: "Impetus qui hostem terrere\n"
+1242: "potest, ut haesitet.");
 1245: "The move's type and power\n"
 1246: "change with the weather.");
 1249: "Heals all status problems\n"

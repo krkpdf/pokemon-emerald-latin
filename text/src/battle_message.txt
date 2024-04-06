@@ -25,7 +25,7 @@
 79:   "{B_SCR_ACTIVE_NAME_WITH_PREFIX} effugium\ncum {B_SCR_ACTIVE_ABILITY} praevenit!\p"
 80:   "Non potes effugere!\p"
 81:   "{B_ATK_NAME_WITH_PREFIX} effugere non potest!"
-82:   "{B_BUFF1} vicibus illiditur!"
+82:   "{B_BUFF1} vicibus icitur!"
 83:   "{B_EFF_NAME_WITH_PREFIX}\nadormiscit!"
 84:   "{B_SCR_ACTIVE_ABILITY} a {B_SCR_ACTIVE_NAME_WITH_PREFIX}\n{B_EFF_NAME_WITH_PREFIX} dormire fecit!"
 85:   "{B_DEF_NAME_WITH_PREFIX} iam\ndormit!"
@@ -244,17 +244,17 @@
 298: static const u8 sText_PkmnsXCuredItsYProblem[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncured its {B_BUFF1} problem!");
 299:  "{B_SCR_ACTIVE_ABILITY} a {B_SCR_ACTIVE_NAME_WITH_PREFIX}\nnon efficax fuit versus {B_EFF_NAME_WITH_PREFIX}!"
 300:  "acriter "
-301:   "surrectus est!"
-302:   "acerbe "
-303:   "cedidit!");
-304:   "{B_ATK_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
+301:  "surrectus est!"
+302:  "acerbe "
+303:  "cecidit!");
+304:  "{B_ATK_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
 305:  "{B_DEF_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
 306: static const u8 sText_UsingItemTheStatOfPkmnRose[] = _("Using {B_LAST_ITEM}, the {B_BUFF1}\nof {B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_BUFF2}");
 307:  "{B_ATK_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
 308:  "{B_DEF_NAME_WITH_PREFIX} {B_BUFF1}\n{B_BUFF2}"
 309: "{B_ATK_NAME_WITH_PREFIX} peritiae\naltius surgi non possunt!"
 310: "{B_DEF_NAME_WITH_PREFIX} peritiae\ninferius cadere non possunt!"
-311:  "Illisus crisimus!"
+311:  "Ictus crisimus!"
 312: static const u8 sText_OneHitKO[] = _("It's a one-hit KO!");
 313: static const u8 sText_123Poof[] = _("{PAUSE 32}1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p");
 314:  "Et…\p"
@@ -469,24 +469,24 @@
 1322: const u8 gText_Draw[] = _("{HIGHLIGHT TRANSPARENT}Pactum");
 1323: " est"
 1324: static const u8 sText_ApostropheS[] = _("");
-1330: [TYPE_NORMAL]   = _("a NORMAL move"),
-1331: [TYPE_FIGHTING] = _("a FIGHTING move"),
-1332: [TYPE_FLYING]   = _("a FLYING move"),
-1333: [TYPE_POISON]   = _("a POISON move"),
-1334: [TYPE_GROUND]   = _("a GROUND move"),
-1335: [TYPE_ROCK]     = _("a ROCK move"),
-1336: [TYPE_BUG]      = _("a BUG move"),
-1337: [TYPE_GHOST]    = _("a GHOST move"),
-1338: [TYPE_STEEL]    = _("a STEEL move"),
-1339: [TYPE_MYSTERY]  = _("a ??? move"),
-1340: [TYPE_FIRE]     = _("a FIRE move"),
-1341: [TYPE_WATER]    = _("a WATER move"),
-1342: [TYPE_GRASS]    = _("a GRASS move"),
-1343: [TYPE_ELECTRIC] = _("an ELECTRIC move"),
-1344: [TYPE_PSYCHIC]  = _("a PSYCHIC move"),
-1345: [TYPE_ICE]      = _("an ICE move"),
-1346: [TYPE_DRAGON]   = _("a DRAGON move"),
-1347: [TYPE_DARK]     = _("a DARK move")
+1330: [TYPE_NORMAL]   = _("motum VULGAREM"),
+1331: [TYPE_FIGHTING] = _("motum PUGNO"),
+1332: [TYPE_FLYING]   = _("motum VOLANDI"),
+1333: [TYPE_POISON]   = _("motum TOXICUM"),
+1334: [TYPE_GROUND]   = _("motum SOLO"),
+1335: [TYPE_ROCK]     = _("motum LAPIDE"),
+1336: [TYPE_BUG]      = _("motum CIMICE"),
+1337: [TYPE_GHOST]    = _("motum UMBRA"),
+1338: [TYPE_STEEL]    = _("motum FERRO"),
+1339: [TYPE_MYSTERY]  = _("motum ???"),
+1340: [TYPE_FIRE]     = _("motum IGNI"),
+1341: [TYPE_WATER]    = _("motum AQUA"),
+1342: [TYPE_GRASS]    = _("motum GRAMINE"),
+1343: [TYPE_ELECTRIC] = _("motum ELECTRICUM"),
+1344: [TYPE_PSYCHIC]  = _("motum MENTE"),
+1345: [TYPE_ICE]      = _("motum GELU"),
+1346: [TYPE_DRAGON]   = _("motum DRACONE"),
+1347: [TYPE_DARK]     = _("motum NOCTE")
 1350: const u8 gText_BattleTourney[] = _("BATTLE TOURNEY");
 1351: static const u8 sText_Round1[] = _("Round 1");
 1352: static const u8 sText_Round2[] = _("Round 2");

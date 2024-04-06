@@ -1009,202 +1009,301 @@
 
 
 HOENN
+1 - Treecko
 1514: "Nidum in arbore ingenti in silva facit.\n"
 1515: "Custodit vehementer contra quemcumque\n"
 1516: "qui approprinquat territorium eius.\n"
-1517: "Dicitur protectorem arborum silvae esse.");
+1517: "Dicitur protectorem arborum silvae esse."
+
+2 - Grovyle
 1520: "Foliae ex corpore POKéMON huius crescent.\n"
 1521: "Obscurant GROVYLE a oculis inimicorum cum\n"
 1522: "in densa obsita silva est. Apte scandit\n"
 1523: "arbores altas in iungalis."
+
+3 - Sceptile
 1526: "In iungala potestas eius non habet\n"
 1527: "coaequalis. Dilligenter hic POKéMON curat\n"
 1528: "arboribus et plantis. Regulat temperaturam\n"
 1529: "corporis apricando in sole."
+
+4 - Torchic
 1532: "Si impetitur, ulciscitur exspuens\n"
 1533: "folliculos igniferos, quos in stomacho\n"
 1534: "format. TORCHIC fastidit obscuritatem quia\n"
 1535: "circumiecta non videre potest."
+
+5 - Combusken
 1538: "Verberat 10 calcitrata per secondum.\n"
 1539: "Instinctus pugnandi validus eius perpellit\n"
 1540: "eum perseverare impetens donec\n"
-1541: "oppositiones eius cedant.");
+1541: "oppositiones eius cedant."
+
+6 - Blaziken
 1544: "Discit artes martiales pugnorum et\n"
 1545: "calcitrandi. Circa quotannis, plumae\n"
 1546: "veteres ustae sunt, ut plumae novae\n"
 1547: "crescere possint in loco earum."
+
+7 - Mudkip
 1550: "Super terra, fortiter lapides ingentes\n"
 1551: "levare potest premendo quattor pedibus\n"
 1552: "suis et moliendo. Dormit fodiendo sibi\n"
-1553: "ipso apud oram aquae.");
-1556: "Its toughened hind legs enable it to stand\n" - b
-1557: "upright. Because it weakens if its skin\n"
-1558: "dries out, it replenishes fluids by playing\n"
-1559: "in mud.");
-1562: "If it senses the approach of a storm and\n"
-1563: "a tidal wave, it protects its seaside nest\n"
-1564: "by piling up boulders. It swims as fast as\n"
-1565: "a jet ski.");
-1568: "It savagely threatens foes with bared\n"
-1569: "fangs. It chases after fleeing targets\n"
-1570: "tenaciously. It turns tail and runs,\n"
-1571: "however, if the foe strikes back.");
-1574: "In the wild, MIGHTYENA live in a pack.\n"
-1575: "They never defy their leader's orders.\n"
-1576: "They defeat foes with perfectly\n"
-1577: "coordinated teamwork.");
-1580: "Rubbing its nose against the ground, it\n"
-1581: "always wanders about back and forth in\n"
-1582: "search of something. It is distinguished\n"
-1583: "by the zigzag footprints it leaves.");
-1586: "It is exceedingly fast if it only has to run\n"
-1587: "in a straight line. When it spots pond-\n"
-1588: "dwelling prey underwater, it quickly leaps\n"
-1589: "in and catches it with its sharp claws.");
-1592: "It sticks to tree branches and eats\n"
-1593: "leaves. The thread it spits from its mouth,\n"
-1594: "which becomes gooey when it touches\n"
-1595: "air, slows the movement of its foes.");
-1598: "It prepares for evolution using the\n"
-1599: "energy it stored while it was a WURMPLE.\n"
-1600: "It keeps watch over the surroundings with\n"
-1601: "its two eyes.");
-1604: "Its colorfully patterned wings are its\n"
-1605: "most prominent feature. It flies through\n"
-1606: "flower-covered fields collecting pollen.\n"
-1607: "It attacks ferociously when angered.");
-1610: "To avoid detection by its enemies, it hides\n"
-1611: "motionlessly beneath large leaves and in\n"
-1612: "the gaps of branches. It also attaches\n"
-1613: "dead leaves to its body for camouflage.");
-1616: "It is a nocturnal POKéMON that flies from\n"
-1617: "fields and mountains to the attraction of\n"
-1618: "streetlights at night. It looses highly\n"
-1619: "toxic powder from its wings.");
-1622: "This POKéMON lives in ponds with clean\n"
-1623: "water. It is known to ferry small POKéMON\n"
-1624: "across ponds by carrying them on the\n"
-1625: "broad leaf on its head.");
-1628: "In the evening, it takes great delight in\n"
-1629: "popping out of rivers and startling people.\n"
-1630: "It feeds on aquatic moss that grows on\n"
-1631: "rocks in the riverbed.");
-1634: "When it hears festive music, all the cells\n"
-1635: "in its body become stimulated, and it\n"
-1636: "begins moving in rhythm. It does not\n"
-1637: "quail even when it faces a tough opponent.");
-1640: "It hangs off branches and absorbs\n"
-1641: "nutrients. When it finishes eating, its\n"
-1642: "body becomes so heavy that it drops to\n"
-1643: "the ground with a thump.");
-1646: "A forest-dwelling POKéMON that is skilled\n"
-1647: "at climbing trees. Its long and pointed\n"
-1648: "nose is its weak point. It loses power if\n"
-1649: "the nose is gripped.");
-1652: "It is said to arrive on chilly, wintry winds.\n"
-1653: "Feared from long ago as the guardian of\n"
-1654: "forests, this POKéMON lives in a deep\n"
-1655: "forest where people do not venture.");
-1658: "Although it is small, it is very courageous.\n"
-1659: "It will take on a larger SKARMORY on an\n"
-1660: "equal footing. However, its will weakens if\n"
-1661: "it becomes hungry.");
-1664: "A SWELLOW dives upon prey from far above.\n"
-1665: "It never misses its targets. It takes to\n"
-1666: "the skies in search of lands with a warm\n"
-1667: "climate.");
-1670: "It makes its nest on a sheer cliff at the\n"
-1671: "edge of the sea. It has trouble keeping\n"
-1672: "its wings flapping in flight. Instead, it\n"
-1673: "soars on updrafts.");
-1676: "It skims the tops of waves as it flies.\n"
-1677: "When it spots prey, it uses its large beak\n"
-1678: "to scoop up the victim with water.\n"
-1679: "It protects its eggs in its beak.");
-1682: "A RALTS has the power to sense the\n"
-1683: "emotions of people and POKéMON with the\n"
-1684: "horns on its head. It takes cover if it\n"
-1685: "senses any hostility.");
-1688: "A KIRLIA has the psychic power to create \n"
-1689: "a rip in the dimensions and see into the\n"
-1690: "future. It is said to dance with pleasure\n"
-1691: "on sunny mornings.");
-1694: "It apparently does not feel the pull of\n"
-1695: "gravity because it supports itself with\n"
-1696: "psychic power. It will give its life to\n"
-1697: "protect its TRAINER.");
+1553: "ipso in terram apud oram aquae.");
+
+8 - Marshtomb
+1556: "Cruribus robustis suis erectus gradi\n"
+1557: "potest. Quia infirmatur cum arescit\n"
+1558: "pellis sua replet umorem suum ludendo in\n"
+1559: "limo.");
+
+9 - Swampert
+1562: "Si adveniendum tempestati et aestui maris\n"
+1563: "sentit, custodit nidum orarium acervando\n"
+1564: "lapidibus. Autem tam celeriter natat quam\n"
+1565: "actuariolum."
+
+10 - Poochyena
+1568: "Fere comminatur hostes cum dentibus\n"
+1569: "discooperientibus. Persequitur scopos\n"
+1570: "fugantes vehementer. Tamen se avertit et\n"
+1571: "fugit, si eum hostis ulcitur."
+
+11 - Migthyena
+1574: "In natura, MIGHTYENA vivunt in gregibus.\n"
+1575: "Numquam reiciunt mandata principium.\n"
+1576: "Hostes vincent cum coordinatione perfecta\n"
+1577: "coetus eorum."
+
+12 - Zigzagoon
+1580: "Terens nares ad terram, pererrat semper\n"
+1581: "passim per locum totum quaerens quiddam.\n"
+1582: "Se distinguit per vestigias zigzag suas,\n"
+1583: "quas relinquit."
+
+13 - Linoone
+1586: "Celerrimus est si ei licet tantum in via\n"
+1587: "recta currere. Cum reperit lacu habitantem\n"
+1588: "praedam sub aequore, celeriter assilit et\n"
+1589: "captat eam cum unguibus suis acutis."
+
+14 - Wurmple
+1592: "Adhaerescit ad ramos arboribus et edit\n"
+1593: "folia. Filum, quod ex ore suo spuit, et\n"
+1594: "quod cum aera tangit viscosum fit, impedit\n"
+1595: "movimentum hostium."
+
+15 - Silcoon
+1598: "Praeparat pro evolutione utens energiam,\n"
+1599: "quam collegit quando erat WURMPLE.\n"
+1600: "Advigilat super circumiecto oculis duobus\n"
+1601: "suis."
+
+16 - Beautifly
+1604: "Alae luculente coloratae qualitas eius\n" 
+1605: "prominulior sunt. Volat super agris\n"
+1606: "flosculis copertis colligens cerinthum.\n"
+1607: "Impetit vehementer cum turbatur."
+
+17 - Cascoon
+1610: "Ut evitet detergendum inimicis, se\n"
+1611: "abscondit immobilis sub foliis magnis et\n"
+1612: "in rimis ramorum. Etiam folia mortua ad\n"
+1613: "corpus suum adhaeret pro dissimulatione."
+
+18 - Dustox
+1616: "POKéMON nocturnus, qui volat ex agris et\n" 
+1617: "montibus in illecebram lucum viarum nocte.\n"
+1618: "Stillat ab alis suis pulveres valde\n"
+1619: "toxicos."
+
+19 - Lotad
+1622: "Hic POKéMON in lacibus aqua munda vivit.\n"
+1623: "Scitur ferre POKéMON parvos trans lacos\n"
+1624: "vehendo eos super folio lato in capite.\n"
+1625: "In terra ambulat si quaerit aquam mundam."
+
+20 - Lombre
+1628: "Vespere delectatur absultando ex flumine\n"
+1629: "et terrendo homines. Pascit muscum\n"
+1630: "aquaticum crescentem super lapidibus in\n"
+1631: "ima fluminibus."
+
+21 - Ludicolo
+1634: "Cum musicam sollemnem audit, cellula omnis\n"
+1635: "corpore eius suscitantur, et coepit movere\n"
+1636: "rhythmo. Non labascit etiamsi stat versus\n"
+1637: "oppositionem robustam."
+
+22 - Seedot
+1640: "Pendit ab ramis et absorbet nutrimenta.\n"
+1641: "Cibo consummato corpus eius tam grave fit,\n"
+1642: "ut cadat ex arbore in solum percussione\n"
+1643: "sonora audito."
+
+23 - Nuzleaf
+1646: "POKéMON habitans in silva est peritus\n"
+1647: "scadendi arbores. Nares eius longae et\n"
+1648: "acres sunt vulnus eius. Vim perdit si\n"
+1649: "nares capiuntur."
+
+24 - Shiftry
+1652: "Dicitur advenire ventis gelidis\n"
+1653: "hiemalibus. Terretur antiquitus ut custos\n"
+1654: "salvarum, POKéMON habitat in silvis\n"
+1655: "umbrosis ubi homines non ingrediuntur."
+
+25 - Taillow
+1658: "Etiamsi parvus, per animosus est.\n"  
+1659: "SKARMORY maiorem aequum confligit.\n"
+1660: "Nihilminus, animus eius exhauritur si\n"
+1661: "esurivit."
+
+26 - Swellow
+1664: "SWELLOW in praedam a caelo excelso\n"
+1665: "involat. Numquam scopos non invenit.\n"
+1666: "Volat per caelum quaerens regiones climate\n"
+1667: "calido."
+
+27 - Wingull
+1670: "Nidum in rupi proclives facit apud oram\n"
+1671: "maris. Ei difficile est perseverare alas\n"
+1672: "plodendas in volatu. In loco, assurgitur\n"
+1673: "per ventos ascendentes."
+
+28 - Pelipper
+1676: "Volans perlabitur super undas. Cum\n"
+1677: "invenit praedam, becco magno excipit\n"
+1678: "victimam simul aquam. Ovos suos custodit\n"
+1679: "cum becco suo."
+
+29 - Ralts
+1682: "RALTS vim habet sentire temperamenta\n"
+1683: "hominum et POKéMON cum cornu capitis sui.\n"
+1684: "Quaerit occultationem si sentit\n"
+1685: "hostilitatem quampiam."
+
+30 - Kirlia
+1688: "KIRLIA vim mentis utitur scindere\n"
+1689: "dimensiones et spicere quandocumque ad\n"
+1690: "futurum. Saltare iucunditate matutinis\n"
+1691: "apricis dicitur.");
+
+31 - Gardevoir 
+1694: "Videtur non sentire trahendum\n"
+1695: "gravitationis quia semetipsum supportat\n"
+1696: "vi mentis. Vitam suam propriam donaret ut\n"
+1697: "protegat TRAHITOREM suum.");
+
+32 - Surski
 1700: "They gather on puddles after evening\n"
 1701: "downpours, gliding across the surface\n"
 1702: "of water as if sliding. It secretes honey\n"
 1703: "with a sweet aroma from its head.");
+
+33 - Masquerain
 1706: "It intimidates foes with the large eyelike\n"
 1707: "patterns on its antennae. Because it can't\n"
 1708: "fly if its wings get wet, it shelters itself\n"
 1709: "from rain under large trees and eaves.");
+
+34 - SHROOMISH
 1712: "It loves to eat damp, composted soil in\n"
 1713: "forests. If you enter a forest after a\n"
 1714: "long rain, you can see many SHROOMISH\n"
 1715: "feasting on composted soil.");
+
+35 - Breloom
 1718: "It scatters spores from holes in the cap\n"
 1719: "on its head. It loves warm and humid\n"
 1720: "climates. It feeds on trees and plants in\n"
 1721: "fields and forests.");
+
+36 - Slakoth
 1724: "It sleeps virtually all day and night long.\n"
 1725: "It doesn't change its nest its entire life,\n"
 1726: "but it sometimes travels great distances\n"
 1727: "by swimming in rivers.");
+
+37 - Vigoroth
 1730: "It can't keep still because its blood boils\n"
 1731: "with energy. It runs through the fields\n"
 1732: "and mountains all day to calm itself. If it\n"
 1733: "doesn't, it can't sleep at night.");
+
+38 - Slaking
 1736: "Hordes of SLAKING gather around trees\n"
 1737: "when fruits come into season. They wait\n"
 1738: "around patiently for ripened fruits to fall\n"
 1739: "out of the trees.");
+
+39 - Nincada
 1742: "It makes its nest at the roots of a mighty\n"
 1743: "tree. Using its whiskerlike antennae, it\n"
 1744: "probes its surroundings in the\n"
 1745: "pitch-black darkness of soil.");
+
+40 - Ninjask
 1748: "Because it darts about vigorously at high\n"
 1749: "speed, it is very difficult to see. Hearing\n"
 1750: "its distinctive cries for too long induces\n"
 1751: "a headache.");
+
+41 - Shedinja
 1754: "A peculiar POKéMON that floats in air even\n"
 1755: "though its wings remain completely still.\n"
 1756: "The inside of its body is hollow and\n"
 1757: "utterly dark.");
+
+42 - Whismur
 1760: "Its cries equal a jet plane in volume.\n"
 1761: "It inhales through its ear canals. Because\n"
 1762: "of this system, it can cry continually\n"
 1763: "without having to catch its breath.");
+
+43 - Loudred
 1766: "It positions the round speakers on its\n"
 1767: "head to assail foes with ultrasonic waves\n"
 1768: "at massive volume. It builds power by\n"
 1769: "stomping the ground.");
+
+44 - Exploud
 1772: "It has sound-generating organs all over\n"
 1773: "its body. It communicates with others by\n"
 1774: "adjusting the tone and volume of the cries\n"
 1775: "it emits.");
+
+45 - Makuhita
 1778: "It loves to toughen up its body above all\n"
 1779: "else. If you hear quaking rumbles in a cave,\n"
 1780: "it is the sound of MAKUHITA undertaking\n"
 1781: "strenuous training.");
+
+46 - Hariyama
 1784: "It has the habit of challenging others\n"
 1785: "without hesitation to tests of strength.\n"
 1786: "It's been known to stand on train tracks\n"
 1787: "and stop trains using forearm thrusts.");
+
+47 - Azurill
 1790: "Its tail, which is packed with nutrition,\n"
 1791: "is very bouncy like a rubber ball. On sunny\n"
 1792: "days they gather at the edge of water and\n"
 1793: "splash about for fun.");
+
+48 - Nosepass
 1796: "Its body emits a powerful magnetism.\n"
 1797: "It feeds on prey that is pulled in by the\n"
 1798: "force. Its magnetism is stronger in cold\n"
 1799: "seasons.");
+
+49 - Skitty
 1802: "A SKITTY's adorably cute behavior makes it\n"
 1803: "highly popular. In battle, it makes its tail\n"
 1804: "puff out. It threatens foes with a sharp\n"
 1805: "growl.");
+
+50 - Delcatty
 1808: "Rather than keeping a permanent lair,\n"
 1809: "it habitually seeks comfortable spots and\n"
 1810: "sleeps there. It is nocturnal and becomes\n"

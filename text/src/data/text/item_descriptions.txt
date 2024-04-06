@@ -1,208 +1,301 @@
-2: "?????");
-6: "The best BALL that\n"
-7: "catches a POKéMON\n"
-8: "without fail.");
-11: "A better BALL with\n"
-12: "a higher catch rate\n"
-13: "than a GREAT BALL.");
-16: "A good BALL with a\n"
-17: "higher catch rate\n"
-18: "than a POKé BALL.");
-21: "A tool used for\n"
-22: "catching wild\n"
-23: "POKéMON.");
+2: "?????"
+
+MASTER BALL
+6:   "BALL optimus qui\n"
+7:   "POKéMON capit\n"
+8:   "sine defectu."
+
+      |===================|
+ULTRA BALL
+11:   "Melior est et altior\n"
+12:   "proportione capiendi\n"
+13:   "quam GREAT BALL."
+
+GREAT BALL
+16:   "Bonus est et altior\n"
+17:   "proportione capiendi\n"
+18:   "quam POKé BALL.");
+
+POKE BALL
+21:   "Est instrumentum\n"
+22:   "capiendi POKéMON\n"
+23:   "silvestres.");
+
+
 26: "A special BALL that\n"
 27: "is used only in the\n"
 28: "SAFARI ZONE.");
+
+
 31: "A BALL that works\n"
 32: "well on WATER- and\n"
 33: "BUG-type POKéMON.");
+
+
 36: "A BALL that works\n"
 37: "better on POKéMON\n"
 38: "on the ocean floor.");
+
+
 41: "A BALL that works\n"
 42: "better on weaker\n"
 43: "POKéMON.");
+
+
 46: "A BALL that works\n"
 47: "better on POKéMON\n"
 48: "caught before.");
+
+
 51: "A BALL that gains\n"
 52: "power in battles\n"
 53: "taking many turns.");
+
+
 56: "A cozy BALL that\n"
 57: "makes POKéMON\n"
 58: "more friendly.");
+
+
 61: "A rare BALL made\n"
 62: "in commemoration\n"
 63: "of some event.");
-67: "Restores the HP of\n"
-68: "a POKéMON by\n"
-69: "20 points.");
-72: "Heals a poisoned\n"
-73: "POKéMON.");
-76: "Heals POKéMON\n"
-77: "of a burn.");
-80: "Defrosts a frozen\n"
-81: "POKéMON.");
-84: "Awakens a sleeping\n"
-85: "POKéMON.");
-88: "Heals a paralyzed\n"
-89: "POKéMON.");
-92: "Fully restores the\n"
-93: "HP and status of a\n"
-94: "POKéMON.");
-97: "Fully restores the\n"
-98: "HP of a POKéMON.");
-101: "Restores the HP of\n"
-102: "a POKéMON by\n"
-103: "200 points.");
-106: "Restores the HP of\n"
-107: "a POKéMON by\n"
-108: "50 points.");
-111: "Heals all the\n"
-112: "status problems of\n"
-113: "one POKéMON.");
-116: "Revives a fainted\n"
-117: "POKéMON with half\n"
-118: "its HP.");
-121: "Revives a fainted\n"
-122: "POKéMON with all\n"
-123: "its HP.");
-126: "A mineral water\n"
-127: "that restores HP\n"
-128: "by 50 points.");
-131: "A fizzy soda drink\n"
-132: "that restores HP\n"
-133: "by 60 points.");
-136: "A very sweet drink\n"
-137: "that restores HP\n"
-138: "by 80 points.");
-141: "A nutritious milk\n"
-142: "that restores HP\n"
-143: "by 100 points.");
-146: "A bitter powder\n"
-147: "that restores HP\n"
-148: "by 50 points.");
-151: "A bitter root\n"
-152: "that restores HP\n"
-153: "by 200 points.");
-156: "A bitter powder\n"
-157: "that heals all\n"
-158: "status problems.");
-161: "A very bitter herb\n"
-162: "that revives a\n"
-163: "fainted POKéMON.");
-166: "Restores the PP\n"
-167: "of a selected move\n"
-168: "by 10.");
-171: "Fully restores the\n"
-172: "PP of a selected\n"
-173: "move.");
-176: "Restores the PP\n"
-177: "of all moves by 10.");
-180: "Fully restores the\n"
-181: "PP of a POKéMON's\n"
-182: "moves.");
-185: "A local specialty\n"
-186: "that heals all\n"
-187: "status problems.");
-190: "A glass flute that\n"
-191: "awakens sleeping\n"
-192: "POKéMON.");
-195: "A glass flute that\n"
-196: "snaps POKéMON\n"
-197: "out of confusion.");
-200: "A glass flute that\n"
-201: "snaps POKéMON\n"
-202: "out of attraction.");
-205: "A glass flute that\n"
-206: "keeps away wild\n"
-207: "POKéMON.");
-210: "A glass flute that\n"
-211: "lures wild POKéMON.");
-214: "A 100% pure juice\n"
-215: "that restores HP\n"
-216: "by 20 points.");
-219: "Fully revives and\n"
-220: "restores all\n"
-221: "fainted POKéMON.");
-225: "Salt obtained from\n"
-226: "deep inside the\n"
-227: "SHOAL CAVE.");
-230: "A seashell found\n"
-231: "deep inside the\n"
-232: "SHOAL CAVE.");
-235: "A shard from an\n"
-236: "ancient item. Can\n"
-237: "be sold cheaply.");
-240: "A shard from an\n"
-241: "ancient item. Can\n"
-242: "be sold cheaply.");
-245: "A shard from an\n"
-246: "ancient item. Can\n"
-247: "be sold cheaply.");
-250: "A shard from an\n"
-251: "ancient item. Can\n"
-252: "be sold cheaply.");
-256: "Raises the base HP\n"
-257: "of one POKéMON.");
-260: "Raises the base\n"
-261: "ATTACK stat of one\n"
-262: "POKéMON.");
-265: "Raises the base\n"
-266: "DEFENSE stat of\n"
-267: "one POKéMON.");
-270: "Raises the base\n"
-271: "SPEED stat of one\n"
-272: "POKéMON.");
-275: "Raises the base\n"
-276: "SP. ATK stat of one\n"
-277: "POKéMON.");
-280: "Raises the level\n"
-281: "of a POKéMON by\n"
-282: "one.");
-285: "Raises the maximum\n"
-286: "PP of a selected\n"
-287: "move.");
-290: "Raises the base\n"
-291: "SP. DEF stat of one\n"
-292: "POKéMON.");
-295: "Raises the PP of a\n"
-296: "move to its maximum\n"
-297: "points.");
-301: "Prevents stat\n"
-302: "reduction when\n"
-303: "used in battle.");
-306: "Raises the\n"
-307: "critical-hit ratio\n"
-308: "during one battle.");
-311: "Raises the stat\n"
-312: "ATTACK during one\n"
-313: "battle.");
-316: "Raises the stat\n"
-317: "DEFENSE during one\n"
-318: "battle.");
-321: "Raises the stat\n"
-322: "SPEED during one\n"
-323: "battle.");
-326: "Raises accuracy\n"
-327: "of attack moves\n"
-328: "during one battle.");
-331: "Raises the stat\n"
-332: "SP. ATK during one\n"
-333: "battle.");
-336: "Use to flee from\n"
-337: "any battle with\n"
-338: "a wild POKéMON.");
-341: "Use to flee from\n"
-342: "any battle with\n"
-343: "a wild POKéMON.");
-347: "Repels weak wild\n"
-348: "POKéMON for 200\n"
-349: "steps.");
-352: "Repels weak wild\n"
-353: "POKéMON for 250\n"
-354: "steps.");
+
+POTION
+67:   "Restaurat SL\n"
+68:   "unius POKéMON per\n"
+69:   "20 puncta."
+
+72:   "Sanat POKéMON\n"
+73:   "venenatum."
+
+76:   "Sanat POKéMON\n"
+77:   "ardentem."
+
+80:   "Regelat POKéMON\n"
+81:   "gelatum."
+
+84:   "Expergit POKéMON\n"
+85:   "dormientum."
+
+88:   "Sanat a POKéMON\n"
+89:   "paralysim."
+
+92:   "Restaurat plene\n"
+93:   "SL et statum\n"
+94:   "unius POKéMON."
+
+97:   "Restaurat plena\n"
+98:   "SL unius POKéMON."
+
+101:  "Restaurat SL\n"
+102:  "unius POKéMON per\n"
+103:  "200 puncta."
+
+106:  "Restaurat SL\n"
+107:  "unius POKéMON per\n"
+108:  "50 puncta."
+
+111:  "Sanat omnes\n"
+112:  "anomalias status\n"
+113:  "unius POKéMON."
+
+116:  "Revivescit POKéMON\n"
+117:  "casum ad dimidium\n"
+118:  "SL eius."
+
+      |===================|
+121:  "Revivescit POKéMON\n"
+122:  "casum implens\n"
+123:  "SL eius plene."
+
+126:  "Aqua minerali\n"
+127:  "quae restaurat SL\n"
+128:  "per 50 puncta."
+
+131:  "Mulsa carbonata\n"
+132:  "quae restaurat SL\n"
+133:  "per 60 puncta."
+
+136:  "Potio dulcissima\n"
+137:  "quae restaurat SL\n"
+138:  "per 80 points."
+
+141:  "Lac nutrimentosum\n"
+142:  "quod restaurat SL\n"
+143:  "per 100 puncta."
+
+146:  "Pulvis amarus\n"
+147:  "qui restaurat SL\n"
+148:  "per 50 puncta.");
+
+151:  "Radix amara\n"
+152:  "quae restaurat SL\n"
+153:  "per 200 puncta."
+
+156:  "Pulvis amarus\n"
+157:  "qui sanat omnes\n"
+158:  "anomalias status."
+
+      |===================|
+161:  "Herba amarissima\n"
+162:  "quae revivescit unum\n"
+163:  "POKéMON casum."
+
+166:  "Restaurat PP\n"
+167:  "motus selecti\n"
+168:  "per 10."
+
+171:  "Restaurat plene\n"
+172:  "PP unius motus\n"
+173:  "selecti."
+
+176:  "Restaurat PP omnium\n"
+177:  "motuum per 10."
+
+180:  "Restaurat plene\n"
+181:  "PP motus unius\n"
+182:  "POKéMON."
+
+185:  "Specialitas localis\n"
+186:  "quae munda omnes\n"
+187:  "anomalias status."
+
+190:  "Tibia vitrea quae\n"
+191:  "expergit POKéMON\n"
+192:  "dormientem."
+
+195:  "Tibia vitrea quae\n"
+196:  "liberat POKéMON\n"
+197:  "ab conturbatione."
+
+200:  "Tibia vitrea quae\n"
+201:  "liberat POKéMON\n"
+202:  "ab illecebra."
+
+205:  "Tibia vitrea quae\n"
+206:  "arcet POKéMON\n"
+207:  "silvestres."
+
+      |===================|
+210:  "Tibia vitrea quae\n"
+211:  "illicit POKéMON\n"
+      "silvestres." !!!!!!!!!! have to add manually!!!!!!
+
+214:  "Succus 100% purus\n"
+215:  "qui restaurat SL\n"
+216:  "per 20 puncta."
+
+219:  "Revivescit plene et\n"
+220:  "restaurat omnes\n"
+221:  "POKéMON casos."
+
+225:  "Sal extractus ab\n"
+226:  "profunditate abyssi\n"
+227:  "SPELUNCAE VADI."
+
+230:  "Concha invenita in\n"
+231:  "profunditate abyssi\n"
+232:  "SPELUNCAE VADI."
+
+235:  "Testa facta ex\n"
+236:  "res antiqua. Potest\n"
+237:  "vendi parvo."
+
+240:  "Testa facta ex\n"
+241:  "res antiqua. Potest\n"
+242:  "vendi parvo."
+
+245:  "Testa facta ex\n"
+246:  "res antiqua. Potest\n"
+247:  "vendi parvo."
+
+250:  "Testa facta ex\n"
+251:  "res antiqua. Potest\n"
+252:  "vendi parvo."
+
+256:  "Auget SL naturale\n"
+257:  "unius POKéMON."
+
+      |===================|
+260:  "Auget IMPETUM\n"
+261:  "naturalem unius\n"
+262:  "POKéMON."
+
+265:  "Auget DEFENSIONEM\n"
+266:  "naturalem unius\n"
+267:  "POKéMON."
+
+270:  "Auget CELERITATEM\n"
+271:  "naturalem unius\n"
+272:  "POKéMON."
+
+275:  "Auget IMP SP.\n"
+276:  "naturalem unius\n"
+277:  "POKéMON."
+
+280:  "Auget gradum\n"
+281:  "unius POKéMON\n"
+282:  "per unum."
+
+285:  "Auget tectum PP\n"
+286:  "unius motus\n"
+287:  "selecti."
+
+290:  "Auget DEF SP.\n"
+291:  "naturalem unius\n"
+292:  "POKéMON."
+
+295:  "Auget PP unius\n"
+296:  "motus ad maximam\n"
+297:  "possibilem."
+
+      |===================|
+301:  "Prohibet certamine\n"
+302:  "subductionem\n"
+303:  "staterarum."
+
+306:  "Auget proportionem\n"
+307:  "ictus crisimi\n"
+308:  "per unum certamen."
+
+311:  "Auget stateram\n"
+312:  "IMPETI per unum\n"
+313:  "certamen."
+
+      |===================|
+316:  "Auget stateram\n"
+317:  "DEFENSIONIS per\n"
+318:  "unum certamen."
+
+321:  "Auget stateram\n"
+322:  "CELERITATEM per\n"
+323:  "unum certamen."
+
+326:  "Auget accurationem\n"
+327:  "motuum impetendi\n"
+328:  "per unum certamen."
+
+331:  "Auget stateram\n"
+332:  "IMP SP. per unum\n"
+333:  "certamen."
+
+336:  "Utere fugere ex\n"
+337:  "quolibet certamine\n"
+338:  "cum POKéMON."
+
+341:  "Utere fugere ex\n"
+342:  "quolibet certamine\n"
+343:  "cum POKéMON."
+      |===================|
+347:  "Repellit POKéMON\n"
+348:  "infirmos silvestres\n"
+349:  "per 200 passi."
+
+352:  "Repellit POKéMON\n"
+353:  "infirmossilvestres\n"
+354:  "per 250 passi."
+
 357: "Use to escape\n"
 358: "instantly from a\n"
 359: "cave or a dungeon.");
