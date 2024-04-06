@@ -20,7 +20,7 @@ def extract_quoted_text(line):
     number = line.find(":")
     first_quote_index = line.find('"')
     second_quote_index = line.find('"', first_quote_index + 1)
-    if first_quote_index != -1 and second_quote_index != -1:
+    if first_quote_index != -1 and second_quote_index != -1 and number != -1:
         # Extract the text between the first and second quotation marks
         return (int(line[:number]), line[first_quote_index + 1:second_quote_index])
     else:
