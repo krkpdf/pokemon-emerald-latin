@@ -40,7 +40,7 @@
 383:  "Cum rebus valde onustus es.\n"
 384:  "Tibi hoc MAGNUM BALL non possum dare.$"
 387:  "Una copia POKéMON cepi!\p"
-388:  .string "Go, go, go!\n" ???????
+388:  "Ita, ita, ita!\n" ???????
 389:  "Manus meum CIMICUM!$"
 392:  "Tantos POKéMON habeo,\n"
 393:  "tamen vincere non potui…$"

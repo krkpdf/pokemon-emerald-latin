@@ -1,3 +1,3 @@
-19: .string "DEVON CORPORATION's workers live in\n"
-20: .string "this building.$"
-23: .string "SKITTY: Gyaaaah!$"
+19:   "Opifices SOCIETATIS DEVON in hac\n"
+20:   "insula habitant.$"
+23:   "SKITTY: Gyaaaah!$"

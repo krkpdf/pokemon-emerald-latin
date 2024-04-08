@@ -1,4 +1,4 @@
-13: .string "DEVON's PRESIDENT likes to collect\n"
-14: .string "rare stones.$"
-17: .string "I think the PRESIDENT's son also\n"
-18: .string "collects rare stones.$"
+13:   "PRAEFECTUM DEVON lapides raros\n"
+14:   "colligere delectatur.$"
+17:   "Puto puerum PRAEFECTI etiam\n"
+18:   "lapides raros colligere.$"

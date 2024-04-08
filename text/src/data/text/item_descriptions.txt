@@ -5,15 +5,16 @@ MASTER BALL
 7:   "POKéMON capit\n"
 8:   "sine defectu."
 
+
       |===================|
 ULTRA BALL
-11:   "Melior est et altior\n"
-12:   "proportione capiendi\n"
+11:   "Habet proportione\n"
+12:   "altior capiendi\n"
 13:   "quam GREAT BALL."
 
 GREAT BALL
-16:   "Bonus est et altior\n"
-17:   "proportione capiendi\n"
+16:   "Habet proportione\n"
+17:   "altior capiendi\n"
 18:   "quam POKé BALL.");
 
 POKE BALL
@@ -139,8 +140,8 @@ POTION
 
       |===================|
 161:  "Herba amarissima\n"
-162:  "quae revivescit unum\n"
-163:  "POKéMON casum."
+162:  "quae revivescit\n"
+163:  "unum POKéMON casum."
 
 166:  "Restaurat PP\n"
 167:  "motus selecti\n"
@@ -150,6 +151,7 @@ POTION
 172:  "PP unius motus\n"
 173:  "selecti."
 
+      |===================|
 176:  "Restaurat PP omnium\n"
 177:  "motuum per 10."
 

@@ -1,6 +1,6 @@
 1145: "PATER: Hm?\p"
 1146: "Hah, {PLAYER}, postremo advenisti!\n"
-1147: "Immigrationem tuam perfecisti, nonne?\p"
+1147: "Commigrationem tuam perfecisti, nonne?\p"
 1148: "Miror te capacem esse pervenire ad\n"
 1149: "locum hoc per te ipsum.\p"
 1150: "O, prehendo.\n"

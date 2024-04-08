@@ -10,7 +10,7 @@
 1014: "silvestrem primum.\p"
 1015: "Facilior capere erit si fuit venenatus,\n"
 1016: "coctilis, vel sopitus.$"
-1019: "Fur est si conaris furari ab aliquo\n"
+1019: "Fur es si conaris furari ab aliquo\n"
 1020: "istius POKéMON.\p"
 1021: "Licet solum iacere POKé BALLS versus\n"
 1022: "POKéMON silvestres.$"
