@@ -28,7 +28,7 @@
 337:  .name = _("REVIVESCOSUS"),
 350:  .name = _("AQUA FRIGIDA"),
 364:  .name = _("MULSA SPUMNS"),
-378:  .nfame = _("LEMONADA"),
+378:  .name = _("LEMONADA"),
 392:  .name = _("MOOMOO LAC"),
 406:  .name = _("PULVIS VIS"),
 419:  .name = _("RADIX VIS"),
