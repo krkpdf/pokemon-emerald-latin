@@ -30,7 +30,7 @@
 137:  "Primum, egrediemur CASTRUM AQUARUM.$"
 140:  "DOM MURIAEUS: Ahoy!\n"
 141:  "Scio omnia, quae dicere vis!\p"
-142:  "Opus est tibi NAUAR. PUPPI in CASTRI
+142:  "Opus est tibi NAUAR. PUPPII in CASTRI
 143:  "AQUARUM sarcinam dare.\p"
 144:  "Quid a me faciendum indiges, non ulla\n"
 145:  "problema est - Pro opere rectus sum!\p"

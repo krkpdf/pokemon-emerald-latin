@@ -250,9 +250,9 @@
 281:  "Reverte ad\n{STR_VAR_1}."
 282:  "RES"
 283:  "POKé BALL"
-284:  "TMs & HMs"
+284:  "ML & MA"
 285:  "BACCAE"
-286:  "RES SUMMAE"
+286:  "RES CLAVE"
 297: const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
 298: const u8 gText_NumberItem_HM[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
 299: const u8 gText_SizeSlash[] = _("SIZE /");
@@ -654,16 +654,16 @@
 698: const u8 gText_Cute2[] = _("CUTE");
 699: const u8 gText_Smart2[] = _("SMART");
 700: const u8 gText_Tough2[] = _("TOUGH");
-701: const u8 gText_Items[] = _("RES");
-702: const u8 gText_Key_Items[] = _("RES SUMMAE");
+701:  "RES"
+702:  "RES SUMMAE"
 703: const u8 gText_Poke_Balls[] = _("POKé BALLS");
-704: const u8 gText_TMs_Hms[] = _("TMs & HMs");
-705: const u8 gText_Berries2[] = _("BACCAE");
-706: const u8 gText_SomeonesPC[] = _("PC ALICUIUS");
-707: const u8 gText_LanettesPC[] = _("PC IANETTAE");
+704:  "ML & MA"
+705:  "BACCAE"
+706:  "PC ALICUIUS"
+707:  "PC IANETTAE"
 708: const u8 gText_PlayersPC[] = _("PC {PLAYER}");
-709: const u8 gText_HallOfFame[] = _("VIA VICTORUM");
-710: const u8 gText_LogOff[] = _("DISCONNECTE");
+709:  "VIA VICTORUM"
+710:  "DISCONNECTE"
 711: const u8 gText_Opponent[] = _("OPPONENT");
 712: const u8 gText_Tourney_Tree[] = _("TOURNEY TREE");
 713: const u8 gText_ReadyToStart[] = _("READY TO START");

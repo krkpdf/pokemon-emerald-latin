@@ -1,5 +1,5 @@
 25:   "Pridem diebus verteribus, erat enim\n"
-26:   "modo societas parva parvulaque DEVON.$"
+26:   "modo DEVON societas parva parvulaque.$"
 29:   "Pater meus pro SOCIETAS laborat.\p"
 30:   "Papa meus hoc fecit!\n"
 31:   "Sed non possum uti, igitur accipias!$"
