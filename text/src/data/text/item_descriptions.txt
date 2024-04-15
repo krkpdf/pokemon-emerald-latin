@@ -227,7 +227,7 @@ POTION
 265:  "Auget DEFENSIONEM\n"
 266:  "naturalem unius\n"
 267:  "POKéMON."
-
+      |===================|
 270:  "Auget CELERITATEM\n"
 271:  "naturalem unius\n"
 272:  "POKéMON."
@@ -520,9 +520,12 @@ POTION
 727: "A hold item that\n"
 728: "promotes growth,\n"
 729: "but reduces SPEED.");
-732: "A hold item that\n"
-733: "gets EXP. points\n"
-734: "from battles.");
+
+      |===================|
+732:  "Res habendam, quae\n"
+733:  "puncta PER. ab\n"
+734:  "certamine meretur.");
+
 737: "A hold item that\n"
 738: "occasionally allows\n"
 739: "the first strike.");
@@ -683,18 +686,26 @@ POTION
 1001: "The best fishing\n"
 1002: "rod for catching\n"
 1003: "wild POKéMON.");
-1006: "The ticket required\n"
-1007: "for sailing on a\n"
-1008: "ferry.");
+
+      |===================|
+1006: "Tessera necessaria\n"
+1007: "ad navigandum in\n"
+1008: "portitore."
+
 1011: "The pass required\n"
 1012: "for entering\n"
 1013: "POKéMON CONTESTS.");
-1016: "A tool used for\n"
-1017: "watering BERRIES\n"
-1018: "and plants.");
-1021: "A package that\n"
-1022: "contains DEVON's\n"
-1023: "machine parts.");
+
+      |===================|
+1016: "Usa ad irrigandum\n"
+1017: "BACCARUM et\n"
+1018: "herbarum est."
+
+      |===================|
+1021: "Fasciculus, qui\n"
+1022: "continet machinae\n"
+1023: "partes DEVON."
+
 1026: "A sack used to\n"
 1027: "gather and hold\n"
 1028: "volcanic ash.");
@@ -707,9 +718,12 @@ POTION
 1041: "A case for holding\n"
 1042: "{POKEBLOCK}S made with\n"
 1043: "a BERRY BLENDER.");
-1046: "A letter to STEVEN\n"
-1047: "from the PRESIDENT\n"
-1048: "of the DEVON CORP.");
+
+      |===================|
+1046: "Epistola PRAEFECTI\n"
+1047: "SOCIETATIS DEVON\n"
+1048: "ad AURELIUM"
+
 1051: "The ticket for a\n"
 1052: "ferry to a distant\n"
 1053: "southern island.");

@@ -272,7 +272,8 @@
 3225: .name = _("S.S. TICKET"),
 3237: .name = _("CONTEST PASS"),
 3249: .name = _("????????"),
-3260: .name = _("WAILMER PAIL"),
+                |============|
+3260: .name = _("HAMA WAILMER"),
 3272: .name = _("DEVON GOODS"),
 3284: .name = _("SOOT SACK"),
 3296: .name = _("BASEMENT KEY"),

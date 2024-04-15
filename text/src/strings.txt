@@ -252,7 +252,7 @@
 283:  "POKé BALL"
 284:  "ML & MA"
 285:  "BACCAE"
-286:  "RES CLAVE"
+286:  "CARDINES"
 297: const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
 298: const u8 gText_NumberItem_HM[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
 299: const u8 gText_SizeSlash[] = _("SIZE /");
