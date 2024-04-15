@@ -48,7 +48,7 @@
 1096: "Autem si certa INSIGNIA GYMNUM\n"
 1097: "non habes, fortasse non te audiet…$"
 1100: "Redi hinc!\n"
-1101: .string "Out of the way!$"
+1101: "Egredere ab me!$"
 1104: "Mane! Peetttooooo!\p"
 1105: "Non cape MERCES meas!$"
 1108: "Oh, es tu!\p"
