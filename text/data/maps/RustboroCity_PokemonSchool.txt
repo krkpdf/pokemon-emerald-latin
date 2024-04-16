@@ -79,7 +79,7 @@
 311:  "Imprimis quaero, ut inveniam expertus\n"
 312:  "certaminum POKéMON.\p"
 313:  "Tunc, quid te ad SCHOLAM hanc misit?\n"
-314:  "TRAINER est, etiamne?\p"
+314:  "TRAHITOR est, etiamne?\p"
 315:  "Primum, quid tibi faciendum est, est\n"
 316:  "POKéMON motum SCISSIONIS doceri.\p"
 317:  "Si recte memini, quidam in oppido\n"
