@@ -526,9 +526,10 @@ POTION
 733:  "puncta PER. ab\n"
 734:  "certamine meretur.");
 
-737: "A hold item that\n"
-738: "occasionally allows\n"
-739: "the first strike.");
+737:  "Res habendam, quae\n"
+738:  "interdum permittit\n"
+739:  "illisum priorem."
+
 742: "A hold item that\n"
 743: "calms spirits and\n"
 744: "fosters friendship.");

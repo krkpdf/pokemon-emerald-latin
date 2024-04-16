@@ -186,7 +186,7 @@
 2201: .name = _("WHITE HERB"),
 2213: .name = _("MACHO BRACE"),
 2225: .name = _("EXP. SHARE"),
-2237: .name = _("QUICK CLAW"),
+2237: .name = _("UNGUIS CELER"),
 2250: .name = _("SOOTHE BELL"),
 2262: .name = _("MENTAL HERB"),
 2274: .name = _("CHOICE BAND"),
