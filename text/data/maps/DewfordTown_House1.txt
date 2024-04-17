@@ -5,5 +5,5 @@
 29:   "ubi maritum meum hunc nupsi.\p"
 30:   "Vita lente in hac insula parva\n"
 31:   "progreditur. Sed esse cinctum per\l"
-32:   "mare pulcherrimum -- hoc est deatitudo.$"
+32:   "mare pulcherrimum -- hoc est beatitudo.$"
 35:   "ZIGZAGOON: Guguuh!$"
