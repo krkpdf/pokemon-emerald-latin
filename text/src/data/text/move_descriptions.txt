@@ -293,8 +293,10 @@
 586: "confuse the foe.");
 589: "Scatters a cloud of spores\n"
 590: "that always induce sleep.");
-593: "Looses a powerful blast of\n"
-594: "light that cuts accuracy.");
+
+593: "Emittit flatum luminis\n"
+594: "quod accurationem caedit."
+
 597: "Attacks with a psychic\n"
 598: "wave of varying intensity.");
 601: "It's just a splash...\n"

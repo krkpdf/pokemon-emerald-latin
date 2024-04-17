@@ -295,7 +295,7 @@ POTION
 349:  "per 200 passi."
 
 352:  "Repellit POKéMON\n"
-353:  "infirmossilvestres\n"
+353:  "infirmos silvestres\n"
 354:  "per 250 passi."
 
 357: "Use to escape\n"
@@ -596,9 +596,12 @@ POTION
 847: "A hold item that\n"
 848: "raises the power of\n"
 849: "GRASS-type moves.");
-852: "A hold item that\n"
-853: "raises the power of\n"
-854: "DARK-type moves.");
+
+      |===================|
+852:  "Res habendam, quae\n"
+853:  "vim motus typi\n"
+854:  "NOCTE auget."
+
 857: "A hold item that\n"
 858: "boosts FIGHTING-\n"
 859: "type moves.");
@@ -629,9 +632,11 @@ POTION
 902: "A hold item that\n"
 903: "raises the power of\n"
 904: "DRAGON-type moves.");
-907: "A hold item that\n"
-908: "raises the power of\n"
-909: "NORMAL-type moves.");
+
+907: "Res habendam, quae\n"
+908: "vim motus typi\n"
+909: "SOLITO auget."
+
 912: "A peculiar box made\n"
 913: "by SILPH CO.");
 916: "A hold item that\n"
@@ -678,15 +683,19 @@ POTION
 986: "A device that\n"
 987: "signals an invisible\n"
 988: "item by sound.");
-991: "Use by any body of\n"
-992: "water to fish for\n"
-993: "wild POKéMON.");
-996: "A decent fishing\n"
-997: "rod for catching\n"
-998: "wild POKéMON.");
-1001: "The best fishing\n"
-1002: "rod for catching\n"
-1003: "wild POKéMON.");
+
+      |===================|
+991:  "Utere apud aquam,\n"
+992:  "ut pisceris POKéMON\n"
+993:  "silvestres."
+
+996:  "Virga piscandi\n"
+997:  "decens ob capiendum\n"
+998:  "POKéMON silvestres."
+
+1001: "Virga piscandi\n"
+1002: "optima ob capiendum\n"
+1003: "POKéMON silvestres."
 
       |===================|
 1006: "Tessera necessaria\n"
