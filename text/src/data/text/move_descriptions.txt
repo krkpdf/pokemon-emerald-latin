@@ -421,8 +421,10 @@
 838: "may paralyze the foe.");
 841: "An attack that intensifies\n"
 842: "on each successive hit.");
-845: "Strikes the foe with hard\n"
-846: "wings spread wide.");
+
+845:  "Ferit inimicum cum alis\n"
+846:  "robustis obtentis late."
+
 849: "Fixes the foe with a mean\n"
 850: "look that prevents escape.");
 853: "Makes the opposite gender\n"
