@@ -9,7 +9,7 @@
 492:  "DOM. MURIAEUS: Ita CASTRUM AQUARUM est!\p"
 493:  "Sursum anchoras!\n"
 494:  "PEECA, solvimus navim, amasiuncula!$"
-497:  "DOM. MURIAEUS: Tunc i ferque MERCES\n"
+497:  "DOM. MURIAEUS: Tunc i tradeque MERCES\n"
 498:  "DEVON. Expectabo.$"
 501:  "DOM. MURIAEUS: Ahoy! Invenimus terram\n"
 502:  "in PORTU SAXEO!\p"
