@@ -61,7 +61,7 @@
 740:  "Tibi bucellam indiciorum piscandi dabo.\p"
 741:  "Primum, est necesse aquam adspicere,\n"
 742:  "tunc VIRGA utere.\p"
-743:  "Paca mentem tuam…\n"
+743:  "Animadverte…\n"
 744:  "Si morderi sentis, VIRGAM carpe.\p"
 745:  "Nonnumquam potes aliquod continuo\n"
 746:  "arripere, at captura enim maiore,\l"

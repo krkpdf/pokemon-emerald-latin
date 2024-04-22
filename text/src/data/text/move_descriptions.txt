@@ -375,10 +375,13 @@
 746: "look. May cause confusion.");
 749: "Maximizes ATTACK while\n"
 750: "sacrificing HP.");
-753: "Sludge is hurled to inflict\n"
-754: "damage. May also poison.");
-757: "Iacit limum in faciem hostis\n"
-758: "minuere accurationem.");
+
+753:  "Pituita iactatur inflictum\n"
+754:  "damnum. Potest venenare."
+
+757:  "Iacit limum in faciem hostis\n"
+758:  "minuere accurationem."
+
 761: "Fires a lump of ink to\n"
 762: "damage and cut accuracy.");
 765: "Sets spikes that hurt a \n"
