@@ -682,8 +682,10 @@
 1350: "claws.");
 1353: "Powerful, but leaves the\n"
 1354: "user immobile the next turn.");
-1357: "Bulks up the body to boost\n"
-1358: "both ATTACK and DEFENSE.");
+
+1357: "Crassificat se ob levandum\n"
+1358: "ambo IMPETUM et DEFENSIONEM.");
+
 1361: "Bounces up, then down the\n"
 1362: "next turn. May paralyze.");
 1365: "Hurls mud at the foe and\n"
