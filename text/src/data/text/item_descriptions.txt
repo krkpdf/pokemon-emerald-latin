@@ -554,12 +554,15 @@ POTION
 777: "Hold item: raises\n"
 778: "SP. ATK & SP. DEF of\n"
 779: "LATIOS & LATIAS.");
-782: "A hold item that\n"
-783: "raises the SP. ATK\n"
-784: "of CLAMPERL.");
-787: "A hold item that\n"
-788: "raises the SP. DEF\n"
-789: "of CLAMPERL.");
+
+782: "Res habendam, quae\n"
+783: "IMP SP. CLAMPERL\n"
+784: "auget."
+
+787: "Res habendam, quae\n"
+788: "DEF SP. CLAMPERL\n"
+789: "auget."
+
 792: "A hold item that\n"
 793: "assures fleeing\n"
 794: "from wild POKéMON.");
@@ -743,9 +746,11 @@ POTION
 1061: "A blue, glowing orb\n"
 1062: "said to contain an\n"
 1063: "ancient power.");
-1066: "A device found\n"
-1067: "inside the\n"
-1068: "ABANDONED SHIP.");
+
+1066: "Instrumentum intra\n"
+1067: "NAVIM PERDITAM\n"
+1068: "inventum."
+
 1071: "Nifty goggles that\n"
 1072: "protect eyes from\n"
 1073: "desert sandstorms.");

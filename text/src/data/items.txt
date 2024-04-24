@@ -23,7 +23,7 @@
 297:   "POTIO SUPER"
 311:   "SANA TOTUM"
 324:   "REVIVESCOR"
-337:    "REVIVESCOSUS"
+337:   "REVIVESCOSUS"
 350:   "AQUA FRIGIDA"
 364:   "MULSA SPUMNS"
 378:   "LEMONADA"
@@ -37,7 +37,7 @@
 486:   "ELIXIR"
 500:   "MAX ELIXIR"
 514:   "CRUSTULUMLVA"
-527:   "TIBIACAERLEA"
+527:   "TIBIA CRULEA"
 540:   "TIBIA FLAVA"
 553:   "TIBIA RUBRA"
 566:   "TIBIA NIGRA"
@@ -190,8 +190,10 @@
 2312: .name = _("AMULET COIN"),
 2325: .name = _("CLEANSE TAG"),
 2337: .name = _("SOUL DEW"),
-2349: .name = _("DEEPSEATOOTH"),
-2361: .name = _("DEEPSEASCALE"),
+
+2349: "ABYSSE DENS"
+2361: "ABYSSE SQAMA"
+
 2373: .name = _("SMOKE BALL"),
 2385: .name = _("EVERSTONE"),
 2397: .name = _("FOCUS BAND"),
@@ -280,7 +282,7 @@
 3347: .name = _("EON TICKET"),
 3360: .name = _("RED ORB"),
 3372: .name = _("BLUE ORB"),
-3384: .name = _("SCANNER"),
+3384:  "SCANSORIUM"
 3396: .name = _("GO-GOGGLES"),
 3408: .name = _("METEORITE"),
 3420: .name = _("RM. 1 KEY"),

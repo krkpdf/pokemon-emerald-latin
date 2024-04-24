@@ -586,8 +586,10 @@
 1158: "move the target uses next.");
 1161: "An attack with effects\n"
 1162: "that vary by location.");
-1165: "Dives underwater the first\n"
-1166: "turn and strikes next turn.");
+
+1165: "Urinatur sub aquam primo\n"
+1166: "vice et in proximo icit."
+
 1169: "Straight-arm punches that\n"
 1170: "strike the foe 2 to 5 times.");
 1173: "Alters the POKéMON's type\n"
