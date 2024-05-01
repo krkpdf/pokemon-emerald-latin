@@ -11,7 +11,7 @@
 80:   "O! Id istic…\n"
 81:   "Suntne MERCES DEVON?\p"
 82:   "Sed, hmm…\n"
-83:   .string "This won't do…\p"
+83:   "Non sufficiet…\p"
 84:   "NAUAR. PUPPIUS aliquo exiit.\n"
 85:   "Fatus est eum habere opus faciendum.\p"
 86:   "Possimne facere, ut eas inventum NAUAR.\n"

@@ -107,8 +107,8 @@
 214: "may inflict a burn.");
 217: "Creates a mist that stops\n"
 218: "reduction of abilities.");
-221: "Spuit aquam vulnerare\n"
-222: "hostem.");
+221:  "Spuit aquam ob vulnerandum\n"
+222:  "hostem."
 225: "Blasts water at high power\n"
 226: "to strike the foe.");
 229: "Creates a huge wave, then\n"
@@ -251,8 +251,10 @@
 502: "May cause flinching.");
 505: "Incinerates everything it\n"
 506: "strikes. May cause a burn.");
-509: "Charges the foe with speed\n"
-510: "to climb waterfalls.");
+
+509:  "Impetit tanta velocitate,\n"
+510:  "ut cataractam scandat."
+
 513: "Traps and squeezes the\n"
 514: "foe for 2 to 5 turns.");
 517: "Sprays star-shaped rays\n"
@@ -504,8 +506,10 @@
 994: "strike 2 turns later.");
 997: "A rock-crushing attack\n"
 998: "that may lower DEFENSE.");
-1001: "Traps and hurts the foe in\n"
-1002: "a whirlpool for 2 to 5 turns.");
+
+1001: "Irretit et laedit inimicum\n"
+1002: "in vortice 2 an 5 vices."
+
 1005: "Summons party POKéMON to\n"
 1006: "join in the attack.");
 1009: "A 1st-turn, 1st-strike move\n"
